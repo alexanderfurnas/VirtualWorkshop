@@ -13,10 +13,6 @@ We will try to match up discussants with papers based on subject area expertise 
 
 To make sure that participants can review all of the papers in the workshop in advance, we will collect and circulate the papers one week in advance.
 
-### Submit
-To apply to present please use the following google form:[link button]
-
-To volunteer to be a discussant please use the following google form: [link button]
 
 ### When
 The first workshop will take place Wednesday, September 30 from 2-4pm EST. We are hoping people will stick around afterwards for a networking happy hour. Our plan is to hold one workshop a month, on the last Wednesday of each month.
