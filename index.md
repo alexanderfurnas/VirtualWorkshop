@@ -24,11 +24,11 @@ The first workshop will take place Wednesday, September 30 from 2-4pm EST. We ar
 Please reach out to any one of the selection committee with any comments or questions!
 
 -Austin Bussing (University of North Carolina-Chapel Hill)
--Zander Furnas (Northwestern University)
--Christina Ladam (University of Nevada-Reno)
--Josh McCrain (Michigan State University)
--David Miller (Vanderbilt University)
--Rachel Porter (University of North Carolina-Chapel Hill)
+- Zander Furnas (Northwestern University)
+- Christina Ladam (University of Nevada-Reno)
+- Josh McCrain (Michigan State University)
+- David Miller (Vanderbilt University)
+- Rachel Porter (University of North Carolina-Chapel Hill)
 
 You can use the [editor on GitHub](https://github.com/alexanderfurnas/VirtualWorkshop/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
