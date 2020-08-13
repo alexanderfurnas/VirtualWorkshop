@@ -21,47 +21,16 @@ To volunteer to be a discussant please use the following google form: [link butt
 ### When
 The first workshop will take place Wednesday, September 30 from 2-4pm EST. We are hoping people will stick around afterwards for a networking happy hour. Our plan is to hold one workshop a month, on the last Wednesday of each month.
 
-Please reach out to any one of the selection committee with any comments or questions!
+### Submit
+To apply to present please use the following google form:[link button]
 
--Austin Bussing (University of North Carolina-Chapel Hill)
+To volunteer to be a discussant please use the following google form: [link button]
+
+Please reach out to any one of the organizing committee with any comments or questions!
+
+- Austin Bussing (University of North Carolina-Chapel Hill)
 - Zander Furnas (Northwestern University)
 - Christina Ladam (University of Nevada-Reno)
 - Josh McCrain (Michigan State University)
 - David Miller (Vanderbilt University)
 - Rachel Porter (University of North Carolina-Chapel Hill)
-
-You can use the [editor on GitHub](https://github.com/alexanderfurnas/VirtualWorkshop/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/alexanderfurnas/VirtualWorkshop/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
