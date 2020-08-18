@@ -18,9 +18,9 @@ To make sure that participants can review all of the papers in the workshop in a
 The first workshop will take place Wednesday, September 30 from 2-4pm EST. We are hoping people will stick around afterwards for a networking happy hour. Our plan is to hold one workshop a month, on the last Wednesday of each month.
 
 ### Submit
-To apply to present please use the following google form: [**Present your work!**](https://docs.google.com/forms/d/e/1FAIpQLSf8yJG3rA4JN4aHjEzMBj-t4NgmXXJfDJdZ5gRySJFiWgP8EQ/viewform)
+To apply to present please use the following google form: [*Present your work!*](https://docs.google.com/forms/d/e/1FAIpQLSf8yJG3rA4JN4aHjEzMBj-t4NgmXXJfDJdZ5gRySJFiWgP8EQ/viewform)
 
-To volunteer to be a discussant please use the following google form: [**Be a discussant!**](https://docs.google.com/forms/d/e/1FAIpQLSf8yJG3rA4JN4aHjEzMBj-t4NgmXXJfDJdZ5gRySJFiWgP8EQ/viewform)
+To volunteer to be a discussant please use the following google form: [*Be a discussant!*](https://docs.google.com/forms/d/e/1FAIpQLSf8yJG3rA4JN4aHjEzMBj-t4NgmXXJfDJdZ5gRySJFiWgP8EQ/viewform)
 
 Please reach out to any one of the organizing committee with any comments or questions!
 
