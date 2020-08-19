@@ -1,4 +1,4 @@
-# Junior Americanist Workship Series
+# Junior Americanist Workshop Series
 A new virtual workshop for American politics reseach in the pandemic age.
 
 ### Mission
