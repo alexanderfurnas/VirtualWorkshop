@@ -4,10 +4,12 @@ A new virtual workshop for American politics reseach in the pandemic age.
 ### Mission
 With the cancellation of conferences and seminar series due to COVID-19, we are starting a virtual workshop series, Junior Americanist Workship Series, to provide an alternative opportunity for junior scholars (ABD grad students, post docs, and any early career faculty) who study American politics (behavior or institutions) to present and get feedback on their work and to network with other scholars with similar interests.
 
-### Submit
+### Sign Up
 Use this google form to apply to present: [*Present your work!*](https://docs.google.com/forms/d/e/1FAIpQLSf8yJG3rA4JN4aHjEzMBj-t4NgmXXJfDJdZ5gRySJFiWgP8EQ/viewform)
 
 Use this google form to volunteer to discuss: [*Be a discussant!*](https://docs.google.com/forms/d/e/1FAIpQLSf8yJG3rA4JN4aHjEzMBj-t4NgmXXJfDJdZ5gRySJFiWgP8EQ/viewform)
+
+Use this google form to be added to our email list: [*Get our emails!*](https://docs.google.com/forms/d/e/1FAIpQLSc8Cvzg0jP9PknteLTqjnTz6H9Cmtz1Q8PGOrDxa_IZQ5xd_Q/viewform)
 
 ### Format
 The workshop will last 2 hours and consist of four 30 minute sessions -- one paper per session. The presenter will have 10 minutes for a brief presentation and the discussant will set up the following discussion with 5 minutes of comments (with full comments delivered later via email). We will strictly enforce timing in order to allow 15 minutes of feedback and open discussion from the rest of the participants. 
