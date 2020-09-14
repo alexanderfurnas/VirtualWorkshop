@@ -22,9 +22,20 @@ To make sure that participants can review all of the papers in the workshop in a
 
 
 ### When
-The first workshop will take place Wednesday, September 30 from 2-4pm EST. We are hoping people will stick around afterwards for a networking happy hour. Our plan is to hold one workshop a month, on the last Wednesday of each month.
+JAWS will be held the second and fourth of every month, 2-4pm Eastern time.
 
+### Schedule
+#### Representation: September 30th 
+- Presenter: Anna Gunderson, "Descriptive Representation and Prosecutorial Discretion: Do Black and Female Prosecutors Prosecute Differently?" (Discussant: Kelsey Shaub)
+- Presenter: Brian Hamel, "The Means Matter, Too: Policy and Economic Retrospective Voting in American National Elections" (Discussant: David Fortunato)
+- Presenter: Jaclyn Kaslovsky, "Delegate Rhetoric in Congress: Measuring Representative Orientation with Text" (Discussant: Jeremy Gelman)
+- Presenter: Zoe Nemerever, "Rural Representation Gaps in the American States" (Discussant: Justin de Benedictis-Kessner)
 
+#### Ideology and Partisanship: October 14th 
+- Presenter: Jon Kingzette, "Title TBD" (Discussant: Jenny Wolak)
+- Presenter: Chelsea Kaufman, "Ideological Constraint and Stability among Rural, Suburban, and Urban Americans" (Discussant: Yamil Velez)
+- Presenter: Lucas de Abreu Maia, "Consequences of Ideology: affective, attitudinal and Behavioral effects of ideological identification in the United States" (Discussant: Victoria Shineman)
+- Presenter: Baobao Zhang, "Americans' perceptions of privacy and surveillance in the COVID-19 Pandemic" (Discussant: Anand Edward Sokhey)
 
 Please reach out to any one of the organizing committee with any comments or questions!
 
