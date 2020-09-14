@@ -37,6 +37,7 @@ JAWS will be held the second and fourth of every month, 2-4pm Eastern time.
 - Presenter: Lucas de Abreu Maia, "Consequences of Ideology: affective, attitudinal and Behavioral effects of ideological identification in the United States" (Discussant: Victoria Shineman)
 - Presenter: Baobao Zhang, "Americans' perceptions of privacy and surveillance in the COVID-19 Pandemic" (Discussant: Anand Edward Sokhey)
 
+### Contact Us
 Please reach out to any one of the organizing committee with any comments or questions!
 
 - Austin Bussing (University of North Carolina-Chapel Hill)
