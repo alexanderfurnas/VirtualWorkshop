@@ -28,15 +28,15 @@ We will also be organizing networking opportunities in conjunction with our pane
 
 ## Schedule
 ### Representation: September 30th 
-### [*Register to Attend Workshop*](https://vanderbilt.zoom.us/meeting/register/tJIrcOiqqDojHtFyAvI9-pAI-aVcKf3Tlrvq)
-### [*Register to Attend Trivia Night*](https://vanderbilt.zoom.us/meeting/register/tJIudOqtrDkiGd182uu_X3J5GR5BaruLHvsZ) (8PM ET)
+#### [*Register to Attend Workshop*](https://vanderbilt.zoom.us/meeting/register/tJIrcOiqqDojHtFyAvI9-pAI-aVcKf3Tlrvq)
+#### [*Register to Attend Trivia Night*](https://vanderbilt.zoom.us/meeting/register/tJIudOqtrDkiGd182uu_X3J5GR5BaruLHvsZ) (8PM ET)
 - Presenter: Anna Gunderson, "Descriptive Representation and Prosecutorial Discretion: Do Black and Female Prosecutors Prosecute Differently?" (Discussant: Kelsey Shaub)
 - Presenter: Brian Hamel, "The Means Matter, Too: Policy and Economic Retrospective Voting in American National Elections" (Discussant: David Fortunato)
 - Presenter: Jaclyn Kaslovsky, "Delegate Rhetoric in Congress: Measuring Representative Orientation with Text" (Discussant: Jeremy Gelman)
 - Presenter: Zoe Nemerever, "Rural Representation Gaps in the American States" (Discussant: Justin de Benedictis-Kessner)
 
 ### Ideology and Partisanship: October 14th 
-### [*Register to Attend Workshop*](https://vanderbilt.zoom.us/meeting/register/tJwpce6qqDguGdffHyAIq9HKvvI8-H_D0ZWt)
+#### [*Register to Attend Workshop*](https://vanderbilt.zoom.us/meeting/register/tJwpce6qqDguGdffHyAIq9HKvvI8-H_D0ZWt)
 - Presenter: Jon Kingzette, "Title TBD" (Discussant: Jenny Wolak)
 - Presenter: Chelsea Kaufman, "Ideological Constraint and Stability among Rural, Suburban, and Urban Americans" (Discussant: Yamil Velez)
 - Presenter: Lucas de Abreu Maia, "Consequences of Ideology: affective, attitudinal and Behavioral effects of ideological identification in the United States" (Discussant: Victoria Shineman)
