@@ -30,8 +30,8 @@ We will also be organizing networking opportunities in conjunction with our pane
 ### Representation: September 30th 
 #### [*Register to Attend Workshop*](https://vanderbilt.zoom.us/meeting/register/tJIrcOiqqDojHtFyAvI9-pAI-aVcKf3Tlrvq)
 #### [*Register to Attend Trivia Night*](https://vanderbilt.zoom.us/meeting/register/tJIudOqtrDkiGd182uu_X3J5GR5BaruLHvsZ) (8PM ET)
-- Presenter: Anna Gunderson, "Descriptive Representation and Prosecutorial Discretion: Do Black and Female Prosecutors Prosecute Differently?" (Discussant: Kelsey Shoub)
-- Presenter: Brian Hamel, "The Means Matter, Too: Policy and Economic Retrospective Voting in American National Elections" (Discussant: David Fortunato)
+- Presenter: Anna Gunderson, "[Descriptive Representation and Prosecutorial Discretion: Do Black and Female Prosecutors Prosecute Differently?](https://drive.google.com/file/d/11FYewF8AzFV6OC8VKZbQwUe0UloCXvIU/view?usp=sharing)" (Discussant: Kelsey Shoub)
+- Presenter: Brian Hamel, "[The Means Matter, Too: Policy and Economic Retrospective Voting in American National Elections](https://drive.google.com/file/d/1jylzdIvCckLZBbk-9RIXr2Mspym1ODOs/view?usp=sharing)" (Discussant: David Fortunato)
 - Presenter: Jaclyn Kaslovsky, "Delegate Rhetoric in Congress: Measuring Representative Orientation with Text" (Discussant: Jeremy Gelman)
 - Presenter: Zoe Nemerever, "Rural Representation Gaps in the American States" (Discussant: Justin de Benedictis-Kessner)
 
