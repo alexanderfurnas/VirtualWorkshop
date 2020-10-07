@@ -36,8 +36,8 @@ We will also be organizing networking opportunities in conjunction with our pane
 ### Ideology and Partisanship: October 14th 
 #### [*Register to Attend Workshop*](https://vanderbilt.zoom.us/meeting/register/tJwpce6qqDguGdffHyAIq9HKvvI8-H_D0ZWt)
 - Presenter: Jon Kingzette, "[In-party Love and Out-party Hate](https://drive.google.com/file/d/1aXndd6gPdVMCqyi4kMDsy44iuh7P6brR/view?usp=sharing)" (Discussant: Jenny Wolak)
-- Presenter: Chelsea Kaufman, "Ideological Constraint and Stability among Rural, Suburban, and Urban Americans" (Discussant: Yamil Velez)
-- Presenter: Lucas de Abreu Maia, "Consequences of Ideology: affective, attitudinal and Behavioral effects of ideological identification in the United States" (Discussant: Victoria Shineman)
+- Presenter: Chelsea Kaufman, "[Ideological Constraint and Stability among Rural, Suburban, and Urban Americans](https://drive.google.com/file/d/1pf_W5M9Odl0HbErDTQ-1P8Uq3GbsNHsa/view?usp=sharing)" (Discussant: Yamil Velez)
+- Presenter: Lucas de Abreu Maia, "[Consequences of Ideology: affective, attitudinal and Behavioral effects of ideological identification in the United States](https://drive.google.com/file/d/1rFEInUbCQTIGM8484ujNUJIUP5i48SNQ/view?usp=sharing)" (Discussant: Victoria Shineman)
 - Presenter: Baobao Zhang, "Americans' perceptions of privacy and surveillance in the COVID-19 Pandemic" (Discussant: Anand Edward Sokhey)
 
 ### Media Effects/Information Effects: October 28th 
