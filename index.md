@@ -40,12 +40,12 @@ We will also be organizing networking opportunities in conjunction with our pane
 - Presenter: Lucas de Abreu Maia, "Consequences of Ideology: affective, attitudinal and Behavioral effects of ideological identification in the United States" (Discussant: Victoria Shineman)
 - Presenter: Baobao Zhang, "Americans' perceptions of privacy and surveillance in the COVID-19 Pandemic" (Discussant: Anand Edward Sokhey)
 
-### Text as Data: October 28th 
+### Media Effects/Information Effects: October 28th 
 #### [*Register to Attend Workshop*](https://vanderbilt.zoom.us/meeting/register/tJEpfuGurjstG9E9Y3bZcCrieUvRW7QciBEz)
-- Presenter: Elliott Ash, "Media slant is contagious"
-- Presenter: Jon Green, "Belief Systems in Theory and Practice: Evidence from Political Pundits"
-- Presenter: Joshua Yoshio Lerner, "Setting the Committee Agenda: Measuring  Speaker Influence in Congressional Hearings"
-- Presenter: Will Marble, "Responsiveness in a Polarized Era: How Local Economic Conditions Structure Campaign Rhetoric"
+- Presenter: Elliott Ash, "Media slant is contagious" (Discussant: Eunji Kim)
+- Presenter: Jon Green, "Belief Systems in Theory and Practice: Evidence from Political Pundits" (Discussant: Hans Noel)
+- Presenter: Melissa Baker, Dispositional Traits and Susceptibility to Political Anxiety" (Discussant: Steve Utych)
+- Presenter: E.J. Fagan, "The development of partisan knowledge regimes in the United States" (Discussant: Mike Olson)
 
 ## Contact Us
 Please reach out to any one of the organizing committee with any comments or questions!
