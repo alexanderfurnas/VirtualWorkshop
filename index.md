@@ -28,8 +28,6 @@ We will also be organizing networking opportunities in conjunction with our pane
 
 ## Schedule
 ### Representation: September 30th 
-#### [*Register to Attend Workshop*](https://vanderbilt.zoom.us/meeting/register/tJIrcOiqqDojHtFyAvI9-pAI-aVcKf3Tlrvq)
-#### [*Register to Attend Trivia Night*](https://vanderbilt.zoom.us/meeting/register/tJIudOqtrDkiGd182uu_X3J5GR5BaruLHvsZ) (8PM ET)
 - Presenter: Anna Gunderson, "[Descriptive Representation and Prosecutorial Discretion: Do Black and Female Prosecutors Prosecute Differently?](https://drive.google.com/file/d/11FYewF8AzFV6OC8VKZbQwUe0UloCXvIU/view?usp=sharing)" (Discussant: Kelsey Shoub)
 - Presenter: Brian Hamel, "[The Means Matter, Too: Policy and Economic Retrospective Voting in American National Elections](https://drive.google.com/file/d/1jylzdIvCckLZBbk-9RIXr2Mspym1ODOs/view?usp=sharing)" (Discussant: David Fortunato)
 - Presenter: Jaclyn Kaslovsky, "Delegate Rhetoric in Congress: Measuring Representative Orientation with Text" (Discussant: Jeremy Gelman)
@@ -43,7 +41,7 @@ We will also be organizing networking opportunities in conjunction with our pane
 - Presenter: Baobao Zhang, "Americans' perceptions of privacy and surveillance in the COVID-19 Pandemic" (Discussant: Anand Edward Sokhey)
 
 ### Text as Data: October 28th 
-[comment]: # #### [*Register to Attend Workshop*](https://vanderbilt.zoom.us/meeting/register/tJwpce6qqDguGdffHyAIq9HKvvI8-H_D0ZWt)
+#### [*Register to Attend Workshop*](https://vanderbilt.zoom.us/meeting/register/tJEpfuGurjstG9E9Y3bZcCrieUvRW7QciBEz)
 - Presenter: Elliott Ash, "Media slant is contagious"
 - Presenter: Jon Green, "Belief Systems in Theory and Practice: Evidence from Political Pundits"
 - Presenter: Joshua Yoshio Lerner, "Setting the Committee Agenda: Measuring  Speaker Influence in Congressional Hearings"
