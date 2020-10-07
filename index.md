@@ -37,10 +37,17 @@ We will also be organizing networking opportunities in conjunction with our pane
 
 ### Ideology and Partisanship: October 14th 
 #### [*Register to Attend Workshop*](https://vanderbilt.zoom.us/meeting/register/tJwpce6qqDguGdffHyAIq9HKvvI8-H_D0ZWt)
-- Presenter: Jon Kingzette, "Title TBD" (Discussant: Jenny Wolak)
+- Presenter: Jon Kingzette, "In-party Love and Out-party Hate" (Discussant: Jenny Wolak)
 - Presenter: Chelsea Kaufman, "Ideological Constraint and Stability among Rural, Suburban, and Urban Americans" (Discussant: Yamil Velez)
 - Presenter: Lucas de Abreu Maia, "Consequences of Ideology: affective, attitudinal and Behavioral effects of ideological identification in the United States" (Discussant: Victoria Shineman)
 - Presenter: Baobao Zhang, "Americans' perceptions of privacy and surveillance in the COVID-19 Pandemic" (Discussant: Anand Edward Sokhey)
+
+### Text as Data: October 28th 
+[comment]: # #### [*Register to Attend Workshop*](https://vanderbilt.zoom.us/meeting/register/tJwpce6qqDguGdffHyAIq9HKvvI8-H_D0ZWt)
+- Presenter: Elliott Ash, "Media slant is contagious"
+- Presenter: Jon Green, "Belief Systems in Theory and Practice: Evidence from Political Pundits"
+- Presenter: Joshua Yoshio Lerner, "Setting the Committee Agenda: Measuring  Speaker Influence in Congressional Hearings"
+- Presenter: Will Marble, "Responsiveness in a Polarized Era: How Local Economic Conditions Structure Campaign Rhetoric"
 
 ## Contact Us
 Please reach out to any one of the organizing committee with any comments or questions!
