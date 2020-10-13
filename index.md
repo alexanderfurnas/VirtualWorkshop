@@ -47,6 +47,12 @@ We will also be organizing networking opportunities in conjunction with our pane
 - Presenter: Melissa Baker, Dispositional Traits and Susceptibility to Political Anxiety" (Discussant: Steve Utych)
 - Presenter: E.J. Fagan, "The development of partisan knowledge regimes in the United States" (Discussant: Mike Olson)
 
+### Identities in American Politics: November 11th 
+- Presenter: Rachel Bernhard, "The Silenced Text: Field Experiments on Gendered Experiences of Political Participation"
+- Presenter: Rita Nassar, "Humanitarian Frames and Americans' Attitudes toward Syrian Refugee Resettlement"
+- Presenter: Andrew Proctor, "The organizational and attitudinal roots of LGB political incorporation"
+- Presenter: Jasmine Noelle Yarish, "Quilted Nationalism: Black Feminism, Abolition Democracy, & W.E.B. Du Bois's COLOR & DEMOCRACY"
+
 ## Contact Us
 Please reach out to any one of the organizing committee with any comments or questions!
 
