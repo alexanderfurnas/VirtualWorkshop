@@ -44,7 +44,7 @@ We will also be organizing networking opportunities in conjunction with our pane
 #### [*Register to Attend Workshop*](https://vanderbilt.zoom.us/meeting/register/tJEpfuGurjstG9E9Y3bZcCrieUvRW7QciBEz)
 - Presenter: Elliott Ash, "[Media slant is contagious](https://drive.google.com/file/d/1IihvM7YLroHmi6IByoF8Ds35TfQWTUlL/view?usp=sharing)" (Discussant: Eunji Kim)
 - Presenter: Jon Green, "Belief Systems in Theory and Practice: Evidence from Political Pundits" (Discussant: Hans Noel)
-- Presenter: Melissa Baker, Dispositional Traits and Susceptibility to Political Anxiety" (Discussant: Steve Utych)
+- Presenter: Melissa Baker, "[Dispositional Traits and Susceptibility to Political Anxiety](https://drive.google.com/file/d/135rPRYqWFLsHYeqlS1U9G7Qfw4eStWQJ/view?usp=sharing)" (Discussant: Steve Utych)
 - Presenter: E.J. Fagan, "The development of partisan knowledge regimes in the United States" (Discussant: Mike Olson)
 
 ### Identities in American Politics: November 11th 
