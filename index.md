@@ -42,7 +42,7 @@ We will also be organizing networking opportunities in conjunction with our pane
 
 ### Media Effects/Information Effects: October 28th 
 #### [*Register to Attend Workshop*](https://vanderbilt.zoom.us/meeting/register/tJEpfuGurjstG9E9Y3bZcCrieUvRW7QciBEz)
-- Presenter: Elliott Ash, "Media slant is contagious" (Discussant: Eunji Kim)
+- Presenter: Elliott Ash, "[Media slant is contagious](https://drive.google.com/file/d/1IihvM7YLroHmi6IByoF8Ds35TfQWTUlL/view?usp=sharing)" (Discussant: Eunji Kim)
 - Presenter: Jon Green, "Belief Systems in Theory and Practice: Evidence from Political Pundits" (Discussant: Hans Noel)
 - Presenter: Melissa Baker, Dispositional Traits and Susceptibility to Political Anxiety" (Discussant: Steve Utych)
 - Presenter: E.J. Fagan, "The development of partisan knowledge regimes in the United States" (Discussant: Mike Olson)
