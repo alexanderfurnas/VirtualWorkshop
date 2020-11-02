@@ -55,7 +55,8 @@ We will also be organizing networking opportunities in conjunction with our pane
 - Presenter: Andrew Proctor, "The organizational and attitudinal roots of LGB political incorporation" (Discussant: Eric Hansen)
 - Presenter: Jasmine Noelle Yarish, "Quilted Nationalism: Black Feminism, Abolition Democracy, & W.E.B. Du Bois's COLOR & DEMOCRACY" (Discussant: Anna Daily)
 
-### Legislative Politics: November 11th 
+### Legislative Politics: December 2nd
+#### [*Register to Attend Workshop*](https://vanderbilt.zoom.us/meeting/register/tJUkf--sqzorGd0u0dYCHaC3i42yWUtEIffW)
 - Presenter: Nicholas Howard (Auburn University-Montgomery), "Agenda Control and Amendment Targets: The US Senate"
 - Presenter: Michael Kistner (Princeton), "Legislating or Electioneering? The Effect of Electoral Demands on Policy Productivity"
 - Presenter: Joshua Yoshio Lerner (Duke), "Setting the Committee Agenda: Measuring  Speaker Influence in Congressional Hearings"
