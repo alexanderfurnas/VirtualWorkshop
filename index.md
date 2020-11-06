@@ -50,10 +50,11 @@ We will also be organizing networking opportunities in conjunction with our pane
 
 ### Identities in American Politics: November 11th 
 #### [*Register to Attend Workshop*](https://vanderbilt.zoom.us/meeting/register/tJYkceirpjsuHdQVQvgnwiVXEmQSLbJwOlaM)
-- Presenter: Rachel Bernhard, "The Silenced Text: Field Experiments on Gendered Experiences of Political Participation" (Discussant: Mirya Holman)
-- Presenter: Rita Nassar, "Humanitarian Frames and Americans' Attitudes toward Syrian Refugee Resettlement" (Discussant: Nazita Lajevardi)
+- Presenter: Rachel Bernhard, "[The Silenced Text: Field Experiments on Gendered Experiences of Political Participation](https://drive.google.com/file/d/1gVh4lVsj8xJ-vzAX9iZBXPTDlqkRx8g7/view?usp=sharing)" (Discussant: Mirya Holman)
+- Presenter: Rita Nassar, "[Humanitarian Frames and Americans' Attitudes toward Syrian Refugee Resettlement](https://drive.google.com/file/d/16D80xWZI6gxs1gypCDiAhzm748Q5xHD_/view?usp=sharing)" (Discussant: Nazita Lajevardi)
 - Presenter: Andrew Proctor, "The organizational and attitudinal roots of LGB political incorporation" (Discussant: Eric Hansen)
-- Presenter: Jasmine Noelle Yarish, "Quilted Nationalism: Black Feminism, Abolition Democracy, & W.E.B. Du Bois's COLOR & DEMOCRACY" (Discussant: Anna Daily)
+- Presenter: Jasmine Noelle Yarish, "[Quilted Nationalism: Black Feminism, Abolition Democracy, & W.E.B. Du Bois's COLOR & DEMOCRACY](https://drive.google.com/file/d/1GogWztjv_dylffA4q7QAzzlRLgZVZjkZ/view?usp=sharing)" (Discussant: Anna Daily)
+
 
 ### Legislative Politics: December 2nd
 #### [*Register to Attend Workshop*](https://vanderbilt.zoom.us/meeting/register/tJUkf--sqzorGd0u0dYCHaC3i42yWUtEIffW)
