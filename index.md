@@ -60,7 +60,7 @@ We will also be organizing networking opportunities in conjunction with our pane
 #### [*Register to Attend Workshop*](https://vanderbilt.zoom.us/meeting/register/tJUkf--sqzorGd0u0dYCHaC3i42yWUtEIffW)
 - Presenter: Nicholas Howard, "Agenda Control and Amendment Targets: The US Senate" (Discussant: Molly Reynolds_
 - Presenter: Michael Kistner, "Legislating or Electioneering? The Effect of Electoral Demands on Policy Productivity" (Discussant: Christian Fong)
-- Presenter: Joshua Yoshio Lerner, "Setting the Committee Agenda: Measuring  Speaker Influence in Congressional Hearings" (Discussant: Justin Grimmer)
+- Presenter: Joshua Y. Lerner, "Setting the Committee Agenda: Measuring  Speaker Influence in Congressional Hearings" (Discussant: Justin Grimmer)
 - Presenter: Annelise Russell, "Tweeting Red: Angry Emotional Appeals in Congress" (Discussant: Kevin Munger)
 
 
