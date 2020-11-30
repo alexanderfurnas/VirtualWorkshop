@@ -58,10 +58,12 @@ We will also be organizing networking opportunities in conjunction with our pane
 
 ### Legislative Politics: December 2nd
 #### [*Register to Attend Workshop*](https://vanderbilt.zoom.us/meeting/register/tJUkf--sqzorGd0u0dYCHaC3i42yWUtEIffW)
-- Presenter: Nicholas Howard, "Agenda Control and Amendment Targets: The US Senate" (Discussant: Molly Reynolds_
-- Presenter: Michael Kistner, "Legislating or Electioneering? The Effect of Electoral Demands on Policy Productivity" (Discussant: Christian Fong)
-- Presenter: Joshua Y. Lerner, "Setting the Committee Agenda: Measuring  Speaker Influence in Congressional Hearings" (Discussant: Justin Grimmer)
-- Presenter: Annelise Russell, "Tweeting Red: Angry Emotional Appeals in Congress" (Discussant: Kevin Munger)
+- Presenter: Nicholas Howard, "[Agenda Control and Amendment Targets: The US Senate](https://drive.google.com/file/d/1VnLyp0YGpzWFvRSRgvRoLNsSlXRm5Bup/view?usp=sharing)" (Discussant: Molly Reynolds)
+- Presenter: Michael Kistner, "[Legislating or Electioneering? The Effect of Electoral Demands on Policy Productivity](https://drive.google.com/file/d/104VyXU1KYOaMApkjQPx69X96lnCaL1S7/view?usp=sharing)" (Discussant: Christian Fong)
+- Presenter: Joshua Y. Lerner, "[Setting the Committee Agenda: Measuring  Speaker Influence in Congressional Hearings](https://drive.google.com/file/d/1lgUqB0zTeaMkYyJ8ECJ65U5-tpgIpXWJ/view?usp=sharing)" (Discussant: Justin Grimmer)
+- Presenter: Annelise Russell, "[Tweeting Red: Angry Emotional Appeals in Congress](https://drive.google.com/file/d/1Aa65yb5sAa25nG89P64YiVnhsdxcUUZh/view?usp=sharing)" (Discussant: Kevin Munger)
+
+
 
 
 ## Contact Us
