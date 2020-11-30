@@ -63,6 +63,15 @@ We will also be organizing networking opportunities in conjunction with our pane
 - Presenter: Joshua Y. Lerner, "[Setting the Committee Agenda: Measuring  Speaker Influence in Congressional Hearings](https://drive.google.com/file/d/1lgUqB0zTeaMkYyJ8ECJ65U5-tpgIpXWJ/view?usp=sharing)" (Discussant: Justin Grimmer)
 - Presenter: Annelise Russell, "[Tweeting Red: Angry Emotional Appeals in Congress](https://drive.google.com/file/d/1Aa65yb5sAa25nG89P64YiVnhsdxcUUZh/view?usp=sharing)" (Discussant: Kevin Munger)
 
+### Legislative and Executive Politics: December 16th
+#### [*Register to Attend Workshop*](https://vanderbilt.zoom.us/meeting/register/tJUqd--upjIrH9V37_KZu1rNklSy3hZ0WHFA)
+#### [*Register to Holiday Trivia, 8pm ET*](https://vanderbilt.zoom.us/meeting/register/tJIsdOuhpj0vGtGcxZvlV07Dt7qpHD5cjyJN)
+
+
+- Presenter: Geoff Lorenz, "Drawing Better Lawmakers: Redistricting Institutions and Legislative Performance" (Discussant: Michael Crespin)
+- Presenter: Nico Napolio, "Executive Coalition Building" (Discussant: Alex Bolton)
+- Presenter: Erinn Lauterbach, "From Descriptive to Policy Representation: Lawmaking in the U.S. House of Representatives" (Discussant: Christina Wolbrecht)
+- Presenter: Leah Rosenstiel, “Congressional Bargaining and the Distribution of Grants” (Discussant: Christina Kinane)
 
 
 
