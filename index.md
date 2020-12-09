@@ -69,9 +69,9 @@ We will also be organizing networking opportunities in conjunction with our pane
 
 
 - Presenter: Geoff Lorenz, "Drawing Better Lawmakers: Redistricting Institutions and Legislative Performance" (Discussant: Michael Crespin)
-- Presenter: Nico Napolio, "Executive Coalition Building" (Discussant: Alex Bolton)
+- Presenter: Nico Napolio, "[Executive Coalition Building](https://drive.google.com/file/d/1mq-mI4mC-ZRejstjE8YJej2ze2uX401J/view?usp=sharing)" (Discussant: Alex Bolton)
 - Presenter: Erinn Lauterbach, "From Descriptive to Policy Representation: Lawmaking in the U.S. House of Representatives" (Discussant: Christina Wolbrecht)
-- Presenter: Leah Rosenstiel, “Congressional Bargaining and the Distribution of Grants” (Discussant: Christina Kinane)
+- Presenter: Leah Rosenstiel, “[Congressional Bargaining and the Distribution of Grants](https://drive.google.com/file/d/1GMw4-6NCkF1AmUSamkjp0NMS6unPet-7/view?usp=sharing)” (Discussant: Christina Kinane)
 
 
 
