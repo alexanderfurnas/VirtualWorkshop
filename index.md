@@ -73,6 +73,13 @@ We will also be organizing networking opportunities in conjunction with our pane
 - Presenter: Erinn Lauterbach, "[From Descriptive to Policy Representation: Lawmaking in the U.S. House of Representatives](https://drive.google.com/file/d/1LtRTu-vfSGpBhT2D3lQdoHcB_KsR7Mon/view?usp=sharing)" (Discussant: Christina Wolbrecht)
 - Presenter: Leah Rosenstiel, “[Congressional Bargaining and the Distribution of Grants](https://drive.google.com/file/d/1GMw4-6NCkF1AmUSamkjp0NMS6unPet-7/view?usp=sharing)” (Discussant: Christina Kinane)
 
+### Electoral Systems: January 13th
+
+- Presenter: Jesse Clark, "Electoral System Change in the United States" (Discussant: Jason Roberts)
+- Presenter: Shiro Kuriwaki, "Party Loyalty on the Long Ballot: Ticket Splitting in State and Local Elections in an Era of Nationalization"
+- Presenter: Karin Kitchens, "Understanding turnout at the local level using spatial data" (Discussant: Chinnu Parinandi)
+- Presenter: Victoria Shineman, "Voting in Ranked Choice Vote (RCV) Elections Improves Evaluations of RCV" (Discussant: Lee Drutman)
+
 
 
 ## Contact Us
