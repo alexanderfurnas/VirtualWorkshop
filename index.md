@@ -74,6 +74,7 @@ We will also be organizing networking opportunities in conjunction with our pane
 - Presenter: Leah Rosenstiel, “[Congressional Bargaining and the Distribution of Grants](https://drive.google.com/file/d/1GMw4-6NCkF1AmUSamkjp0NMS6unPet-7/view?usp=sharing)” (Discussant: Christina Kinane)
 
 ### Electoral Systems: January 13th
+#### [*Register to Attend Workshop*](https://vanderbilt.zoom.us/meeting/register/tJYkduCvrTMqEt013vMJtGQvzpJdtxCRQJDf)
 
 - Presenter: Jesse Clark, "Electoral System Change in the United States" (Discussant: Jason Roberts)
 - Presenter: Shiro Kuriwaki, "Party Loyalty on the Long Ballot: Ticket Splitting in State and Local Elections in an Era of Nationalization"
