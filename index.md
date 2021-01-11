@@ -81,8 +81,8 @@ We will also be organizing networking opportunities in conjunction with our pane
 #### [*Register to Attend Workshop*](https://vanderbilt.zoom.us/meeting/register/tJYkduCvrTMqEt013vMJtGQvzpJdtxCRQJDf)
 
 - Presenter: Jesse Clark, "Electoral System Change in the United States" (Discussant: Jason Roberts)
-- Presenter: Shiro Kuriwaki, "Party Loyalty on the Long Ballot: Ticket Splitting in State and Local Elections in an Era of Nationalization"
 - Presenter: Karin Kitchens, "Understanding turnout at the local level using spatial data" (Discussant: Chinnu Parinandi)
+- Presenter: Shiro Kuriwaki, "[Ticket Splitting in a Nationalized Era](https://osf.io/preprints/socarxiv/bvgz3/)" (Discussant: Barry Burden)
 - Presenter: Victoria Shineman, "Voting in Ranked Choice Vote (RCV) Elections Improves Evaluations of RCV" (Discussant: Lee Drutman)
 
 
