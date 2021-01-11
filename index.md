@@ -80,7 +80,7 @@ We will also be organizing networking opportunities in conjunction with our pane
 ### Electoral Systems: January 13th
 #### [*Register to Attend Workshop*](https://vanderbilt.zoom.us/meeting/register/tJYkduCvrTMqEt013vMJtGQvzpJdtxCRQJDf)
 
-- Presenter: Jesse Clark, "Electoral System Change in the United States" (Discussant: Jason Roberts)
+- Presenter: Jesse Clark, "[Electoral System Change in the United States](https://drive.google.com/file/d/1AFonttVo3Oe1P5ar3FO5f3X8TDGun7Qh/view?usp=sharing)" (Discussant: Jason Roberts)
 - Presenter: Karin Kitchens, "[Understanding turnout at the local level using spatial data](https://drive.google.com/file/d/1rEVd385Gfkp0NIoSiBoTVKZrY-DtMRvY/view?usp=sharing)" (Discussant: Chinnu Parinandi)
 - Presenter: Shiro Kuriwaki, "[Ticket Splitting in a Nationalized Era](https://osf.io/preprints/socarxiv/bvgz3/)" (Discussant: Barry Burden)
 - Presenter: Victoria Shineman, "Voting in Ranked Choice Vote (RCV) Elections Improves Evaluations of RCV" (Discussant: Lee Drutman)
