@@ -83,7 +83,7 @@ We will also be organizing networking opportunities in conjunction with our pane
 - Presenter: Jesse Clark, "[Electoral System Change in the United States](https://drive.google.com/file/d/1AFonttVo3Oe1P5ar3FO5f3X8TDGun7Qh/view?usp=sharing)" (Discussant: Jason Roberts)
 - Presenter: Karin Kitchens, "[Understanding turnout at the local level using spatial data](https://drive.google.com/file/d/1rEVd385Gfkp0NIoSiBoTVKZrY-DtMRvY/view?usp=sharing)" (Discussant: Chinnu Parinandi)
 - Presenter: Shiro Kuriwaki, "[Ticket Splitting in a Nationalized Era](https://osf.io/preprints/socarxiv/bvgz3/)" (Discussant: Barry Burden)
-- Presenter: Victoria Shineman, "Voting in Ranked Choice Vote (RCV) Elections Improves Evaluations of RCV" (Discussant: Lee Drutman)
+- Presenter: Victoria Shineman, "[Voting in Ranked Choice Vote (RCV) Elections Improves Evaluations of RCV]( https://drive.google.com/file/d/10ymrv8BWCiJgoVgDqMtQRNVkTAu0Hux6/view?usp=sharing)" (Discussant: Lee Drutman)
 
 
 
