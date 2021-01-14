@@ -9,9 +9,9 @@ With the cancellation of conferences and seminar series due to COVID-19, we are 
 <img src="teach_in_graphic_big2.jpg" alt="hi" class="inline"/>
 
 ## Sign Up
-Use this google form to apply to present: [*Present your work!*](https://docs.google.com/forms/d/e/1FAIpQLSdlfkxFPh8F7UNxT4dBLXTnV14jedj8_a37IDLE7A3OWpRuaw/viewform?usp=sf_link)
+Use this google form to apply to present: [*Present your work!*](https://docs.google.com/forms/d/e/1FAIpQLSdlfkxFPh8F7UNxT4dBLXTnV14jedj8_a37IDLE7A3OWpRuaw/viewform)
 
-Use this google form to volunteer to discuss: [*Be a discussant!*](https://docs.google.com/forms/d/e/1FAIpQLSf8yJG3rA4JN4aHjEzMBj-t4NgmXXJfDJdZ5gRySJFiWgP8EQ/viewform)
+Use this google form to volunteer to discuss: [*Be a discussant!*](https://docs.google.com/forms/d/e/1FAIpQLSdlfkxFPh8F7UNxT4dBLXTnV14jedj8_a37IDLE7A3OWpRuaw/viewform)
 
 Use this google form to be added to our email list: [*Get our emails!*](https://docs.google.com/forms/d/e/1FAIpQLSc8Cvzg0jP9PknteLTqjnTz6H9Cmtz1Q8PGOrDxa_IZQ5xd_Q/viewform)
 
