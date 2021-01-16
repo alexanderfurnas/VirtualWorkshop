@@ -4,10 +4,6 @@ A new virtual workshop for American politics reseach in the pandemic age.
 ## Mission
 With the cancellation of conferences and seminar series due to COVID-19, we are starting a virtual workshop series, Junior Americanist Workshop Series, to provide an alternative opportunity for junior scholars (ABD grad students, post docs, and any early career faculty) who study American politics (behavior or institutions) to present and get feedback on their work and to network with other scholars with similar interests.
 
-## Please join us for a Virtual Teach In, Thursday 1/14 at 6pm ET 
-### [*Register for the Teach In*](https://cornell.zoom.us/webinar/register/WN_XxO64zfES2CIS2f7EFVyDQ)
-<img src="teach_in_graphic_big2.jpg" alt="hi" class="inline"/>
-
 ## Sign Up
 Use this google form to apply to present: [*Present your work!*](https://docs.google.com/forms/d/e/1FAIpQLSdlfkxFPh8F7UNxT4dBLXTnV14jedj8_a37IDLE7A3OWpRuaw/viewform)
 
