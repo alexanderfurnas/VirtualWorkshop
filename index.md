@@ -26,7 +26,20 @@ JAWS will be held the second and fourth of every month, 2-4pm Eastern time.
 
 We will also be organizing networking opportunities in conjunction with our panels. For JAWS 1, we will offer a trivia game on Wednesday, September 30 starting at 8:00PM ET. Feel free to come with a team of your own or come alone and join forces with other JAWS participants!
 
-## Schedule
+## Contact Us
+Please reach out to any one of the organizing committee with any comments or questions!
+
+- Austin Bussing (University of North Carolina-Chapel Hill)
+- Zander Furnas (Northwestern University)
+- Christina Ladam (University of Nevada-Reno)
+- Josh McCrain (Michigan State University)
+- David Miller (Vanderbilt University)
+- Rachel Porter (University of North Carolina-Chapel Hill)
+
+## Spring Schedule
+Coming Soon!
+
+## Past Presentations 
 ### Representation: September 30th 
 - Presenter: Anna Gunderson, "[Descriptive Representation and Prosecutorial Discretion: Do Black and Female Prosecutors Prosecute Differently?](https://drive.google.com/file/d/11FYewF8AzFV6OC8VKZbQwUe0UloCXvIU/view?usp=sharing)" (Discussant: Kelsey Shoub)
 - Presenter: Brian Hamel, "[The Means Matter, Too: Policy and Economic Retrospective Voting in American National Elections](https://drive.google.com/file/d/1jylzdIvCckLZBbk-9RIXr2Mspym1ODOs/view?usp=sharing)" (Discussant: David Fortunato)
@@ -83,12 +96,4 @@ We will also be organizing networking opportunities in conjunction with our pane
 
 
 
-## Contact Us
-Please reach out to any one of the organizing committee with any comments or questions!
 
-- Austin Bussing (University of North Carolina-Chapel Hill)
-- Zander Furnas (Northwestern University)
-- Christina Ladam (University of Nevada-Reno)
-- Josh McCrain (Michigan State University)
-- David Miller (Vanderbilt University)
-- Rachel Porter (University of North Carolina-Chapel Hill)
