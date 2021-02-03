@@ -12,7 +12,7 @@ Use this google form to volunteer to discuss: [*Be a discussant!*](https://docs.
 Use this google form to be added to our email list: [*Get our emails!*](https://docs.google.com/forms/d/e/1FAIpQLSc8Cvzg0jP9PknteLTqjnTz6H9Cmtz1Q8PGOrDxa_IZQ5xd_Q/viewform)
 
 ## Format
-The workshop will last 2 hours and consist of four 30 minute sessions -- one paper per session. The presenter will have 10 minutes for a brief presentation and the discussant will set up the following discussion with 5 minutes of comments (with full comments delivered later via email). We will strictly enforce timing in order to allow 15 minutes of feedback and open discussion from the rest of the participants. 
+The workshop provides the opportunity for junior Americanist scholars to present their work and receive feedback. This term we are experimenting with a variety of formats, but each week will include at minimum two presentations, with individual discussions and questions to follow.
 
 In addition to article-length manuscripts, we also encourage the submission of well-developed pre-analysis plans and research designs.  Submissions may be solo-authored or collaborative; if the submission is collaborative, we will give preference to those with junior scholars as coauthors.
 
