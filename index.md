@@ -22,7 +22,7 @@ To make sure that participants can review all of the papers in the workshop in a
 
 
 ## When
-JAWS will be held the second and fourth of every month, 2-4pm Eastern time.
+JAWS will be held the first and third Wednesdays of every month, 2-4pm Eastern Time.
 
 We will also be organizing networking opportunities in conjunction with our panels. For JAWS 1, we will offer a trivia game on Wednesday, September 30 starting at 8:00PM ET. Feel free to come with a team of your own or come alone and join forces with other JAWS participants!
 
@@ -37,7 +37,9 @@ Please reach out to any one of the organizing committee with any comments or que
 - Rachel Porter (University of North Carolina-Chapel Hill)
 
 ## Spring Schedule
-Coming Soon!
+### Misinformation and Misperception: February 17th 
+Matt Graham, "Measuring Misperceptions?"
+Ian Shapiro, "Misinformation and the Public"
 
 ## Past Presentations 
 ### Representation: September 30th 
