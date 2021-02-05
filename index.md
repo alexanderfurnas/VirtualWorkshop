@@ -22,9 +22,8 @@ To make sure that participants can review all of the papers in the workshop in a
 
 
 ## When
-JAWS will be held the first and third Wednesdays of every month, 2-4pm Eastern Time.
+JAWS is held on (typically) alternating Wednesdays, 2-4pm Eastern Time.
 
-We will also be organizing networking opportunities in conjunction with our panels. For JAWS 1, we will offer a trivia game on Wednesday, September 30 starting at 8:00PM ET. Feel free to come with a team of your own or come alone and join forces with other JAWS participants!
 
 
 ## Spring Schedule
