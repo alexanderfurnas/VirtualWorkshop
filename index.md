@@ -26,6 +26,19 @@ JAWS will be held the first and third Wednesdays of every month, 2-4pm Eastern T
 
 We will also be organizing networking opportunities in conjunction with our panels. For JAWS 1, we will offer a trivia game on Wednesday, September 30 starting at 8:00PM ET. Feel free to come with a team of your own or come alone and join forces with other JAWS participants!
 
+
+## Spring Schedule
+### Misinformation and Misperception: February 17th from 2:00PM ET-3:30PM ET
+#### [*Register to Attend Workshop*](https://vanderbilt.zoom.us/meeting/register/tJIkcuuuqTwvGNcNs88uKh-ervhY1DwTRxQ5)
+- Presenter: Matt Graham, "Measuring Misperceptions?" (Discussant: Jennifer Jerit)
+- Presenter: Ian Shapiro, "Misinformation and the Public" (Discussant: Joanne Miller)
+
+
+### Computational Text Analysis in American Politics: March 10, 2021 from 2:00PM ET-3:30PM ET.
+#### [*Register to Attend Workshop*](https://vanderbilt.zoom.us/meeting/register/tJIqdu2qqzgqE9D0Pw07bEdxN2p6zFO2uDkl)
+- Presenter: Luca Bellodi, "Bureaucrats, Politicians, and the Strategic Use of Information" 
+- Presenter: Huyen Nguyen, "The (great) Persuasion Divide? Gender Disparities in Debate Speeches & Evaluations" 
+
 ## Contact Us
 Please reach out to any one of the organizing committee with any comments or questions!
 
@@ -35,11 +48,6 @@ Please reach out to any one of the organizing committee with any comments or que
 - Josh McCrain (Michigan State University)
 - David Miller (Vanderbilt University)
 - Rachel Porter (University of North Carolina-Chapel Hill)
-
-## Spring Schedule
-### Misinformation and Misperception: February 17th 
-Matt Graham, "Measuring Misperceptions?"
-Ian Shapiro, "Misinformation and the Public"
 
 ## Past Presentations 
 ### Representation: September 30th 
