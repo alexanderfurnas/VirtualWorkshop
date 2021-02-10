@@ -29,8 +29,8 @@ JAWS is held on (typically) alternating Wednesdays, 2-4pm Eastern Time.
 ## Spring Schedule
 ### Misinformation and Misperception: February 17th from 2:00PM ET-3:30PM ET
 #### [*Register to Attend Workshop*](https://vanderbilt.zoom.us/meeting/register/tJIkcuuuqTwvGNcNs88uKh-ervhY1DwTRxQ5)
-- Presenter: Matt Graham, "Measuring Misperceptions?" (Discussant: Jennifer Jerit)
-- Presenter: Ian Shapiro, "Misinformation and the Public" (Discussant: Joanne Miller)
+- Presenter: Matt Graham, "[Measuring Misperceptions](https://m-graham.com/papers/Graham_measuringMisperceptions.pdf)?" (Discussant: Jennifer Jerit)
+- Presenter: Ian Shapiro, "[Misinformation and the Public](https://drive.google.com/file/d/1OTnlQESg8R8NC9BOVb2eTDgN2Zj2DpbY/view?usp=sharing)" (Discussant: Joanne Miller)
 
 
 ### Computational Text Analysis in American Politics: March 10, 2021 from 2:00PM ET-3:30PM ET.
