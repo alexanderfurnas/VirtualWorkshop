@@ -43,9 +43,9 @@ This spring we will be holding several of professiomnal development panels in ad
 
 ### Public Scholarship: February 17th from 2:00PM ET-3:30PM ET
 #### [*Register to Attend Workshop*](https://vanderbilt.zoom.us/meeting/register/tJUrc-2rqj8tGdx1BLeBR33zuOoqSlGtAVCv)
-Panelist: Julia Azari ([@julia_azari](https://twitter.com/julia_azari))
-Panelist: Hakeem Jefferson ([@hakeemjefferson](https://twitter.com/hakeemjefferson))
-Panelist: Matt Yglesias ([@mattyglesias](https://twitter.com/mattyglesias))
+- Panelist: Julia Azari ([@julia_azari](https://twitter.com/julia_azari))
+- Panelist: Hakeem Jefferson ([@hakeemjefferson](https://twitter.com/hakeemjefferson))
+- Panelist: Matt Yglesias ([@mattyglesias](https://twitter.com/mattyglesias))
 
 ## Contact Us
 Please reach out to any one of the organizing committee with any comments or questions!
