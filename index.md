@@ -38,6 +38,15 @@ JAWS is held on (typically) alternating Wednesdays, 2-4pm Eastern Time.
 - Presenter: Luca Bellodi, "Bureaucrats, Politicians, and the Strategic Use of Information" 
 - Presenter: Huyen Nguyen, "The (great) Persuasion Divide? Gender Disparities in Debate Speeches & Evaluations" 
 
+## JAWS Professional Development Series
+This spring we will be holding several of professiomnal development panels in addition to our usual paper series. These will be held at ad-hoc times as speaker availability dictates.
+
+### Public Scholarship: February 17th from 2:00PM ET-3:30PM ET
+#### [*Register to Attend Workshop*](https://vanderbilt.zoom.us/meeting/register/tJUrc-2rqj8tGdx1BLeBR33zuOoqSlGtAVCv)
+Panelist: Julia Azari ([@julia_azari](https://twitter.com/julia_azari))
+Panelist: Hakeem Jefferson ([@hakeemjefferson](https://twitter.com/hakeemjefferson))
+Panelist: Matt Yglesias ([@mattyglesias](https://twitter.com/mattyglesias))
+
 ## Contact Us
 Please reach out to any one of the organizing committee with any comments or questions!
 
