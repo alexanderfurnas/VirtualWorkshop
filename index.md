@@ -41,7 +41,7 @@ JAWS is held on (typically) alternating Wednesdays, 2-4pm Eastern Time.
 ## JAWS Professional Development Series
 This spring we will be holding several of professiomnal development panels in addition to our usual paper series. These will be held at ad-hoc times as speaker availability dictates.
 
-### Public Scholarship: February 17th from 2:00PM ET-3:30PM ET
+### Public Scholarship: February 26th from 3:00-4:00pm ET ET
 #### [*Register to Attend Workshop*](https://vanderbilt.zoom.us/meeting/register/tJUrc-2rqj8tGdx1BLeBR33zuOoqSlGtAVCv)
 - Panelist: Julia Azari ([@julia_azari](https://twitter.com/julia_azari))
 - Panelist: Hakeem Jefferson ([@hakeemjefferson](https://twitter.com/hakeemjefferson))
