@@ -32,6 +32,9 @@ JAWS is held on (typically) alternating Wednesdays, 2-4pm Eastern Time.
 - Presenter: Matt Graham, "[Measuring Misperceptions](https://m-graham.com/papers/Graham_measuringMisperceptions.pdf)?" (Discussant: Jennifer Jerit)
 - Presenter: Ian Shapiro, "[Misinformation and the Public](https://drive.google.com/file/d/1OTnlQESg8R8NC9BOVb2eTDgN2Zj2DpbY/view?usp=sharing)" (Discussant: Joanne Miller)
 
+### Accountability: March 24th from 2:00PM ET-3:30PM ET
+- Presenter: Talbot Andrews, "The Road to Reelection is Paved with Good Intentions: Experiments on the Role of Outcomes and Intentions in Voting Behavior" (with Scott Bokemper, Yale)
+- Presenter: Greg Sasso, "Policy Bundling and Costly Monitoring"
 
 ### Computational Text Analysis in American Politics: March 10, 2021 from 2:00PM ET-3:30PM ET.
 #### [*Register to Attend Workshop*](https://vanderbilt.zoom.us/meeting/register/tJIqdu2qqzgqE9D0Pw07bEdxN2p6zFO2uDkl)
