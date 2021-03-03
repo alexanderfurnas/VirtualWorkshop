@@ -32,23 +32,36 @@ JAWS is held on (typically) alternating Wednesdays, 2-4pm Eastern Time.
 - Presenter: Matt Graham, "[Measuring Misperceptions](https://m-graham.com/papers/Graham_measuringMisperceptions.pdf)?" (Discussant: Jennifer Jerit)
 - Presenter: Ian Shapiro, "[Misinformation and the Public](https://drive.google.com/file/d/1OTnlQESg8R8NC9BOVb2eTDgN2Zj2DpbY/view?usp=sharing)" (Discussant: Joanne Miller)
 
-### Accountability: March 24th from 2:00PM ET-3:30PM ET
-- Presenter: Talbot Andrews, "The Road to Reelection is Paved with Good Intentions: Experiments on the Role of Outcomes and Intentions in Voting Behavior" (with Scott Bokemper, Yale)
-- Presenter: Greg Sasso, "Policy Bundling and Costly Monitoring"
-
 ### Computational Text Analysis in American Politics: March 10, 2021 from 2:00PM ET-3:30PM ET.
 #### [*Register to Attend Workshop*](https://vanderbilt.zoom.us/meeting/register/tJIqdu2qqzgqE9D0Pw07bEdxN2p6zFO2uDkl)
 - Presenter: Luca Bellodi, "Bureaucrats, Politicians, and the Strategic Use of Information" 
 - Presenter: Huyen Nguyen, "The (great) Persuasion Divide? Gender Disparities in Debate Speeches & Evaluations" 
+- 
+### Accountability: March 24th from 2:00PM ET-3:30PM ET
+#### [*Register to Attend Workshop*](https://vanderbilt.zoom.us/meeting/register/tJcsfu2qqjorH9DrzliID_Z5Eycn3CP6GRPc)
+
+- Presenter: Talbot Andrews, "The Road to Reelection is Paved with Good Intentions: Experiments on the Role of Outcomes and Intentions in Voting Behavior" (with Scott Bokemper, Yale)
+- Presenter: Greg Sasso, "Policy Bundling and Costly Monitoring"
+
+
+
+
+
+
 
 ## JAWS Professional Development Series
 This spring we will be holding several of professiomnal development panels in addition to our usual paper series. These will be held at ad-hoc times as speaker availability dictates.
 
 ### Public Scholarship: February 26th from 3:00-4:00pm ET ET
-#### [*Register to Attend Workshop*](https://vanderbilt.zoom.us/meeting/register/tJUrc-2rqj8tGdx1BLeBR33zuOoqSlGtAVCv)
+#### [*Register to Attend Panel*](https://vanderbilt.zoom.us/meeting/register/tJUrc-2rqj8tGdx1BLeBR33zuOoqSlGtAVCv)
 - Panelist: Julia Azari ([@julia_azari](https://twitter.com/julia_azari))
 - Panelist: Hakeem Jefferson ([@hakeemjefferson](https://twitter.com/hakeemjefferson))
 - Panelist: Matt Yglesias ([@mattyglesias](https://twitter.com/mattyglesias))
+
+### Academic Book Publishing: February 26th from 3:00-4:00pm ET ET
+#### [*Register to Attend Panel*](https://vanderbilt.zoom.us/j/96408532309?pwd=K2Ewc2pxQ1RxbjhyU0VPSmhhM25OQT09)
+- Panelist: Charles Myers, University of Chicago Press
+- Panelist: Nazita Lajevardi, Michigan State University
 
 ## Contact Us
 Please reach out to any one of the organizing committee with any comments or questions!
