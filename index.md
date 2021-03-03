@@ -52,13 +52,13 @@ JAWS is held on (typically) alternating Wednesdays, 2-4pm Eastern Time.
 ## JAWS Professional Development Series
 This spring we will be holding several of professiomnal development panels in addition to our usual paper series. These will be held at ad-hoc times as speaker availability dictates.
 
-### Public Scholarship: February 26th from 3:00-4:00pm ET ET
+### Public Scholarship: February 26th from 3:00-4:00pm ET
 #### [*Register to Attend Panel*](https://vanderbilt.zoom.us/meeting/register/tJUrc-2rqj8tGdx1BLeBR33zuOoqSlGtAVCv)
 - Panelist: Julia Azari ([@julia_azari](https://twitter.com/julia_azari))
 - Panelist: Hakeem Jefferson ([@hakeemjefferson](https://twitter.com/hakeemjefferson))
 - Panelist: Matt Yglesias ([@mattyglesias](https://twitter.com/mattyglesias))
 
-### Academic Book Publishing: February 26th from 3:00-4:00pm ET ET
+### Academic Book Publishing: February 26th from 3:00-4:00pm ET
 #### [*Register to Attend Panel*](https://vanderbilt.zoom.us/j/96408532309?pwd=K2Ewc2pxQ1RxbjhyU0VPSmhhM25OQT09)
 - Panelist: Charles Myers, University of Chicago Press
 - Panelist: Nazita Lajevardi, Michigan State University
