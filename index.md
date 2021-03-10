@@ -52,7 +52,7 @@ This spring we will be holding several of professiomnal development panels in ad
 - Panelist: Hakeem Jefferson ([@hakeemjefferson](https://twitter.com/hakeemjefferson))
 - Panelist: Matt Yglesias ([@mattyglesias](https://twitter.com/mattyglesias))
 
-### Academic Book Publishing: February 26th from 3:00-4:00pm ET
+### Academic Book Publishing: Thursday March 25th 1:00-2:00pm ET 
 #### [*Register to Attend Panel*](https://vanderbilt.zoom.us/j/96408532309?pwd=K2Ewc2pxQ1RxbjhyU0VPSmhhM25OQT09)
 - Panelist: Charles Myers, University of Chicago Press
 - Panelist: Nazita Lajevardi, Michigan State University
