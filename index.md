@@ -40,8 +40,8 @@ JAWS is held on (typically) alternating Wednesdays, 2-4pm Eastern Time.
 ### Accountability: March 24th from 2:00PM ET-3:30PM ET
 #### [*Register to Attend Workshop*](https://vanderbilt.zoom.us/meeting/register/tJcsfu2qqjorH9DrzliID_Z5Eycn3CP6GRPc)
 
-- Presenter: Talbot Andrews, "The Road to Reelection is Paved with Good Intentions: Experiments on the Role of Outcomes and Intentions in Voting Behavior" (Discussant: Gabe Lenz)
-- Presenter: Greg Sasso, "Policy Bundling and Costly Monitoring" (Discussant: Sean Gailmard)
+- Presenter: Talbot Andrews, "[The Road to Reelection is Paved with Good Intentions: Experiments on the Role of Outcomes and Intentions in Voting Behavior](https://drive.google.com/file/d/1tHdGACEEHtbXfA-34E4lJvlZbxmeY-MM/view?usp=sharing)" (Discussant: Gabe Lenz)
+- Presenter: Greg Sasso, "[Policy Bundling and Costly Monitoring](https://drive.google.com/file/d/1sDxQkutaCp0KbBvEoF2d6NgZEmAs3aSy/view?usp=sharing)" (Discussant: Sean Gailmard)
 
 ## JAWS Professional Development Series
 This spring we will be holding several of professiomnal development panels in addition to our usual paper series. These will be held at ad-hoc times as speaker availability dictates.
