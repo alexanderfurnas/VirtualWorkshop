@@ -57,6 +57,10 @@ This spring we will be holding several of professiomnal development panels in ad
 - Panelist: Charles Myers, University of Chicago Press
 - Panelist: Nazita Lajevardi, Michigan State University
 
+## JAWS Socializing
+### Trivia: Thursday March 25th 8:00 ET
+### [*Register for Trivia*](https://vanderbilt.zoom.us/meeting/register/tJApf-ygrzkoEtaEbnd8Z72NAjJtZwshwOF5)
+
 ## Contact Us
 Please reach out to any one of the organizing committee with any comments or questions!
 
