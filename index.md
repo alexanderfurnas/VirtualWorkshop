@@ -43,6 +43,12 @@ JAWS is held on (typically) alternating Wednesdays, 2-4pm Eastern Time.
 - Presenter: Talbot Andrews, "[The Road to Reelection is Paved with Good Intentions: Experiments on the Role of Outcomes and Intentions in Voting Behavior](https://drive.google.com/file/d/1tHdGACEEHtbXfA-34E4lJvlZbxmeY-MM/view?usp=sharing)" (Discussant: Gabe Lenz)
 - Presenter: Greg Sasso, "[Policy Bundling and Costly Monitoring](https://drive.google.com/file/d/1sDxQkutaCp0KbBvEoF2d6NgZEmAs3aSy/view?usp=sharing)" (Discussant: Sean Gailmard)
 
+
+### Legislative Capacity: April 28th from 2:00PM ET-3:30PM ET
+- Presenter: Josh McCrain, "Human Capital on Capitol Hill"(https://drive.google.com/file/d/1sDxQkutaCp0KbBvEoF2d6NgZEmAs3aSy/view?usp=sharing)" (Discussant: Sean Gailmard)
+- Presenter: Srinivas Parinandi, "Social Returns to Legislative Capacity: Evidence from the Opioid Epidemic"
+
+
 ## JAWS Professional Development Series
 This spring we will be holding several of professiomnal development panels in addition to our usual paper series. These will be held at ad-hoc times as speaker availability dictates.
 
@@ -57,9 +63,18 @@ This spring we will be holding several of professiomnal development panels in ad
 - Panelist: Charles Myers, University of Chicago Press
 - Panelist: Nazita Lajevardi, Michigan State University
 
+### Academic Journal Publishing: Thursday April 27th 3:00-4:00pm ET 
+#### [*Register to Attend Panel*](https://vanderbilt.zoom.us/meeting/register/tJAqceivqjgjGtPXNV290mIe7YfzL4_ThiI9)
+- Panelist: Beth Leech,  Co-editor of Interest Groups & Advocacy
+- Panelist: Neil Malhotra, Associate Editor, Journal of Politics (2019-2020)
+- Panelist: Justin Kirkland, Co-editor of Legislative Studies Quarterly
+
 ## JAWS Socializing
 ### Trivia: Thursday March 25th 8:00 ET
 ### [*Register for Trivia*](https://vanderbilt.zoom.us/meeting/register/tJApf-ygrzkoEtaEbnd8Z72NAjJtZwshwOF5)
+
+### Trivia: Thursday May 19th 8:00 ET
+### [*Register for Trivia*](https://vanderbilt.zoom.us/meeting/register/tJArceipqjguGd1QkGa_MxqSe-Di0gN7gdQu)
 
 ## Contact Us
 Please reach out to any one of the organizing committee with any comments or questions!
