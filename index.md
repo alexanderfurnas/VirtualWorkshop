@@ -45,7 +45,9 @@ JAWS is held on (typically) alternating Wednesdays, 2-4pm Eastern Time.
 
 
 ### Legislative Capacity: April 28th from 2:00PM ET-3:30PM ET
-- Presenter: Josh McCrain, "Human Capital on Capitol Hill"(https://drive.google.com/file/d/1sDxQkutaCp0KbBvEoF2d6NgZEmAs3aSy/view?usp=sharing)" (Discussant: Sean Gailmard)
+#### [*Register to Attend Workshop*](https://unr.zoom.us/meeting/register/tZMofuCuqz0vG9PwZVML5eFvvyDYFWiIHFLt)
+
+- Presenter: Josh McCrain, "Human Capital on Capitol Hill"
 - Presenter: Srinivas Parinandi, "Social Returns to Legislative Capacity: Evidence from the Opioid Epidemic"
 
 
