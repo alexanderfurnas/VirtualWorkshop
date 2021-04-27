@@ -48,7 +48,7 @@ JAWS is held on (typically) alternating Wednesdays, 2-4pm Eastern Time.
 #### [*Register to Attend Workshop*](https://unr.zoom.us/meeting/register/tZMofuCuqz0vG9PwZVML5eFvvyDYFWiIHFLt)
 
 - Presenter: Rachel Porter, "[Changing the Dialogue: Descriptive Candidacies & Position Taking in Campaigns for the U.S. House of Representatives](https://drive.google.com/file/d/1c6VMLi4vjeVe_Cmzd8nD-Tj0IZtZosv9/view?usp=sharing)"
-- Presenter: Srinivas Parinandi, "Social Returns to Legislative Capacity: Evidence from the Opioid Epidemic"
+- Presenter: Srinivas Parinandi, "[Social Returns to Legislative Capacity: Evidence from the Opioid Epidemic](https://drive.google.com/file/d/1Qxxd4LiHPTOnVCbRCuR_A_EKzZtmWQiP/view?usp=sharing)"
 
 
 ## JAWS Professional Development Series
