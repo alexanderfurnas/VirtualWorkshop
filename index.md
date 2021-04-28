@@ -75,7 +75,7 @@ This spring we will be holding several of professiomnal development panels in ad
 ### Trivia: Thursday March 25th 8:00 ET
 ### [*Register for Trivia*](https://vanderbilt.zoom.us/meeting/register/tJApf-ygrzkoEtaEbnd8Z72NAjJtZwshwOF5)
 
-### Trivia: Thursday May 19th 8:00 ET
+### Trivia: Wednesday May 19th 8:00 ET
 ### [*Register for Trivia*](https://vanderbilt.zoom.us/meeting/register/tJArceipqjguGd1QkGa_MxqSe-Di0gN7gdQu)
 
 ## Contact Us
