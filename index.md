@@ -50,6 +50,12 @@ JAWS is held on (typically) alternating Wednesdays, 2-4pm Eastern Time.
 - Presenter: Rachel Porter, "[Changing the Dialogue: Descriptive Candidacies & Position Taking in Campaigns for the U.S. House of Representatives](https://drive.google.com/file/d/1c6VMLi4vjeVe_Cmzd8nD-Tj0IZtZosv9/view?usp=sharing)"
 - Presenter: Srinivas Parinandi, "[Social Returns to Legislative Capacity: Evidence from the Opioid Epidemic](https://drive.google.com/file/d/1Qxxd4LiHPTOnVCbRCuR_A_EKzZtmWQiP/view?usp=sharing)"
 
+### The Attitudes and Influence of Political Elites: May 19th from 2:00PM ET-3:30PM ET
+#### [*Register to Attend Workshop*](https://unc.zoom.us/meeting/register/tJcvcO2upj0uGtFtJWFocsURbmnMF3zJ8rbU)
+
+- Presenter: Alexander (Zander) Furnas, The People Think What I Think: False Consensus and Elite Misperception of Public Opinion. (Discussant: Mia Costa)
+- Presenter: Laura Moses, Conceptualizing and Identifying Interest Actors. (Discussant: Maggie Macdonald)
+
 
 ## JAWS Professional Development Series
 This spring we will be holding several of professiomnal development panels in addition to our usual paper series. These will be held at ad-hoc times as speaker availability dictates.
