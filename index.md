@@ -53,7 +53,7 @@ JAWS is held on (typically) alternating Wednesdays, 2-4pm Eastern Time.
 ### The Attitudes and Influence of Political Elites: May 19th from 2:00PM ET-3:30PM ET
 #### [*Register to Attend Workshop*](https://unc.zoom.us/meeting/register/tJcvcO2upj0uGtFtJWFocsURbmnMF3zJ8rbU)
 
-- Presenter: Alexander (Zander) Furnas, The People Think What I Think: False Consensus and Elite Misperception of Public Opinion. (Discussant: Mia Costa)
+- Presenter: Alexander (Zander) Furnas, "[The People Think What I Think: False Consensus and Elite Misperception of Public Opinion](https://drive.google.com/file/d/1VPmc6Y8-zyZqTa-7EEYgOSdWj0WkTNBB/view?usp=sharing)". (Discussant: Mia Costa)
 - Presenter: Laura Moses, Conceptualizing and Identifying Interest Actors. (Discussant: Maggie Macdonald)
 
 
