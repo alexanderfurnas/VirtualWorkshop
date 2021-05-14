@@ -54,7 +54,7 @@ JAWS is held on (typically) alternating Wednesdays, 2-4pm Eastern Time.
 #### [*Register to Attend Workshop*](https://unc.zoom.us/meeting/register/tJcvcO2upj0uGtFtJWFocsURbmnMF3zJ8rbU)
 
 - Presenter: Alexander (Zander) Furnas, "[The People Think What I Think: False Consensus and Elite Misperception of Public Opinion](https://drive.google.com/file/d/1VPmc6Y8-zyZqTa-7EEYgOSdWj0WkTNBB/view?usp=sharing)". (Discussant: Mia Costa)
-- Presenter: Laura Moses, "[Conceptualizing and Identifying Interest Actors] (https://drive.google.com/file/d/12y6PhlcPpStgRNkSJ23H_MSDD8RWWfHQ/view?usp=sharing)". (Discussant: Maggie Macdonald)
+- Presenter: Laura Moses, "[Conceptualizing and Identifying Interest Actors](https://drive.google.com/file/d/12y6PhlcPpStgRNkSJ23H_MSDD8RWWfHQ/view?usp=sharing)". (Discussant: Maggie Macdonald)
 
 
 ## JAWS Professional Development Series
