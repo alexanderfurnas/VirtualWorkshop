@@ -39,7 +39,7 @@ Please reach out to any one of the organizing committee with any comments or que
 
 ## Past Presentations 
 
-Previous JAWS programming and presented papers can be viewed [*here*]("/previous")
+Previous JAWS programming and presented papers can be viewed [*here*](/previous)
 
 
 
