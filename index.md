@@ -32,7 +32,7 @@ JAWS is held on (typically) alternating Wednesdays, 2-4pm Eastern Time.
 
 
 We will also revive our trivia nights (hosted by Patrick Rickert).  
-###Trivia will start at 8:00 PM ET on October 13, 2021.  Come socialize with your friends and members of the JAWS community!
+### Trivia will start at 8:00 PM ET on October 13, 2021.  Come socialize with your friends and members of the JAWS community!
 
 #### [*Register for JAWS 1 Trivia*](https://etsu.zoom.us/meeting/register/tJAqdeutpjktHdZ7MhlAdvtQWdonRGwa7WJq)
 
