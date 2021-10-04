@@ -18,13 +18,39 @@ In addition to article-length manuscripts, we also encourage the submission of w
 
 We will try to match up discussants with papers based on subject area expertise to the best of our ability.
 
-To make sure that participants can review all of the papers in the workshop in advance, we will collect and circulate the papers one week in advance.
+
+*Please note:* We strongly encourage participants to read the presenters' papers in advance of the session.  We will circulate these papers via email at least one week in advance of the session.  We will allocate at least 10-15 minutes to audience Q & A after each presentation to provide an opportunity for you to share feedback.
 
 
 ## When
 JAWS is held on (typically) alternating Wednesdays, 2-4pm Eastern Time.
 
+### American political development and race, ethnicity, and politics: October 13, 2021 from 2:00PM ET-3:30PM ET
+#### [*Register to Attend Workshop*](https://etsu.zoom.us/meeting/register/tJUtdemqrTgpGdTFT1Z6MBIp5abzILvwP6mu)
+ - Presenter: [Maye Henning](https://politicalscience.jhu.edu/directory/maye-henning/)
+ - Presenter: [Taylor Mattia](https://www.taylormattia.com/)
 
+
+We will also revive our trivia nights (hosted by Patrick Rickert).  
+###Trivia will start at 8:00 PM ET on October 13, 2021.  Come socialize with your friends and members of the JAWS community!
+
+#### [*Register for JAWS 1 Trivia*](https://etsu.zoom.us/meeting/register/tJAqdeutpjktHdZ7MhlAdvtQWdonRGwa7WJq)
+
+### Everything is Terrible and We Are All Going to Die: October 27, 2021 from 2:00PM ET-3:30PM ET
+#### [*Register to Attend Workshop*](https://etsu.zoom.us/meeting/register/tJApdumsqzgiEtM6u8XteRaQKtEfV9j7QmoP)
+- Presenter: [Matt Motta](https://www.mattmotta.com/) (Discussant: [Jon Green](https://jgreen4919.github.io/)
+- Presenter: [Rachel Porter](https://rachelporter.org/) (Discussant: [Joshua Darr](https://joshuadarr.weebly.com/)
+
+
+### Immigration in America: November 10, 2021 from 2:00PM ET-3:30PM ET
+#### [*Register to Attend Workshop*](https://etsu.zoom.us/meeting/register/tJwrd-2grz8qHdYgpA9VAvBVLPawf-UezUZZ)
+- Presenter: [Flavio Rogerio Hickel](https://www.washcoll.edu/people_departments/faculty/hickel-flavio.php)
+- Presenter: [Jae Eun Kim](https://www.sas.rochester.edu/psc/people/phd-current.php)
+
+### Local Politics: December 1, 2021 from 2:00PM ET-3:30PM ET
+#### [*Register to Attend Workshop*](https://etsu.zoom.us/meeting/register/tJYtcu6urTguHtUQDufUnamEbM3PpwN1VK2a)
+- Presenter: [Bryant Moy](https://bryantjmoy.github.io/)
+- Presenter: [Kaylyn Jackson Schiff](https://www.kaylynjacksonschiff.com/)
 
 
 ## Contact Us
@@ -39,7 +65,7 @@ Please reach out to any one of the organizing committee with any comments or que
 
 ## Past Presentations 
 
-Previous JAWS programming and presented papers can be viewed [*here*](/previous)
+#### Previous JAWS programming and presented papers can be viewed [*here*](/previous)
 
 
 
