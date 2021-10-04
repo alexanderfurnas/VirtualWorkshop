@@ -1,3 +1,7 @@
+layout: page
+title: "Previous Panels and Events"
+permalink: /previous/
+
 # Junior Americanist Workshop Series
 A new virtual workshop for American politics reseach in the pandemic age.
 
