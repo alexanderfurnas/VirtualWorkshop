@@ -27,8 +27,8 @@ JAWS is held on (typically) alternating Wednesdays, 2-4pm Eastern Time.
 
 ### American political development and race, ethnicity, and politics: October 13, 2021 from 2:00PM ET-3:30PM ET
 #### [*Register to Attend Workshop*](https://etsu.zoom.us/meeting/register/tJUtdemqrTgpGdTFT1Z6MBIp5abzILvwP6mu)
- - Presenter: [Maye Henning](https://politicalscience.jhu.edu/directory/maye-henning/)
- - Presenter: [Taylor Mattia](https://www.taylormattia.com/)
+ - Presenter: [Maye Henning](https://politicalscience.jhu.edu/directory/maye-henning/), "he Empty Gift: Citizenship, Imperialism, and Political Development in Puerto Rico"
+ - Presenter: [Taylor Mattia](https://www.taylormattia.com/), "Resegregated Schools, Racial Attitudes, and Long-Run Partisanship: Evidence for White Backlash"
 
 
 We will also revive our trivia nights (hosted by Patrick Rickert).  
@@ -38,19 +38,19 @@ We will also revive our trivia nights (hosted by Patrick Rickert).
 
 ### Everything is Terrible and We Are All Going to Die: October 27, 2021 from 2:00PM ET-3:30PM ET
 #### [*Register to Attend Workshop*](https://etsu.zoom.us/meeting/register/tJApdumsqzgiEtM6u8XteRaQKtEfV9j7QmoP)
-- Presenter: [Matt Motta](https://www.mattmotta.com/) (Discussant: [Jon Green](https://jgreen4919.github.io/)
-- Presenter: [Rachel Porter](https://rachelporter.org/) (Discussant: [Joshua Darr](https://joshuadarr.weebly.com/)
+- Presenter: [Matt Motta](https://www.mattmotta.com/), "How Right-Leaning Cable News Content Shaped COVID-19 Vaccine Hesitancy" (Discussant: [Jon Green](https://jgreen4919.github.io/))
+- Presenter: [Rachel Porter](https://rachelporter.org/), "Policy Facts or Partisan Friction?: Explaining Political Communication on America's Opioid Epidemic" (Discussant: [Joshua Darr](https://joshuadarr.weebly.com/))
 
 
 ### Immigration in America: November 10, 2021 from 2:00PM ET-3:30PM ET
 #### [*Register to Attend Workshop*](https://etsu.zoom.us/meeting/register/tJwrd-2grz8qHdYgpA9VAvBVLPawf-UezUZZ)
-- Presenter: [Flavio Rogerio Hickel](https://www.washcoll.edu/people_departments/faculty/hickel-flavio.php)
-- Presenter: [Jae Eun Kim](https://www.sas.rochester.edu/psc/people/phd-current.php)
+- Presenter: [Flavio Rogerio Hickel](https://www.washcoll.edu/people_departments/faculty/hickel-flavio.php), "Kissing Up and Kicking Down: How ImmigrantResentment Impacts Latinx Support for DonaldTrump and Restrictive Immigration Policies"
+- Presenter: [Jae Eun Kim](https://www.sas.rochester.edu/psc/people/phd-current.php), "Examining the Effects of Exclusion on Immigrant Assimilation Efforts during the Chinese Exclusion Era (1882-1943)"
 
 ### Local Politics: December 1, 2021 from 2:00PM ET-3:30PM ET
 #### [*Register to Attend Workshop*](https://etsu.zoom.us/meeting/register/tJYtcu6urTguHtUQDufUnamEbM3PpwN1VK2a)
-- Presenter: [Bryant Moy](https://bryantjmoy.github.io/)
-- Presenter: [Kaylyn Jackson Schiff](https://www.kaylynjacksonschiff.com/)
+- Presenter: [Bryant Moy](https://bryantjmoy.github.io/), "Responsiveness in the Patchwork of Local Government"
+- Presenter: [Kaylyn Jackson Schiff](https://www.kaylynjacksonschiff.com/), "Does Citizen Collaboration Impact Government Service Provision? Evidence from SeeClickFix Requests"
 
 
 ## Contact Us
