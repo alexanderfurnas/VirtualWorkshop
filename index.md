@@ -27,7 +27,7 @@ JAWS is held on (typically) alternating Wednesdays, 2-4pm Eastern Time.
 
 ### American political development and race, ethnicity, and politics: October 13, 2021 from 2:00PM ET-3:30PM ET
 #### [*Register to Attend Workshop*](https://etsu.zoom.us/meeting/register/tJUtdemqrTgpGdTFT1Z6MBIp5abzILvwP6mu)
- - Presenter: [Maye Henning](https://politicalscience.jhu.edu/directory/maye-henning/), "he Empty Gift: Citizenship, Imperialism, and Political Development in Puerto Rico"
+ - Presenter: [Maye Henning](https://politicalscience.jhu.edu/directory/maye-henning/), "The Empty Gift: Citizenship, Imperialism, and Political Development in Puerto Rico"
  - Presenter: [Taylor Mattia](https://www.taylormattia.com/), "Resegregated Schools, Racial Attitudes, and Long-Run Partisanship: Evidence for White Backlash"
 
 
