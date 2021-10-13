@@ -23,9 +23,9 @@ We will try to match up discussants with papers based on subject area expertise 
 
 
 ## When
-JAWS is held on (typically) alternating Wednesdays, 2-4pm Eastern Time.
+JAWS is held on (typically) alternating Wednesdays, 3:00-4:30pm Eastern Time.
 
-### American political development and race, ethnicity, and politics: October 13, 2021 from 2:00PM ET-3:30PM ET
+### American political development and race, ethnicity, and politics: October 13, 2021 from 3:00PM-4:30PM ET
 #### [*Register to Attend Workshop*](https://etsu.zoom.us/meeting/register/tJUtdemqrTgpGdTFT1Z6MBIp5abzILvwP6mu)
  - Presenter: [Maye Henning](https://politicalscience.jhu.edu/directory/maye-henning/), "The Empty Gift: Citizenship, Imperialism, and Political Development in Puerto Rico"
  - Presenter: [Taylor Mattia](https://www.taylormattia.com/), "Resegregated Schools, Racial Attitudes, and Long-Run Partisanship: Evidence for White Backlash"
@@ -36,7 +36,7 @@ We will also revive our trivia nights (hosted by Patrick Rickert).
 
 #### [*Register for JAWS 1 Trivia*](https://etsu.zoom.us/meeting/register/tJAqdeutpjktHdZ7MhlAdvtQWdonRGwa7WJq)
 
-### Everything is Terrible and We Are All Going to Die: October 27, 2021 from 2:00PM ET-3:30PM ET
+### Everything is Terrible and We Are All Going to Die: October 27, 2021 from 3:00PM-4:30PM ET
 #### [*Register to Attend Workshop*](https://etsu.zoom.us/meeting/register/tJApdumsqzgiEtM6u8XteRaQKtEfV9j7QmoP)
 - Presenter: [Matt Motta](https://www.mattmotta.com/), "How Right-Leaning Cable News Content Shaped COVID-19 Vaccine Hesitancy" (Discussant: [Jon Green](https://jgreen4919.github.io/))
 - Presenter: [Rachel Porter](https://rachelporter.org/), "Policy Facts or Partisan Friction?: Explaining Political Communication on America's Opioid Epidemic" (Discussant: [Joshua Darr](https://joshuadarr.weebly.com/))
