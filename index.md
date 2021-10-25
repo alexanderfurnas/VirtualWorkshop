@@ -38,16 +38,16 @@ We will also revive our trivia nights (hosted by Patrick Rickert).
 
 ### Everything is Terrible and We Are All Going to Die: October 27, 2021 from 3:00PM-4:30PM ET
 #### [*Register to Attend Workshop*](https://etsu.zoom.us/meeting/register/tJApdumsqzgiEtM6u8XteRaQKtEfV9j7QmoP)
-- Presenter: [Matt Motta](https://www.mattmotta.com/), "How Right-Leaning Cable News Content Shaped COVID-19 Vaccine Hesitancy" (Discussant: [Jon Green](https://jgreen4919.github.io/))
-- Presenter: [Rachel Porter](https://rachelporter.org/), "Policy Facts or Partisan Friction?: Explaining Political Communication on America's Opioid Epidemic" (Discussant: [Joshua Darr](https://joshuadarr.weebly.com/))
+- Presenter: [Matt Motta](https://www.mattmotta.com/), "[How Right-Leaning Cable News Content Shaped COVID-19 Vaccine Hesitancy](https://t.co/Zi4meGnnok?amp=1)" (Discussant: [Jon Green](https://jgreen4919.github.io/))
+- Presenter: [Rachel Porter](https://rachelporter.org/), "[Policy Facts or Partisan Friction?: Explaining Political Communication on America's Opioid Epidemic](https://t.co/uYK1klARTz?amp=1)" (Discussant: [Benjamin Noble](https://benjaminnoble.org/))
 
 
-### Immigration in America: November 10, 2021 from 2:00PM ET-3:30PM ET
+### Immigration in America: November 10, 2021 from 3:00PM ET-4:30PM ET
 #### [*Register to Attend Workshop*](https://etsu.zoom.us/meeting/register/tJwrd-2grz8qHdYgpA9VAvBVLPawf-UezUZZ)
 - Presenter: [Flavio Rogerio Hickel](https://www.washcoll.edu/people_departments/faculty/hickel-flavio.php), "Kissing Up and Kicking Down: How ImmigrantResentment Impacts Latinx Support for DonaldTrump and Restrictive Immigration Policies"
 - Presenter: [Jae Eun Kim](https://www.sas.rochester.edu/psc/people/phd-current.php), "Examining the Effects of Exclusion on Immigrant Assimilation Efforts during the Chinese Exclusion Era (1882-1943)"
 
-### Local Politics: December 1, 2021 from 2:00PM ET-3:30PM ET
+### Local Politics: December 1, 2021 from 3:00PM ET-4:30PM ET
 #### [*Register to Attend Workshop*](https://etsu.zoom.us/meeting/register/tJYtcu6urTguHtUQDufUnamEbM3PpwN1VK2a)
 - Presenter: [Bryant Moy](https://bryantjmoy.github.io/), "Responsiveness in the Patchwork of Local Government"
 - Presenter: [Kaylyn Jackson Schiff](https://www.kaylynjacksonschiff.com/), "Does Citizen Collaboration Impact Government Service Provision? Evidence from SeeClickFix Requests"
