@@ -49,8 +49,8 @@ We will also revive our trivia nights (hosted by Patrick Rickert).
 
 ### Local Politics: December 1, 2021 from 3:00PM ET-4:30PM ET
 #### [*Register to Attend Workshop*](https://etsu.zoom.us/meeting/register/tJYtcu6urTguHtUQDufUnamEbM3PpwN1VK2a)
-- Presenter: [Bryant Moy](https://bryantjmoy.github.io/), "[Responsiveness in the Patchwork of Local Government](https://bryantjmoy.github.io/assets/Responsiveness%20in%20the%20Patchwork.pdf)"
-- Presenter: [Kaylyn Jackson Schiff](https://www.kaylynjacksonschiff.com/), "[Does Citizen Collaboration Impact Government Service Provision? Evidence from SeeClickFix Requests](https://uccaa0db46094bfa9d2b0e3cd165.dl.dropboxusercontent.com/cd/0/inline2/BakJYiWPsTks1c4iZ8j1fNVPCqyO[…]fnCJin4p6cWdnT0ItbM4R8_px7Vi3TQcCmqg/file)"
+- Presenter: [Bryant Moy](https://bryantjmoy.github.io/), "[Responsiveness in the Patchwork of Local Government](https://bryantjmoy.github.io/assets/Responsiveness%20in%20the%20Patchwork.pdf)" (Discussant: [Chris Warshaw](http://www.chriswarshaw.com/))
+- Presenter: [Kaylyn Jackson Schiff](https://www.kaylynjacksonschiff.com/), "[Does Citizen Collaboration Impact Government Service Provision? Evidence from SeeClickFix Requests](https://uccaa0db46094bfa9d2b0e3cd165.dl.dropboxusercontent.com/cd/0/inline2/BakJYiWPsTks1c4iZ8j1fNVPCqyO[…]fnCJin4p6cWdnT0ItbM4R8_px7Vi3TQcCmqg/file)" (Discussant: [Jessica Trounstine](hhttps://faculty.ucmerced.edu/jtrounstine/index.htm))
 
 
 ## Contact Us
