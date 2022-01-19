@@ -35,12 +35,12 @@ JAWS is held on (typically) alternating Wednesdays, 3:00-4:30pm Eastern Time.
 Please reach out to any one of the organizing committee with any comments or questions!
 
 - Austin Bussing (Sam Houston State University)
+- Leah Christiani (University of Tennessee)
 - Zander Furnas (Northwestern University)
 - Christina Ladam (University of Nevada-Reno)
 - Josh McCrain (University of Utah)
 - David Miller (East Tennessee State University)
 - Rachel Porter (University of Notre Dame)
-- Leah Christiani (University of Tennessee)
 
 ## Past Presentations 
 
