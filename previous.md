@@ -8,6 +8,34 @@ A new virtual workshop for American politics reseach in the pandemic age.
 ## Previous Panels and Events
 
 
+
+
+
+## Fall 2021 Schedule
+
+### American political development and race, ethnicity, and politics: October 13, 2021 from 3:00PM-4:30PM ET
+#### [*Register to Attend Workshop*](https://etsu.zoom.us/meeting/register/tJUtdemqrTgpGdTFT1Z6MBIp5abzILvwP6mu)
+ - Presenter: [Maye Henning](https://politicalscience.jhu.edu/directory/maye-henning/), "The Empty Gift: Citizenship, Imperialism, and Political Development in Puerto Rico"
+ - Presenter: [Taylor Mattia](https://www.taylormattia.com/), "Resegregated Schools, Racial Attitudes, and Long-Run Partisanship: Evidence for White Backlash"
+
+
+### Everything is Terrible and We Are All Going to Die: October 27, 2021 from 3:00PM-4:30PM ET
+#### [*Register to Attend Workshop*](https://etsu.zoom.us/meeting/register/tJApdumsqzgiEtM6u8XteRaQKtEfV9j7QmoP)
+- Presenter: [Matt Motta](https://www.mattmotta.com/), "[How Right-Leaning Cable News Content Shaped COVID-19 Vaccine Hesitancy](https://t.co/Zi4meGnnok?amp=1)" (Discussant: [Jon Green](https://jgreen4919.github.io/))
+- Presenter: [Rachel Porter](https://rachelporter.org/), "[Policy Facts or Partisan Friction?: Explaining Political Communication on America's Opioid Epidemic](https://t.co/uYK1klARTz?amp=1)" (Discussant: [Benjamin Noble](https://benjaminnoble.org/))
+
+
+### Immigration in America: November 10, 2021 from 3:00PM ET-4:30PM ET
+#### [*Register to Attend Workshop*](https://etsu.zoom.us/meeting/register/tJwrd-2grz8qHdYgpA9VAvBVLPawf-UezUZZ)
+- Presenter: [Flavio Rogerio Hickel](https://www.washcoll.edu/people_departments/faculty/hickel-flavio.php), "Kissing Up and Kicking Down: How Immigrant Resentment Impacts Latinx Support for Donald Trump and Restrictive Immigration Policies"
+- Presenter: [Jae Eun Kim](https://www.sas.rochester.edu/psc/people/phd-current.php), "Examining the Effects of Exclusion on Immigrant Assimilation Efforts during the Chinese Exclusion Era (1882-1943)"
+
+### Local Politics: December 1, 2021 from 3:00PM ET-4:30PM ET
+#### [*Register to Attend Workshop*](https://etsu.zoom.us/meeting/register/tJYtcu6urTguHtUQDufUnamEbM3PpwN1VK2a)
+- Presenter: [Bryant Moy](https://bryantjmoy.github.io/), "[Responsiveness in the Patchwork of Local Government](https://bryantjmoy.github.io/assets/Responsiveness%20in%20the%20Patchwork.pdf)" (Discussant: [Chris Warshaw](http://www.chriswarshaw.com/))
+- Presenter: [Kaylyn Jackson Schiff](https://www.kaylynjacksonschiff.com/), "[Does Citizen Collaboration Impact Government Service Provision? Evidence from SeeClickFix Requests](https://ucfa526c35ae74e314dbb2c2959c.dl.dropboxusercontent.com/cd/0/inline2/Ba5KGdYlAwK2f9amAFiiEtQ1orc-EKGV0gujpF0ktyZpPbUJq_7J7GZEwXLwL-0jMpSgyqMyGHr2dORL6ToP4zFumlqnPotKD0bdb7Yoq4WMEwjHZTCmk8SFhySyKJniGvkH_fmIyhlYyuF1ui7U4OjpRfvd5kbyAdK3xJa2EjbMQeEPuYIbOWB2fbR7MoM6zRGwLUgNFKZTs-FqY92Pfuw3ZDtI4bKS-YffIVB3Fi_PxlQZcpzbXwnFnTt1ISB-94cuFzDu70TbnRMin6jYPQEvF4xX7dnEocj9xKgvTNMDrDbkoIRrgdKKSxbNaQDO-sUlQiv9cG3rvN9bZVWqDQ3kwusC3LCsoLetNFGL-QKcMS8ogQVanClhD2TreHRreIU/file#)" (Discussant: [Jessica Trounstine](hhttps://faculty.ucmerced.edu/jtrounstine/index.htm))
+
+
 ## Spring 2021 Schedule
 ### Misinformation and Misperception: February 17th from 2:00PM ET-3:30PM ET
 #### [*Register to Attend Workshop*](https://vanderbilt.zoom.us/meeting/register/tJIkcuuuqTwvGNcNs88uKh-ervhY1DwTRxQ5)
