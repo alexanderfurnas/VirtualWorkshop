@@ -27,7 +27,7 @@ JAWS is held on (typically) alternating Wednesdays, 3:00-4:30pm Eastern Time.
 
 ### Congress, broadly defined: January 26, 2021 from 3:00PM-4:30PM ET
 #### [*Register to Attend Workshop*](https://etsu.zoom.us/meeting/register/tJUuc-iuqzosHdSXtv8DarzY59NQFrA1xCs5)
- - Presenter: [Emily Cottle](https://www.emilycottle.com/), "The Institution's Knowledge: Congressional Staff Turnover and Committee Productivity" (Discussant: [Alexander Furnas](https://www.alexanderfurnas.com/))
+ - Presenter: [Emily Cottle](https://www.emilycottle.com/), "[The Institution's Knowledge: Congressional Staff Turnover and Committee Productivity](https://drive.google.com/file/d/1ePGkH5Wj8bmVKxFzCo3NIE_khepNNhaf/view)" (Discussant: [Alexander Furnas](https://www.alexanderfurnas.com/))
  - Presenter: [Mia Costa](https://www.miacosta.net/), "The Vicious Cycle of Affective Polarization and Negational Styles of Representation" (Discussant: [Nathan Kalmoe](https://nathankalmoe.com/))
 
 
