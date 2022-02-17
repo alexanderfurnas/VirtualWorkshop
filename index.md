@@ -25,6 +25,12 @@ We will try to match up discussants with papers based on subject area expertise 
 ## When
 JAWS is held on (typically) alternating Wednesdays, 3:00-4:30pm Eastern Time.
 
+### Citizen participation in government: February 23, 2021 from 3:00PM-4:30PM ET
+#### [*Register to Attend Workshop*](https://etsu.zoom.us/meeting/register/tJ0kdOGppz8jHdxGSZWSEo8kE7_F7FdrCIxF)
+ - Presenter: [Devin Judge-Lord](https://judgelord.github.io/), "The Environmental Justice Movement's Impact on Bureaucratic Policymaking(https://judgelord.github.io/research/ej/)" (Discussant: [Beth Leech](http://fas-polisci.rutgers.edu/leech/index.html))
+ - Presenter: [Trevor Incerti](https://www.trevorincerti.com/), "Combatting capture in local politics: evidence from 8 field experiments" (Discussant: [David Brookman](https://polisci.berkeley.edu/people/person/david-edward-broockman))
+
+
 ### Congress, broadly defined: January 26, 2021 from 3:00PM-4:30PM ET
 #### [*Register to Attend Workshop*](https://etsu.zoom.us/meeting/register/tJUuc-iuqzosHdSXtv8DarzY59NQFrA1xCs5)
  - Presenter: [Emily Cottle](https://www.emilycottle.com/), "[The Institution's Knowledge: Congressional Staff Turnover and Committee Productivity](https://drive.google.com/file/d/1ePGkH5Wj8bmVKxFzCo3NIE_khepNNhaf/view)" (Discussant: [Alexander Furnas](https://www.alexanderfurnas.com/))
