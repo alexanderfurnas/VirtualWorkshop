@@ -25,6 +25,12 @@ We will try to match up discussants with papers based on subject area expertise 
 ## When
 JAWS is held on (typically) alternating Wednesdays, 3:00-4:30pm Eastern Time.
 
+### Identity and Politics: February 23, 2021 from 3:00PM-4:30PM ET
+#### [*Register to Attend Workshop*](https://etsu.zoom.us/meeting/register/tJYld-6rrjovGd1WKZOmpnoGgGiV7tPFHKt6)
+ - Presenter: [Marayana Martinez](https://twitter.com/MaraynaMartinez), "[Does the Racial Composition of High Schools Affect Political Participation Among Students of Color](https://drive.google.com/file/d/1wbpEAoHY-jR0F3Iq05U_DuGzeGSv88cI/view)" 
+ - Presenter: [Wesley Wehde](http://wwwehde.oucreate.com/), "[At the Intersection of Transgender Attitudes, Identity Politics, and Vote Choice](https://drive.google.com/file/d/1GGPiqxBKZsuRL-q8X-oOm3lPfBzJj7Ay/view)" 
+
+
 ### Citizen participation in government: February 23, 2021 from 3:00PM-4:30PM ET
 #### [*Register to Attend Workshop*](https://etsu.zoom.us/meeting/register/tJ0kdOGppz8jHdxGSZWSEo8kE7_F7FdrCIxF)
  - Presenter: [Devin Judge-Lord](https://judgelord.github.io/), "[The Environmental Justice Movement's Impact on Bureaucratic Policymaking](https://judgelord.github.io/research/ej/)" (Discussant: [Beth Leech](http://fas-polisci.rutgers.edu/leech/index.html))
