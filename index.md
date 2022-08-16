@@ -38,6 +38,8 @@ Please reach out to any one of the organizing committee with any comments or que
 - Josh McCrain (University of Utah)
 - David Miller (East Tennessee State University)
 - Rachel Porter (University of Notre Dame)
+- Amanda Sahar d’Urso (Northwestern University)
+ 
 
 ## Past Presentations 
 
