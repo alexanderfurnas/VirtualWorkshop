@@ -39,6 +39,7 @@ Please reach out to any one of the organizing committee with any comments or que
 - David Miller (East Tennessee State University)
 - Rachel Porter (University of Notre Dame)
 - Amanda Sahar d’Urso (Dartmouth University)
+- Laura Uribe (UCSD) 
  
 
 ## Past Presentations 
