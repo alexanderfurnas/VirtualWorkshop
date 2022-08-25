@@ -30,13 +30,18 @@ Fall Schedule coming soon!
 ## Contact Us
 Please reach out to any one of the organizing committee with any comments or questions!
 
+#### Chief Organizer: 
+- David Miller (East Tennessee State University)
+
+#### Associate Organizers: 
+- Leah Christiani (University of Tennessee)
+- Christina Ladam (University of Nevada-Reno)
+
+#### Organization Board Members:
 - Austin Bussing (Sam Houston State University)
 - Raquel Centeno (University of Southern California)
-- Leah Christiani (University of Tennessee)
 - Zander Furnas (Northwestern University)
-- Christina Ladam (University of Nevada-Reno)
 - Josh McCrain (University of Utah)
-- David Miller (East Tennessee State University)
 - Rachel Porter (University of Notre Dame)
 - Amanda Sahar d’Urso (Dartmouth University)
 - Laura Uribe (UCSD) 
