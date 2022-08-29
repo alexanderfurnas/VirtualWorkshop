@@ -10,20 +10,22 @@ A new virtual workshop for American politics reseach in the pandemic age.
 
 ## Spring 2022 Schedule
 
+### Angst In American Politics: April 27, 2022 from 3:00PM-4:30PM ET
+- Presenter: Christina Ladam, "How Likeminded Peers Influence our Views on Politics" (Discussant: Jaime Settle)
+- Presenter: Seth Babson Warner, "Contentious Communities: Affective Polarization in US Towns and Cities" (Discussant: Liz Connors)
+
+
 ### Identity and Politics: March 30, 2022 from 3:00PM-4:30PM ET
-#### [*Register to Attend Workshop*](https://etsu.zoom.us/meeting/register/tJYld-6rrjovGd1WKZOmpnoGgGiV7tPFHKt6)
  - Presenter: [Marayana Martinez](https://twitter.com/MaraynaMartinez), "[Does the Racial Composition of High Schools Affect Political Participation Among Students of Color](https://drive.google.com/file/d/1wbpEAoHY-jR0F3Iq05U_DuGzeGSv88cI/view)" 
  - Presenter: [Wesley Wehde](http://wwwehde.oucreate.com/), "[At the Intersection of Transgender Attitudes, Identity Politics, and Vote Choice](https://drive.google.com/file/d/1GGPiqxBKZsuRL-q8X-oOm3lPfBzJj7Ay/view)" 
 
 
 ### Citizen participation in government: February 23, 2022 from 3:00PM-4:30PM ET
-#### [*Register to Attend Workshop*](https://etsu.zoom.us/meeting/register/tJ0kdOGppz8jHdxGSZWSEo8kE7_F7FdrCIxF)
  - Presenter: [Devin Judge-Lord](https://judgelord.github.io/), "[The Environmental Justice Movement's Impact on Bureaucratic Policymaking](https://judgelord.github.io/research/ej/)" (Discussant: [Beth Leech](http://fas-polisci.rutgers.edu/leech/index.html))
  - Presenter: [Trevor Incerti](https://www.trevorincerti.com/), "[Combatting capture in local politics: evidence from 8 field experiments](https://drive.google.com/file/d/1PQiOqXjDMsKvThoWsbZ3o2FQsue9EaOG/view)" (Discussant: [David Brookman](https://polisci.berkeley.edu/people/person/david-edward-broockman))
 
 
 ### Congress, broadly defined: January 26, 2022 from 3:00PM-4:30PM ET
-#### [*Register to Attend Workshop*](https://etsu.zoom.us/meeting/register/tJUuc-iuqzosHdSXtv8DarzY59NQFrA1xCs5)
  - Presenter: [Emily Cottle](https://www.emilycottle.com/), "[The Institution's Knowledge: Congressional Staff Turnover and Committee Productivity](https://drive.google.com/file/d/1ePGkH5Wj8bmVKxFzCo3NIE_khepNNhaf/view)" (Discussant: [Alexander Furnas](https://www.alexanderfurnas.com/))
  - Presenter: [Mia Costa](https://www.miacosta.net/), "The Vicious Cycle of Affective Polarization and Negational Styles of Representation" (Discussant: [Nathan Kalmoe](https://nathankalmoe.com/))
 
@@ -32,55 +34,43 @@ A new virtual workshop for American politics reseach in the pandemic age.
 ## Fall 2021 Schedule
 
 ### American political development and race, ethnicity, and politics: October 13, 2021 from 3:00PM-4:30PM ET
-#### [*Register to Attend Workshop*](https://etsu.zoom.us/meeting/register/tJUtdemqrTgpGdTFT1Z6MBIp5abzILvwP6mu)
  - Presenter: [Maye Henning](https://politicalscience.jhu.edu/directory/maye-henning/), "The Empty Gift: Citizenship, Imperialism, and Political Development in Puerto Rico"
  - Presenter: [Taylor Mattia](https://www.taylormattia.com/), "Resegregated Schools, Racial Attitudes, and Long-Run Partisanship: Evidence for White Backlash"
 
 
 ### Everything is Terrible and We Are All Going to Die: October 27, 2021 from 3:00PM-4:30PM ET
-#### [*Register to Attend Workshop*](https://etsu.zoom.us/meeting/register/tJApdumsqzgiEtM6u8XteRaQKtEfV9j7QmoP)
 - Presenter: [Matt Motta](https://www.mattmotta.com/), "[How Right-Leaning Cable News Content Shaped COVID-19 Vaccine Hesitancy](https://t.co/Zi4meGnnok?amp=1)" (Discussant: [Jon Green](https://jgreen4919.github.io/))
 - Presenter: [Rachel Porter](https://rachelporter.org/), "[Policy Facts or Partisan Friction?: Explaining Political Communication on America's Opioid Epidemic](https://t.co/uYK1klARTz?amp=1)" (Discussant: [Benjamin Noble](https://benjaminnoble.org/))
 
 
 ### Immigration in America: November 10, 2021 from 3:00PM ET-4:30PM ET
-#### [*Register to Attend Workshop*](https://etsu.zoom.us/meeting/register/tJwrd-2grz8qHdYgpA9VAvBVLPawf-UezUZZ)
 - Presenter: [Flavio Rogerio Hickel](https://www.washcoll.edu/people_departments/faculty/hickel-flavio.php), "Kissing Up and Kicking Down: How Immigrant Resentment Impacts Latinx Support for Donald Trump and Restrictive Immigration Policies"
 - Presenter: [Jae Eun Kim](https://www.sas.rochester.edu/psc/people/phd-current.php), "Examining the Effects of Exclusion on Immigrant Assimilation Efforts during the Chinese Exclusion Era (1882-1943)"
 
 ### Local Politics: December 1, 2021 from 3:00PM ET-4:30PM ET
-#### [*Register to Attend Workshop*](https://etsu.zoom.us/meeting/register/tJYtcu6urTguHtUQDufUnamEbM3PpwN1VK2a)
 - Presenter: [Bryant Moy](https://bryantjmoy.github.io/), "[Responsiveness in the Patchwork of Local Government](https://bryantjmoy.github.io/assets/Responsiveness%20in%20the%20Patchwork.pdf)" (Discussant: [Chris Warshaw](http://www.chriswarshaw.com/))
 - Presenter: [Kaylyn Jackson Schiff](https://www.kaylynjacksonschiff.com/), "[Does Citizen Collaboration Impact Government Service Provision? Evidence from SeeClickFix Requests](https://ucfa526c35ae74e314dbb2c2959c.dl.dropboxusercontent.com/cd/0/inline2/Ba5KGdYlAwK2f9amAFiiEtQ1orc-EKGV0gujpF0ktyZpPbUJq_7J7GZEwXLwL-0jMpSgyqMyGHr2dORL6ToP4zFumlqnPotKD0bdb7Yoq4WMEwjHZTCmk8SFhySyKJniGvkH_fmIyhlYyuF1ui7U4OjpRfvd5kbyAdK3xJa2EjbMQeEPuYIbOWB2fbR7MoM6zRGwLUgNFKZTs-FqY92Pfuw3ZDtI4bKS-YffIVB3Fi_PxlQZcpzbXwnFnTt1ISB-94cuFzDu70TbnRMin6jYPQEvF4xX7dnEocj9xKgvTNMDrDbkoIRrgdKKSxbNaQDO-sUlQiv9cG3rvN9bZVWqDQ3kwusC3LCsoLetNFGL-QKcMS8ogQVanClhD2TreHRreIU/file#)" (Discussant: [Jessica Trounstine](hhttps://faculty.ucmerced.edu/jtrounstine/index.htm))
 
 
 ## Spring 2021 Schedule
 ### Misinformation and Misperception: February 17th from 2:00PM ET-3:30PM ET
-#### [*Register to Attend Workshop*](https://vanderbilt.zoom.us/meeting/register/tJIkcuuuqTwvGNcNs88uKh-ervhY1DwTRxQ5)
 - Presenter: Matt Graham, "[Measuring Misperceptions](https://m-graham.com/papers/Graham_measuringMisperceptions.pdf)?" (Discussant: Jennifer Jerit)
 - Presenter: Ian Shapiro, "[Misinformation and the Public](https://drive.google.com/file/d/1OTnlQESg8R8NC9BOVb2eTDgN2Zj2DpbY/view?usp=sharing)" (Discussant: Joanne Miller)
 
 ### Computational Text Analysis in American Politics: March 10, 2021 from 2:00PM ET-3:30PM ET.
-#### [*Register to Attend Workshop*](https://vanderbilt.zoom.us/meeting/register/tJIqdu2qqzgqE9D0Pw07bEdxN2p6zFO2uDkl)
 - Presenter: Luca Bellodi, "[Bureaucrats, Politicians, and the Strategic Use of Information](https://drive.google.com/file/d/12-gfroxIz94tGhvyNmsAFe2dLswhoACh/view?usp=sharing)" (Discussant: Mary Kroeger)
 - Presenter: Huyen Nguyen, "[The (great) Persuasion Divide? Gender Disparities in Debate Speeches & Evaluations](https://drive.google.com/file/d/1L89VhIFF0nlqnsBePBoFpmSvyYzYyrUe/view?usp=sharing)" (Discussant: Sarah Shugars) 
 
 ### Accountability: March 24th from 2:00PM ET-3:30PM ET
-#### [*Register to Attend Workshop*](https://vanderbilt.zoom.us/meeting/register/tJcsfu2qqjorH9DrzliID_Z5Eycn3CP6GRPc)
-
 - Presenter: Talbot Andrews, "[The Road to Reelection is Paved with Good Intentions: Experiments on the Role of Outcomes and Intentions in Voting Behavior](https://drive.google.com/file/d/1tHdGACEEHtbXfA-34E4lJvlZbxmeY-MM/view?usp=sharing)" (Discussant: Gabe Lenz)
 - Presenter: Greg Sasso, "[Policy Bundling and Costly Monitoring](https://drive.google.com/file/d/1sDxQkutaCp0KbBvEoF2d6NgZEmAs3aSy/view?usp=sharing)" (Discussant: Sean Gailmard)
 
 
 ### Legislative Capacity: April 28th from 2:00PM ET-3:30PM ET
-#### [*Register to Attend Workshop*](https://unr.zoom.us/meeting/register/tZMofuCuqz0vG9PwZVML5eFvvyDYFWiIHFLt)
-
 - Presenter: Rachel Porter, "[Changing the Dialogue: Descriptive Candidacies & Position Taking in Campaigns for the U.S. House of Representatives](https://drive.google.com/file/d/1c6VMLi4vjeVe_Cmzd8nD-Tj0IZtZosv9/view?usp=sharing)"
 - Presenter: Srinivas Parinandi, "[Social Returns to Legislative Capacity: Evidence from the Opioid Epidemic](https://drive.google.com/file/d/1Qxxd4LiHPTOnVCbRCuR_A_EKzZtmWQiP/view?usp=sharing)"
 
 ### The Attitudes and Influence of Political Elites: May 19th from 2:00PM ET-3:30PM ET
-#### [*Register to Attend Workshop*](https://unc.zoom.us/meeting/register/tJcvcO2upj0uGtFtJWFocsURbmnMF3zJ8rbU)
-
 - Presenter: Alexander (Zander) Furnas, "[The People Think What I Think: False Consensus and Elite Misperception of Public Opinion](https://drive.google.com/file/d/1VPmc6Y8-zyZqTa-7EEYgOSdWj0WkTNBB/view?usp=sharing)". (Discussant: Mia Costa)
 - Presenter: Laura Moses, "[Conceptualizing and Identifying Interest Actors](https://drive.google.com/file/d/12y6PhlcPpStgRNkSJ23H_MSDD8RWWfHQ/view?usp=sharing)". (Discussant: Maggie Macdonald)
 
@@ -89,18 +79,15 @@ A new virtual workshop for American politics reseach in the pandemic age.
 This spring we will be holding several of professiomnal development panels in addition to our usual paper series. These will be held at ad-hoc times as speaker availability dictates.
 
 ### Public Scholarship: February 26th from 3:00-4:00pm ET
-#### [*Register to Attend Panel*](https://vanderbilt.zoom.us/meeting/register/tJUrc-2rqj8tGdx1BLeBR33zuOoqSlGtAVCv)
 - Panelist: Julia Azari ([@julia_azari](https://twitter.com/julia_azari))
 - Panelist: Hakeem Jefferson ([@hakeemjefferson](https://twitter.com/hakeemjefferson))
 - Panelist: Matt Yglesias ([@mattyglesias](https://twitter.com/mattyglesias))
 
 ### Academic Book Publishing: Thursday March 25th 1:00-2:00pm ET 
-#### [*Register to Attend Panel*](https://vanderbilt.zoom.us/j/96408532309?pwd=K2Ewc2pxQ1RxbjhyU0VPSmhhM25OQT09)
 - Panelist: Charles Myers, University of Chicago Press
 - Panelist: Nazita Lajevardi, Michigan State University
 
 ### Academic Journal Publishing: Thursday April 27th 3:00-4:00pm ET 
-#### [*Register to Attend Panel*](https://vanderbilt.zoom.us/meeting/register/tJAqceivqjgjGtPXNV290mIe7YfzL4_ThiI9)
 - Panelist: Beth Leech,  Co-editor of Interest Groups & Advocacy
 - Panelist: Neil Malhotra, Associate Editor, Journal of Politics (2019-2020)
 - Panelist: Justin Kirkland, Co-editor of Legislative Studies Quarterly
