@@ -29,7 +29,7 @@ All Fall 2022 JAWS workshops will be held on Wednesdays, 3:00-4:30pm Eastern Tim
 	- Klara Fredriksson, "Pre-trial Intervention and Political Participation: Evidence from Broward County"
 	- Marques Zarate, "Principled or Pragmatic: How Voting History and Issue Type Shape Perceptions of Pandering"
 - November 9: REP in Congress [Register Here](https://etsu.zoom.us/meeting/register/tZwpceCupjsiGNynZFMUsi9gD7h3PEUweA_h)
-	- Elliott Mamet, "Empire of Liberty? Race, Empire, and Representation of the U.S. Territories in Congress"
+	- Elliot Mamet and Austin Bussing, "Empire of Liberty? Race, Empire, and Representation of the U.S. Territories in Congress"
 	- Kumar Ramanathan, "Constructing Racial Liberalism: The Divergent Trajectories of Fair Employment and Fair Housing, 1933-68"
 - November 30: Methodology Innovations in American Politics [Register Here](https://etsu.zoom.us/meeting/register/tZcrf-ChrT0sHN0kwh-nJn4aiiWBciAS64sW)
 	- Yuki Atsusaka, "Causal Inference with Ranking Data: Application to Blame Attribution in Police Violence and Ballot Order Effects in Ranked-Choice Voting"
