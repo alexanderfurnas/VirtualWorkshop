@@ -4,7 +4,11 @@ A virtual workshop for American politics research.
 ## Mission
 The Junior Americanist Workshop Series aims to provide an alternative opportunity for junior scholars (ABD grad students, post docs, and pre-tenure faculty) who study American politics (behavior or institutions) to present and get feedback on their work and to network with other scholars with similar interests.  While we focus on showcasing work from junior scholars, we welcome everyone (all ages/ranks/experience levels) to attend our events!
 
-## Sign Up
+## MPSA 2023 Mini-Conference 
+
+Find out more about our mini-conference at MPSA 2023 [*here*](/MPSACwC)
+
+## Fall 2022 Sign Up
 Use this Google form to apply to present your work, volunteer as a discussant, and/or sign up for our email list for the Fall 2022 semester! [*Sign up here!*](https://docs.google.com/forms/d/e/1FAIpQLSejsKbECl1Yf8WYBRXoTBYrARAjcDI_mh8BEzoQ1FeL0qD0Ww/viewform)
 
 ## Format
