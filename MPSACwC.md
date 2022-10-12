@@ -7,7 +7,7 @@ A new virtual workshop for American politics reseach in the pandemic age.
 
 ## MPSA 2023 Mini-Conference: Call for Papers and Discussants
 
-Submit your papers to the first ever JAWS in-person mini-conference to be held at MPSA 2023! Thanks to funding from the APSA Centennial Center, we’re able to offer *$350 to all accepted prersenters* as well as a modest honorarium ($100) for discussants. We’ll also cover all meals.
+Submit your papers to the first ever JAWS in-person mini-conference to be held at MPSA 2023! Thanks to funding from the APSA Centennial Center, we’re able to offer *$350 to all accepted presenters* as well as a modest honorarium ($100) for discussants. We’ll also cover all meals.
 
 This will be a day-long conference within a conference at MPSA, with the goal of bringing together junior American politics scholars to share their research, network, and discuss topics in professional development.
 
