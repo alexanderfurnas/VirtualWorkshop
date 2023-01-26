@@ -7,6 +7,27 @@ A new virtual workshop for American politics reseach in the pandemic age.
 
 ## Previous Panels and Events
 
+## Fall 2022 Schedule
+
+### September 28: Following the Leaders: Elites Shaping Public Opinion
+- Taegyoon Kim, "The Effects of Partisan Elites’ Violent Rhetoric on Support for Political Violence"
+- Damon Roberts, "Changing Norms and Partisan Polarization: How Elites Advance Mass Polarization"
+
+### October 12: Experiments in REP
+- Rachel Smilan-Goldstein, “'The Most Horrible Psycho-Sexual Fears':  Testing the Jesse Jackson Hypothesis"
+- Alexander Goodwin, "Protesting the 'Right' Way: Exploring Notions of Respectability and Support for Black Lives Matter"
+
+### October 26: Voting
+- Klara Fredriksson, "Pre-trial Intervention and Political Participation: Evidence from Broward County"
+- Marques Zarate, "Principled or Pragmatic: How Voting History and Issue Type Shape Perceptions of Pandering"
+
+### November 9: REP in Congress
+- Elliot Mamet and Austin Bussing, "Empire of Liberty? Race, Empire, and Representation of the U.S. Territories in Congress"
+- Kumar Ramanathan, "Constructing Racial Liberalism: The Divergent Trajectories of Fair Employment and Fair Housing, 1933-68"
+
+### November 30: Methodology Innovations in American Politics
+- Yuki Atsusaka, "Causal Inference with Ranking Data: Application to Blame Attribution in Police Violence and Ballot Order Effects in Ranked-Choice Voting"
+- Isabella Rose Raynal, "What Do Respondents Really Mean?: Using Mixed Data and Methods to Interpret Mixed Results"
 
 ## Spring 2022 Schedule
 

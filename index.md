@@ -8,8 +8,8 @@ The Junior Americanist Workshop Series aims to provide an alternative opportunit
 
 Find out more about our mini-conference at MPSA 2023 [*here*](/MPSACwC)
 
-## Fall 2022 Sign Up
-Use this Google form to apply to present your work, volunteer as a discussant, and/or sign up for our email list for the Fall 2022 semester! [*Sign up here!*](https://docs.google.com/forms/d/e/1FAIpQLSejsKbECl1Yf8WYBRXoTBYrARAjcDI_mh8BEzoQ1FeL0qD0Ww/viewform)
+## Spring 2023 Sign Up
+Use this Google form to apply to present your work, volunteer as a discussant, and/or sign up for our email list for the Spring 2023 semester! [*Sign up here!*](https://forms.gle/og5bzzg1m7h1KJfP8)
 
 ## Format
 The workshop provides the opportunity for junior Americanist scholars to present their work and receive feedback.  Our current research workshop format is 90 minutes per session featuring 2 papers, each of which is allotted 45 minutes.  In each 45 minute block, authors present their paper for 20-25 minutes, discussants offer comments for 5-10 minutes, and the balance of the time is reserved for audience questions. 
@@ -23,21 +23,10 @@ We will try to match up discussants with papers based on subject area expertise 
 ## Fall 2022 Research Workshop Schedule
 All Fall 2022 JAWS workshops will be held on Wednesdays, 3:00-4:30pm Eastern Time.
 
-- September 28: Following the Leaders: Elites Shaping Public Opinion [Register Here](https://etsu.zoom.us/meeting/register/tZMvceutpjwjG9ECDsJZoA_RwPBPCGdNoB6I)
-	- Taegyoon Kim, "The Effects of Partisan Elites’ Violent Rhetoric on Support for Political Violence"
-	- Damon Roberts, "Changing Norms and Partisan Polarization: How Elites Advance Mass Polarization"
-- October 12: Experiments in REP [Register Here](https://etsu.zoom.us/meeting/register/tZEpcOqpqz0rG9GqZMMPE-XAg9pKBSB85TbW)
-	- Rachel Smilan-Goldstein, “'The Most Horrible Psycho-Sexual Fears':  Testing the Jesse Jackson Hypothesis"
-	- Alexander Goodwin, "Protesting the 'Right' Way: Exploring Notions of Respectability and Support for Black Lives Matter"
-- October 26: Voting [Register Here](https://etsu.zoom.us/meeting/register/tZAvcOiprjwqGNcF-bgC8uOzLT9Ar4QEFGo4)
-	- Klara Fredriksson, "Pre-trial Intervention and Political Participation: Evidence from Broward County"
-	- Marques Zarate, "Principled or Pragmatic: How Voting History and Issue Type Shape Perceptions of Pandering"
-- November 9: REP in Congress [Register Here](https://etsu.zoom.us/meeting/register/tZwpceCupjsiGNynZFMUsi9gD7h3PEUweA_h)
-	- Elliot Mamet and Austin Bussing, "Empire of Liberty? Race, Empire, and Representation of the U.S. Territories in Congress"
-	- Kumar Ramanathan, "Constructing Racial Liberalism: The Divergent Trajectories of Fair Employment and Fair Housing, 1933-68"
-- November 30: Methodology Innovations in American Politics [Register Here](https://etsu.zoom.us/meeting/register/tZcrf-ChrT0sHN0kwh-nJn4aiiWBciAS64sW)
-	- Yuki Atsusaka, "Causal Inference with Ranking Data: Application to Blame Attribution in Police Violence and Ballot Order Effects in Ranked-Choice Voting"
-	- Isabella Rose Raynal, "What Do Respondents Really Mean?: Using Mixed Data and Methods to Interpret Mixed Results"
+- February 1: White Racial Attitudes [Register Here](https://etsu.zoom.us/meeting/register/tZMkc-mtpzwsHtTQKRMQH_Gp3YQ6t-5Vx63k)
+	- [Geneva Cole](https://www.genevacole.com/), ["White Identity and Support for Racially Inclusive Political Projects"](https://drive.google.com/file/d/1msukWd95i0bZIeqUa2bqlMuqh3T9FpU0/view) (Discussant: Debbie Schildkraut)
+	- [Emily West](https://emilywest.org/), ["Cross-Partisan Discussion De-Polarizes White Americans’ Racial Policy Preferences"](https://drive.google.com/file/d/1PKH1A3U6jkrJdyok2Kg2H7IRQArKOpvN/view) (Discussant: Diana Mutz)
+
 
 ## Contact Us
 Please reach out to any one of the organizing committee with any comments or questions at [jawspolisci@gmail.com](mailto:jawspolisci@gmail.com)
@@ -47,6 +36,7 @@ Please reach out to any one of the organizing committee with any comments or que
 
 #### Associate Organizers: 
 - Leah Christiani (University of Tennessee)
+- Amanda Sahar d’Urso (Dartmouth University)
 - Christina Ladam (University of Nevada-Reno)
 
 #### Organization Board Members:
@@ -55,7 +45,6 @@ Please reach out to any one of the organizing committee with any comments or que
 - Zander Furnas (Northwestern University)
 - Josh McCrain (University of Utah)
 - Rachel Porter (University of Notre Dame)
-- Amanda Sahar d’Urso (Dartmouth University)
 - Laura Uribe (University of California, San Diego) 
  
 
