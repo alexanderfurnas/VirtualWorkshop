@@ -20,8 +20,8 @@ We will try to match up discussants with papers based on subject area expertise 
 
 *Please note:* We strongly encourage participants to read the presenters' papers in advance of the session.  We will circulate these papers via email at least one week in advance of the session.  We will allocate at least 10-15 minutes to audience Q & A after each presentation to provide an opportunity for you to share feedback.
 
-## Fall 2022 Research Workshop Schedule
-All Fall 2022 JAWS workshops will be held on Wednesdays, 3:00-4:30pm Eastern Time.
+## Spring 2023 Research Workshop Schedule
+All Spring 2023 JAWS workshops will be held on Wednesdays, 3:00-4:30pm Eastern Time.
 
 - February 1: White Racial Attitudes [Register Here](https://etsu.zoom.us/meeting/register/tZMkc-mtpzwsHtTQKRMQH_Gp3YQ6t-5Vx63k)
 	- [Geneva Cole](https://www.genevacole.com/), ["White Identity and Support for Racially Inclusive Political Projects"](https://drive.google.com/file/d/1msukWd95i0bZIeqUa2bqlMuqh3T9FpU0/view) (Discussant: Debbie Schildkraut)
