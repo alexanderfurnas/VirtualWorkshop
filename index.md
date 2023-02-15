@@ -26,7 +26,12 @@ All Spring 2023 JAWS workshops will be held on Wednesdays, 3:00-4:30pm Eastern T
 - February 1: White Racial Attitudes [Register Here](https://etsu.zoom.us/meeting/register/tZMkc-mtpzwsHtTQKRMQH_Gp3YQ6t-5Vx63k)
 	- [Geneva Cole](https://www.genevacole.com/), ["White Identity and Support for Racially Inclusive Political Projects"](https://drive.google.com/file/d/1msukWd95i0bZIeqUa2bqlMuqh3T9FpU0/view) (Discussant: Debbie Schildkraut)
 	- [Emily West](https://emilywest.org/), ["Cross-Partisan Discussion De-Polarizes White Americans’ Racial Policy Preferences"](https://drive.google.com/file/d/1PKH1A3U6jkrJdyok2Kg2H7IRQArKOpvN/view) (Discussant: Diana Mutz)
-
+- February 15: Political Psychology [Register here](https://etsu.zoom.us/meeting/register/tZElcOuopz0pGdzH5EOQDXtxhTfuUCNnokE1)
+	- [Rongbo Jin](https://www.rongbojin.com/), [Do Americans hate people from the opposing party equally?]() (Discussant: Daniel Hopkins)
+	- [Hillary Style](https://www.hillarystyle.com/), [Impression Management and Expectations of Political Cynicism](https://drive.google.com/file/d/1Iz2i-9P2mTdnFO5gJaE_D5V7ygueu-GZ/view) (Discussant: Christopher Johnston)
+- March 1: Race and Ethnicity Politics [Register Here](https://etsu.zoom.us/meeting/register/tZIuf-qtrDwiG9W0YjYXtu0XuO5-JosCGe7d)
+	-[Suhwan (Shawn) Kim](https://www.suhwanshawnkim.com/), "Under Threat We Unite: How Shared Marginalization Shapes Cohesion and Political Cooperation among Asian Americans"
+	- [Michael Strawbridge](https://polisci.rutgers.edu/people/department-directory/details/1704-michaelstrawbridge), "In the Thick of It: Operationalizing the Relationship Between Black People, Black Spaces, and Black Political Unity"
 
 ## Contact Us
 Please reach out to any one of the organizing committee with any comments or questions at [jawspolisci@gmail.com](mailto:jawspolisci@gmail.com)
