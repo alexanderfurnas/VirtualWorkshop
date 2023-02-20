@@ -1,12 +1,4 @@
-layout: page
-title: "MPSA 2023 Mini-Conference"
-permalink: /MPSACwC/
-
-# Junior Americanist Workshop Series
-A new virtual workshop for American politics reseach in the pandemic age.
-
-
-# MPSA 2023 Mini-Conference Schedule
+# JAWS MPSA 2023 Mini-Conference Schedule
 
 ## Conference Format:
 
