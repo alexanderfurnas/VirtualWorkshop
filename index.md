@@ -6,7 +6,7 @@ The Junior Americanist Workshop Series aims to provide an alternative opportunit
 
 ## MPSA 2023 Mini-Conference 
 
-Find out more about our mini-conference at MPSA 2023 [*here*](/MPSACwC)
+### Find out more about our mini-conference at MPSA 2023 [*here*](/MPSACwC)
 
 ## Spring 2023 Sign Up
 Use this Google form to apply to present your work, volunteer as a discussant, and/or sign up for our email list for the Spring 2023 semester! [*Sign up here!*](https://forms.gle/og5bzzg1m7h1KJfP8)
