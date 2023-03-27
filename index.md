@@ -32,6 +32,12 @@ All Spring 2023 JAWS workshops will be held on Wednesdays, 3:00-4:30pm Eastern T
 - March 1: Race and Ethnicity Politics [Register Here](https://etsu.zoom.us/meeting/register/tZIuf-qtrDwiG9W0YjYXtu0XuO5-JosCGe7d)
 	-[Suhwan (Shawn) Kim](https://www.suhwanshawnkim.com/), "Under Threat We Unite: How Shared Marginalization Shapes Cohesion and Political Cooperation among Asian Americans"
 	- [Michael Strawbridge](https://polisci.rutgers.edu/people/department-directory/details/1704-michaelstrawbridge), "In the Thick of It: Operationalizing the Relationship Between Black People, Black Spaces, and Black Political Unity"
+- March 22: Congress [Register Here](https://etsu.zoom.us/meeting/register/tZwrdOysqzgtHdKQLfECD8T7Iz6nBWEaft9r)
+	-[SoRelle Wyckoff Gaynor](https://sorellew.com/), ["Follow the leaders: Asymmetric party messaging in the U. S. Congress"](https://drive.google.com/file/d/1yGVMLGcxC6ujyK_CcWJ5XZtR4kc3RYWg/view)
+	-[Peter McLaughlin](https://www.petermcla.com/), ["Priority Projects: Constituent Demand and the Electoral Benefits of Congressional Spending"](https://drive.google.com/file/d/1bFL2fnkzTqTAHdCSswa-KOi0XOI33aaj/view)
+- April 26: Gender and Politics [Register Here](https://etsu.zoom.us/meeting/register/tZcuc-irqTkrHNN0T8I2zL5SuqHsBeoNk9gh)
+	- [Sierra David Thomander](https://sierradavisthomander.com/), "All Else Equal? Gendered Election Outcomes Along the Political Pipeline"
+	- [Kayla Wolf](https://kayla-wolf.com/), "Gender, Education and Partisanship: Trends in Party ID and Vote Choice over Time"
 
 ## Contact Us
 Please reach out to any one of the organizing committee with any comments or questions at [jawspolisci@gmail.com](mailto:jawspolisci@gmail.com)

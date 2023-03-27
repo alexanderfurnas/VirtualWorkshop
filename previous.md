@@ -27,7 +27,7 @@ A new virtual workshop for American politics reseach in the pandemic age.
 
 ### November 30: Methodology Innovations in American Politics
 - Yuki Atsusaka, "Causal Inference with Ranking Data: Application to Blame Attribution in Police Violence and Ballot Order Effects in Ranked-Choice Voting"
-- Isabella Rose Raynal, "What Do Respondents Really Mean?: Using Mixed Data and Methods to Interpret Mixed Results"
+- Isaiah Raynal, "What Do Respondents Really Mean?: Using Mixed Data and Methods to Interpret Mixed Results"
 
 ## Spring 2022 Schedule
 
