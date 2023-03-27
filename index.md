@@ -30,7 +30,7 @@ All Spring 2023 JAWS workshops will be held on Wednesdays, 3:00-4:30pm Eastern T
 	- [Rongbo Jin](https://www.rongbojin.com/), [Do Americans hate people from the opposing party equally?]() (Discussant: Daniel Hopkins)
 	- [Hillary Style](https://www.hillarystyle.com/), [Impression Management and Expectations of Political Cynicism](https://drive.google.com/file/d/1Iz2i-9P2mTdnFO5gJaE_D5V7ygueu-GZ/view) (Discussant: Christopher Johnston)
 - March 1: Race and Ethnicity Politics [Register Here](https://etsu.zoom.us/meeting/register/tZIuf-qtrDwiG9W0YjYXtu0XuO5-JosCGe7d)
-	-[Suhwan (Shawn) Kim](https://www.suhwanshawnkim.com/), "Under Threat We Unite: How Shared Marginalization Shapes Cohesion and Political Cooperation among Asian Americans"
+	- [Suhwan (Shawn) Kim](https://www.suhwanshawnkim.com/), "Under Threat We Unite: How Shared Marginalization Shapes Cohesion and Political Cooperation among Asian Americans"
 	- [Michael Strawbridge](https://polisci.rutgers.edu/people/department-directory/details/1704-michaelstrawbridge), "In the Thick of It: Operationalizing the Relationship Between Black People, Black Spaces, and Black Political Unity"
 - March 22: Congress [Register Here](https://etsu.zoom.us/meeting/register/tZwrdOysqzgtHdKQLfECD8T7Iz6nBWEaft9r)
 	- [SoRelle Wyckoff Gaynor](https://sorellew.com/), ["Follow the leaders: Asymmetric party messaging in the U. S. Congress"](https://drive.google.com/file/d/1yGVMLGcxC6ujyK_CcWJ5XZtR4kc3RYWg/view)
