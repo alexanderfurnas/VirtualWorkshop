@@ -6,7 +6,7 @@
 - 10 papers accepted
 - 20 minute presentations followed by 5 minute discussant comments and 10 minute Q&A
 - Breakfast and lunch provided for all attendees
-- Networking dinner for presenters and discussants (location TBD)
+- Networking dinner for presenters and discussants
 - Lunch time professional development roundtable
 
 ## Conference Schedule
@@ -52,13 +52,18 @@ Author: Pei-Hsun Hsieh, Stony Brook University, pei-hsun.hsieh@stonybrook.edu
 
 Discussant: Matt Motta, Boston University, mmotta@bu.edu
 ### 12:30-1:30 PM
-Lunch and Professional Development Session
+Lunch and Professional Development Session on "The Academic Job Market"
+
+Moderator: David Miller, East Tennessee State University, millerdr3@etsu.edu
+
+Panelists: Amanda d'Urso, Dartmouth College, ; Alexandra Filindra, University of Illinois-Chicago, aleka@uic.edu; Laurel Harbridge-Yong, l-harbridge@northwestern.edu; Jenny Wolak, Michigan State University, wolakjen@msu.edu
+
 ### 1:40-2:20 PM
 “Why do companies act virtuously? A field experiment to understand the motivations behind corporate social responsibility”
 
 Author: Max Kagan, UC Berkeley, max_kagan@berkeley.edu
 
-Discussant: TBD
+Discussant: Zander Furnas, Northwestern University, alexander.furnas@kellogg.northwestern.edu
 ### 2:20-3:00 PM
 “Political Communication in the streaming oriented platform, Twitch”
 
@@ -84,7 +89,10 @@ Discussant: Kris Kanthak, University of Pittsburgh, kanthak@pitt.edu
 Author: Benjamin S. Noble, Washington University in St. Louis, bsnoble@wustl.edu
 
 Discussant: Jonathan Klingner, University of Mississippi, jklingle@olemiss.edu
-### 7:00 PM
-Networking Dinner Off-site
+### 5:30-8:00 PM
+Networking Dinner Off-site for Presenters and Discussants
+
+### 8:00PM
+Happy Hour Open to Everyone at [Game Room](https://www.lsdatcaa.com/game-room) 
 
 
