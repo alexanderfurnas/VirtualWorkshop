@@ -36,8 +36,8 @@ All Spring 2023 JAWS workshops will be held on Wednesdays, 3:00-4:30pm Eastern T
 	- [SoRelle Wyckoff Gaynor](https://sorellew.com/), ["Follow the leaders: Asymmetric party messaging in the U. S. Congress"](https://drive.google.com/file/d/1yGVMLGcxC6ujyK_CcWJ5XZtR4kc3RYWg/view)
 	- [Peter McLaughlin](https://www.petermcla.com/), ["Priority Projects: Constituent Demand and the Electoral Benefits of Congressional Spending"](https://drive.google.com/file/d/1bFL2fnkzTqTAHdCSswa-KOi0XOI33aaj/view)
 - April 26: Gender and Politics [Register Here](https://etsu.zoom.us/meeting/register/tZcuc-irqTkrHNN0T8I2zL5SuqHsBeoNk9gh)
-	- [Sierra David Thomander](https://sierradavisthomander.com/), "All Else Equal? Gendered Election Outcomes Along the Political Pipeline"
-	- [Kayla Wolf](https://kayla-wolf.com/), "Gender, Education and Partisanship: Trends in Party ID and Vote Choice over Time"
+	- [Sierra David Thomander](https://sierradavisthomander.com/), ["All Else Equal? Gendered Election Outcomes Along the Political Pipeline"](https://drive.google.com/file/d/1oSIIorqcEtkdPKC8lBIWVjrYHY1e3y39/view)
+	- [Kayla Wolf](https://kayla-wolf.com/), ["Gender, Education and Partisanship: Trends in Party ID and Vote Choice over Time"](https://drive.google.com/file/d/1iur3fCbmWUNFvA91uHBtoNsyceUBAZYX/view)
 
 ## Contact Us
 Please reach out to any one of the organizing committee with any comments or questions at [jawspolisci@gmail.com](mailto:jawspolisci@gmail.com)
