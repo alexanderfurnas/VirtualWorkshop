@@ -1,7 +1,3 @@
-layout: page
-title: "Previous Panels and Events"
-permalink: /previous/
-
 # Junior Americanist Workshop Series
 A virtual workshop for American politics research.
 
