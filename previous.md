@@ -3,9 +3,35 @@ title: "Previous Panels and Events"
 permalink: /previous/
 
 # Junior Americanist Workshop Series
-A new virtual workshop for American politics reseach in the pandemic age.
+A virtual workshop for American politics research.
 
 ## Previous Panels and Events
+
+## MPSA 2023 Conference-Within-a-Conference
+
+### Find out more about our mini-conference at MPSA 2023 [*here*](/MPSACwC)
+
+## Spring 2023 Schedule
+
+### February 1: White Racial Attitudes 
+- [Geneva Cole](https://www.genevacole.com/), ["White Identity and Support for Racially Inclusive Political Projects"](https://drive.google.com/file/d/1msukWd95i0bZIeqUa2bqlMuqh3T9FpU0/view) (Discussant: Debbie Schildkraut)
+	- [Emily West](https://emilywest.org/), ["Cross-Partisan Discussion De-Polarizes White Americans’ Racial Policy Preferences"](https://drive.google.com/file/d/1PKH1A3U6jkrJdyok2Kg2H7IRQArKOpvN/view) (Discussant: Diana Mutz)
+	
+### February 15: Political Psychology 
+- [Rongbo Jin](https://www.rongbojin.com/), [Do Americans hate people from the opposing party equally?]() (Discussant: Daniel Hopkins)
+- [Hillary Style](https://www.hillarystyle.com/), [Impression Management and Expectations of Political Cynicism](https://drive.google.com/file/d/1Iz2i-9P2mTdnFO5gJaE_D5V7ygueu-GZ/view) (Discussant: Christopher Johnston)
+
+### March 1: Race and Ethnicity Politics 
+- [Suhwan (Shawn) Kim](https://www.suhwanshawnkim.com/), "Under Threat We Unite: How Shared Marginalization Shapes Cohesion and Political Cooperation among Asian Americans"
+- [Michael Strawbridge](https://polisci.rutgers.edu/people/department-directory/details/1704-michaelstrawbridge), "In the Thick of It: Operationalizing the Relationship Between Black People, Black Spaces, and Black Political Unity"
+
+### March 22: Congress
+- [SoRelle Wyckoff Gaynor](https://sorellew.com/), ["Follow the leaders: Asymmetric party messaging in the U. S. Congress"](https://drive.google.com/file/d/1yGVMLGcxC6ujyK_CcWJ5XZtR4kc3RYWg/view)
+- [Peter McLaughlin](https://www.petermcla.com/), ["Priority Projects: Constituent Demand and the Electoral Benefits of Congressional Spending"](https://drive.google.com/file/d/1bFL2fnkzTqTAHdCSswa-KOi0XOI33aaj/view)
+
+### April 26: Gender and Politics
+- [Sierra David Thomander](https://sierradavisthomander.com/), ["All Else Equal? Gendered Election Outcomes Along the Political Pipeline"](https://drive.google.com/file/d/1oSIIorqcEtkdPKC8lBIWVjrYHY1e3y39/view)
+- [Kayla Wolf](https://kayla-wolf.com/), ["Gender, Education and Partisanship: Trends in Party ID and Vote Choice over Time"](https://drive.google.com/file/d/1iur3fCbmWUNFvA91uHBtoNsyceUBAZYX/view)
 
 ## Fall 2022 Schedule
 
