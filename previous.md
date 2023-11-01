@@ -11,7 +11,7 @@ A virtual workshop for American politics research.
 
 ### February 1: White Racial Attitudes 
 - [Geneva Cole](https://www.genevacole.com/), ["White Identity and Support for Racially Inclusive Political Projects"](https://drive.google.com/file/d/1msukWd95i0bZIeqUa2bqlMuqh3T9FpU0/view) (Discussant: Debbie Schildkraut)
-	- [Emily West](https://emilywest.org/), ["Cross-Partisan Discussion De-Polarizes White Americans’ Racial Policy Preferences"](https://drive.google.com/file/d/1PKH1A3U6jkrJdyok2Kg2H7IRQArKOpvN/view) (Discussant: Diana Mutz)
+- [Emily West](https://emilywest.org/), ["Cross-Partisan Discussion De-Polarizes White Americans’ Racial Policy Preferences"](https://drive.google.com/file/d/1PKH1A3U6jkrJdyok2Kg2H7IRQArKOpvN/view) (Discussant: Diana Mutz)
 	
 ### February 15: Political Psychology 
 - [Rongbo Jin](https://www.rongbojin.com/), [Do Americans hate people from the opposing party equally?]() (Discussant: Daniel Hopkins)

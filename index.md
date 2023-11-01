@@ -16,8 +16,45 @@ We will try to match up discussants with papers based on subject area expertise 
 
 *Please note:* We strongly encourage participants to read the presenters' papers in advance of the session.  We will circulate these papers via email at least one week in advance of the session.  We will allocate at least 10-15 minutes to audience Q & A after each presentation to provide an opportunity for you to share feedback.
 
-## Fall 2023 Research Workshop Schedule--COMING SOON
+## Fall 2023 Research Workshop Schedule
 All Fall 2023 JAWS workshops will be held on Wednesdays, 3:00-4:30pm Eastern Time.
+
+### September 27: Interest Groups
+- [Mellissa Meisels](https://www.mellissameisels.com/), ["Campaign Agendas and Issue Group Strategy in Congressional Primaries"](https://www.mellissameisels.com/files/Meisels_CampaignIssueGroups.pdf) (Discussant: Kristina Miler)
+- [Amy Meli](https://www.amydmeli.com/), ["Take Action Now! How Group Type Influences Member Mobilization Strategies"](https://drive.google.com/file/d/12ytGR1mQc2wt1IkmvxYuG4dU4uJ4O_Ig/view) (Discussant: Geoff Lorenz)
+- [Register here](https://ucr.zoom.us/meeting/register/tJcvcu6uqT0tGdHk9ZeynGfmuu11T1Az0eQx)
+
+### October 11: Groups & Survey Scale Development
+- [Joshua Thorp](https://joshthorp.com/), [Body Politic: Disability and Political Cohesion](https://drive.google.com/file/d/1hrkf4ZSwpQtDOP0G_A8_1XVEXDLt6dMi/view) (Discussant: Andrew Engelhardt)
+- [Raquel Centeno](https://racenteno.github.io/), "When Party and Race Align: Perceived Racial Discrimination’s Relationship with Affective Polarization"
+- [Register here](https://ucr.zoom.us/meeting/register/tJAucuGurToiGNa2f6H_Om_ffOVuBLFFfvGJ#/registration)
+
+### October 25: Congressional Representation
+- [Ryan Dawkins](https://sites.google.com/view/ryandawkinsphd/home), ["Emotional Appeals, Congressional Communication, and Affective Position-Taking in Congressional Representation"](https://drive.google.com/file/d/1c91nlf18xZxI6F1NZHKDGZHAzvSZbZMV/view) (Discussant: Annelise Russell)
+- [Christian Hosam](https://christianhosam.com/), ["Triaging Representation: Black Representatives Legislating Under Constraint"](https://drive.google.com/file/d/1ZI8U90S_H6jTp_dRmCmOHmIKZq7AUGbg/view) (Discussant: Chloe Thurston)
+- [Register here](https://georgetown.zoom.us/meeting/register/tJEudeGqrjssHda-vd_NyJNMEkUrZ_Uuu4y8#/registration)
+
+### November 8: Immigration in America 
+- [Michelangelo Landgrave](https://www.michelangelo.mx/), ["Immigration is Difficult?!  Informing Voters About Immigration Policy Fosters Pro-immigration Views"](https://drive.google.com/file/d/157jI7Bctl7FMTmy78ia563TBtRe7wHgl/view) (Discussant: Roberto Carlos)
+- [Kaiyu Li](https://politicalsciencenow.com/meet-kaiyu-li-2021-apsa-doctoral-dissertation-research-improvement-grantee/), [The Politics of Chinatown Development in American Cities](https://drive.google.com/file/d/1nRVTm6dGSvW4xtEie3uMDcPGlzVVcd3G/view) (Discussant: Justin Gest)
+- [Register here](https://ucr.zoom.us/meeting/register/tJMvf-iqqTsjHtS_YcY5kecOaUdtYbAV70-f)
+
+### November 29: Responsiveness 
+- [Elizabeth Mitchell Elder](https://www.elizabethmitchellelder.com/), "Responsiveness to Corruption: Evidence from U.S. Local Governments"
+- [John Wagner](https://johnkwagner.com/), "Agenda Diversity and Congressional Responsiveness: The Case of the Vanishing Consensus"
+- [Register here](https://ucr.zoom.us/meeting/register/tJUpceCurTwvHdXEpt6xqwkwovezltvfQP7H)
+
+### December 13: Inside the Minds of Voters
+- [Kevin Sparrow](https://kevinsparrowphd.com/), "The Limits of Racial Cues: Black Voters, Ideology, and Descriptive Representation"
+- [Wei Zhong](https://rociozhong.github.io/), "﻿Fragmentation Dynamics in Electoral Assessments: Evolving Voter Criteria in U.S. Presidential Elections, 1984-2020"
+- [Register here](https://ucr.zoom.us/meeting/register/tJEpcOmrrjIrH93-XeDXq-5r9p68HnJNH1T1)
+
+## Fall 2023 Professional Developoment Schedule
+- How to Be a Journal Reviewer
+	- Panelists: Celeste Montoya, Nadia Brown, Christina Grose
+	- Moderator: David Miller
+	- [Register here](https://ucr.zoom.us/meeting/register/tJYlf-6qqDIoHdJfuUpWjjO_FVMhct75kfXO)
+
 
 ## Contact Us
 Please reach out to any one of the organizing committee with any comments or questions at [jawspolisci@gmail.com](mailto:jawspolisci@gmail.com)
