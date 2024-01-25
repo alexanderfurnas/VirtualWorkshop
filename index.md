@@ -4,8 +4,8 @@ A virtual workshop for American politics research.
 ## Mission
 The Junior Americanist Workshop Series aims to provide an alternative opportunity for junior scholars (ABD grad students, post docs, and pre-tenure faculty) who study American politics (behavior or institutions) to present and get feedback on their work and to network with other scholars with similar interests.  While we focus on showcasing work from junior scholars, we welcome everyone (all ages/ranks/experience levels) to attend our events!
 
-## Fall 2023 Sign Up
-Use this Google form to apply to present your work, volunteer as a discussant, and/or sign up for our email list for the Fall 2023 semester! [*Sign up here!*](https://forms.gle/LYCWmdq6nLQY7onr7)
+## Spring 2024 Sign Up
+Use this Google form to apply to present your work, volunteer as a discussant, and/or sign up for our email list for the Spring 2024 semester! [*Sign up here!*](https://forms.gle/xm7PEcPVpzkHodFE7)
 
 ## Format
 The workshop provides the opportunity for junior Americanist scholars to present their work and receive feedback.  Our current research workshop format is 90 minutes per session featuring 2 papers, each of which is allotted 45 minutes.  In each 45 minute block, authors present their paper for 20-25 minutes, discussants offer comments for 5-10 minutes, and the balance of the time is reserved for audience questions. 
@@ -40,13 +40,13 @@ All Fall 2023 JAWS workshops will be held on Wednesdays, 3:00-4:30pm Eastern Tim
 - [Register here](https://ucr.zoom.us/meeting/register/tJMvf-iqqTsjHtS_YcY5kecOaUdtYbAV70-f)
 
 ### November 29: Responsiveness 
-- [Elizabeth Mitchell Elder](https://www.elizabethmitchellelder.com/), "Responsiveness to Corruption: Evidence from U.S. Local Governments"
-- [John Wagner](https://johnkwagner.com/), "Agenda Diversity and Congressional Responsiveness: The Case of the Vanishing Consensus"
+- [Elizabeth Mitchell Elder](https://www.elizabethmitchellelder.com/), "Responsiveness to Corruption: Evidence from U.S. Local Governments" (Discussant: Julia Payson)
+- [John Wagner](https://johnkwagner.com/), "Agenda Diversity and Congressional Responsiveness: The Case of the Vanishing Consensus" (Discussant: Scott Meinke)
 - [Register here](https://ucr.zoom.us/meeting/register/tJUpceCurTwvHdXEpt6xqwkwovezltvfQP7H)
 
 ### December 13: Inside the Minds of Voters
-- [Kevin Sparrow](https://kevinsparrowphd.com/), "The Limits of Racial Cues: Black Voters, Ideology, and Descriptive Representation"
-- [Wei Zhong](https://rociozhong.github.io/), "﻿Fragmentation Dynamics in Electoral Assessments: Evolving Voter Criteria in U.S. Presidential Elections, 1984-2020"
+- [Kevin Sparrow](https://kevinsparrowphd.com/), "The Limits of Racial Cues: Black Voters, Ideology, and Descriptive Representation" (Discussant: Hakeem Jefferson)
+- [Wei Zhong](https://rociozhong.github.io/), "﻿Fragmentation Dynamics in Electoral Assessments: Evolving Voter Criteria in U.S. Presidential Elections, 1984-2020" (Discussant: David A.M. Peterson)
 - [Register here](https://ucr.zoom.us/meeting/register/tJEpcOmrrjIrH93-XeDXq-5r9p68HnJNH1T1)
 
 ## Fall 2023 Professional Developoment Schedule
