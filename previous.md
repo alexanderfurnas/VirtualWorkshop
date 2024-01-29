@@ -7,6 +7,36 @@ A virtual workshop for American politics research.
 
 ### Find out more about our mini-conference at MPSA 2023 [*here*](/MPSACwC)
 
+## Fall 2023 Schedule
+
+### September 27: Interest Groups
+- [Mellissa Meisels](https://www.mellissameisels.com/), ["Campaign Agendas and Issue Group Strategy in Congressional Primaries"](https://www.mellissameisels.com/files/Meisels_CampaignIssueGroups.pdf) (Discussant: Kristina Miler)
+- [Amy Meli](https://www.amydmeli.com/), ["Take Action Now! How Group Type Influences Member Mobilization Strategies"](https://drive.google.com/file/d/12ytGR1mQc2wt1IkmvxYuG4dU4uJ4O_Ig/view) (Discussant: Geoff Lorenz)
+
+### October 11: Groups & Survey Scale Development
+- [Joshua Thorp](https://joshthorp.com/), [Body Politic: Disability and Political Cohesion](https://drive.google.com/file/d/1hrkf4ZSwpQtDOP0G_A8_1XVEXDLt6dMi/view) (Discussant: Andrew Engelhardt)
+- [Raquel Centeno](https://racenteno.github.io/), "When Party and Race Align: Perceived Racial Discrimination’s Relationship with Affective Polarization"
+
+### October 25: Congressional Representation
+- [Ryan Dawkins](https://sites.google.com/view/ryandawkinsphd/home), ["Emotional Appeals, Congressional Communication, and Affective Position-Taking in Congressional Representation"](https://drive.google.com/file/d/1c91nlf18xZxI6F1NZHKDGZHAzvSZbZMV/view) (Discussant: Annelise Russell)
+- [Christian Hosam](https://christianhosam.com/), ["Triaging Representation: Black Representatives Legislating Under Constraint"](https://drive.google.com/file/d/1ZI8U90S_H6jTp_dRmCmOHmIKZq7AUGbg/view) (Discussant: Chloe Thurston)
+
+### November 6: Professional Development Panel--How to Be a Journal Reviewer
+- Panelists: Celeste Montoya, Nadia Brown, Christina Grose
+- Moderator: David Miller
+
+### November 8: Immigration in America 
+- [Michelangelo Landgrave](https://www.michelangelo.mx/), ["Immigration is Difficult?!  Informing Voters About Immigration Policy Fosters Pro-immigration Views"](https://drive.google.com/file/d/157jI7Bctl7FMTmy78ia563TBtRe7wHgl/view) (Discussant: Roberto Carlos)
+- [Kaiyu Li](https://politicalsciencenow.com/meet-kaiyu-li-2021-apsa-doctoral-dissertation-research-improvement-grantee/), [The Politics of Chinatown Development in American Cities](https://drive.google.com/file/d/1nRVTm6dGSvW4xtEie3uMDcPGlzVVcd3G/view) (Discussant: Justin Gest)
+
+### November 29: Responsiveness 
+- [Elizabeth Mitchell Elder](https://www.elizabethmitchellelder.com/), "Responsiveness to Corruption: Evidence from U.S. Local Governments" (Discussant: Julia Payson)
+- [John Wagner](https://johnkwagner.com/), "Agenda Diversity and Congressional Responsiveness: The Case of the Vanishing Consensus" (Discussant: Scott Meinke)
+
+### December 13: Inside the Minds of Voters
+- [Kevin Sparrow](https://kevinsparrowphd.com/), "The Limits of Racial Cues: Black Voters, Ideology, and Descriptive Representation" (Discussant: Hakeem Jefferson)
+- [Wei Zhong](https://rociozhong.github.io/), "﻿Fragmentation Dynamics in Electoral Assessments: Evolving Voter Criteria in U.S. Presidential Elections, 1984-2020" (Discussant: David A.M. Peterson)
+
 ## Spring 2023 Schedule
 
 ### February 1: White Racial Attitudes 
