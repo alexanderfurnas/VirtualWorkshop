@@ -20,8 +20,8 @@ We will try to match up discussants with papers based on subject area expertise 
 All Fall 2023 JAWS workshops will be held on Wednesdays, 3:00-4:30pm Eastern Time.
 
 ### February 14--Political Participation and Voting
-- [Noah McKinnie Braun](https://sites.google.com/view/noahmckinniebraun/home), "Voter ID Laws Impact Turnout Through Registration"
-- [Sara Kirshbaum](https://www.saramkirshbaum.com/), "Standing in the Gateway: Incidental Participation as a Mobilizer for Voting and Donating"
+- [Noah McKinnie Braun](https://sites.google.com/view/noahmckinniebraun/home), ["Voter ID Laws Impact Turnout Through Registration"](https://drive.google.com/file/d/1sEuUHObcgWF3dovtICSh-b0y140u9Xpo/view?usp=sharing)
+- [Sara Kirshbaum](https://www.saramkirshbaum.com/), ["Standing in the Gateway: Incidental Participation as a Mobilizer for Voting and Donating"](https://drive.google.com/file/d/1LnxlByUXL2q1so1naNH3TeYEeZ0ctgzt/view?usp=sharing)
 - [Register here](https://ucr.zoom.us/meeting/register/tJYvcO2rrz8pHNCbvcSZbwuAxJtiRBrwMwvu)
 
 ### February 28--Social Media
@@ -31,7 +31,7 @@ All Fall 2023 JAWS workshops will be held on Wednesdays, 3:00-4:30pm Eastern Tim
 
 ### March 13--Race and Elite Rhetoric
 - [Roxanne Rahnama](https://roxannerahnama.com/), "Racial Threat, Ideology, and Educational Mobilization: Evidence from the Early 20th Century U.S. South"
-- [Andrene Wright](https://andrenewright.com/) 
+- [Andrene Wright](https://andrenewright.com/), "Saying, Seeing and Believing: A Framing Experiment on Black Voters' Support for Black Women Candidates"
 - [Register here](https://ucr.zoom.us/meeting/register/tJArcO6oqTwpG9yAcmiBW3chWDp_vXmB11aJ)
 
 
