@@ -30,7 +30,7 @@ All Fall 2023 JAWS workshops will be held on Wednesdays, 3:00-4:30pm Eastern Tim
 - [Register here](https://ucr.zoom.us/meeting/register/tJMuf-ytpz8jGt0Jlxs6MUVz72xKtx2S0_EG)
 
 ### March 13--Race and Elite Rhetoric
-- [Roxanne Rahnama](https://roxannerahnama.com/), "Racial Threat, Ideology, and Educational Mobilization: Evidence from the Early 20th Century U.S. South"
+- [Roxanne Rahnama](https://roxannerahnama.com/), "Deploying Ideology to Maintain Dominance: Mobilization around the 'Lost Cause' in the U.S. South"
 - [Andrene Wright](https://andrenewright.com/), "Saying, Seeing and Believing: A Framing Experiment on Black Voters' Support for Black Women Candidates"
 - [Register here](https://ucr.zoom.us/meeting/register/tJArcO6oqTwpG9yAcmiBW3chWDp_vXmB11aJ)
 
