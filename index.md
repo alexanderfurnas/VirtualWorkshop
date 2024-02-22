@@ -25,8 +25,8 @@ All Fall 2023 JAWS workshops will be held on Wednesdays, 3:00-4:30pm Eastern Tim
 - [Register here](https://ucr.zoom.us/meeting/register/tJYvcO2rrz8pHNCbvcSZbwuAxJtiRBrwMwvu)
 
 ### February 28--Social Media
-- [Tyler Leigh](https://www.asc.upenn.edu/people/graduate-student/tyler-leigh), "The Medium Matters: How Social Media Undermines Public Support for Free Expression"
-- [Maggie Macdonald](https://maggiegmacdonald.com/), "Testing the Interest Group Connection: Campaigns on Twitter"
+- [Tyler Leigh](https://www.asc.upenn.edu/people/graduate-student/tyler-leigh), ["The Medium Matters: How Social Media Undermines Public Support for Free Expression"](https://drive.google.com/file/d/1_dSGcBBHbmu8pqG-0T55BWSZvcshR_8T/view?usp=sharing)
+- [Maggie Macdonald](https://maggiegmacdonald.com/), ["Testing the Interest Group Connection: Campaigns on Twitter"](https://drive.google.com/file/d/1ZOcNc1AdCbu8c3Zlk9xaV8OHPRuDmO6e/view?usp=sharing)
 - [Register here](https://ucr.zoom.us/meeting/register/tJMuf-ytpz8jGt0Jlxs6MUVz72xKtx2S0_EG)
 
 ### March 13--Race and Elite Rhetoric
@@ -34,6 +34,13 @@ All Fall 2023 JAWS workshops will be held on Wednesdays, 3:00-4:30pm Eastern Tim
 - [Andrene Wright](https://andrenewright.com/), "Saying, Seeing and Believing: A Framing Experiment on Black Voters' Support for Black Women Candidates"
 - [Register here](https://ucr.zoom.us/meeting/register/tJArcO6oqTwpG9yAcmiBW3chWDp_vXmB11aJ)
 
+### March 27--Legislative Effectiveness
+-[Jacob Lollis](https://www.jacobmlollis.com/) and [Mackenzie Dobson](https://www.mackenzierdobson.com/), "I'm Coming Out! How Voter Discrimination Produces Effective LGBTQ Lawmakers"
+-[Darian Stacy](), *TBD*
+
+### April 24--Congressional Elections and Their Implications
+-[Gabriel Foy-Sutherland](https://gfoysutherland.com/), "Proxy Campaigns"
+-[Kisoo Kim](https://sites.google.com/view/kisookim/) "Lame Duck by Primary: Effects of Electoral Incentives on U.S. House Representatives"
 
 ## Contact Us
 Please reach out to any one of the organizing committee with any comments or questions at [jawspolisci@gmail.com](mailto:jawspolisci@gmail.com)
