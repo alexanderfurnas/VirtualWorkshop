@@ -30,13 +30,13 @@ All Fall 2023 JAWS workshops will be held on Wednesdays, 3:00-4:30pm Eastern Tim
 - [Register here](https://ucr.zoom.us/meeting/register/tJMuf-ytpz8jGt0Jlxs6MUVz72xKtx2S0_EG)
 
 ### March 13--Race and Elite Rhetoric
-- [Roxanne Rahnama](https://roxannerahnama.com/), "Deploying Ideology to Maintain Dominance: Mobilization around the 'Lost Cause' in the U.S. South"
-- [Andrene Wright](https://andrenewright.com/), "Saying, Seeing and Believing: A Framing Experiment on Black Voters' Support for Black Women Candidates"
+- [Roxanne Rahnama](https://roxannerahnama.com/), ["Deploying Ideology to Maintain Dominance: Mobilization around the 'Lost Cause' in the U.S. South"](https://drive.google.com/file/d/1FevEVVdew1BtoXpQiwwYSTreIT6aS3ds/view?usp=sharing)
+- [Andrene Wright](https://andrenewright.com/), ["Saying, Seeing and Believing: A Framing Experiment on Black Voters' Support for Black Women Candidates"](https://drive.google.com/file/d/1lVUU6VfRzfslZSx4LsE6f_IEM6gyg_VR/view?usp=sharing)
 - [Register here](https://ucr.zoom.us/meeting/register/tJArcO6oqTwpG9yAcmiBW3chWDp_vXmB11aJ)
 
 ### March 27--Legislative Effectiveness
 - [Jacob Lollis](https://www.jacobmlollis.com/) and [Mackenzie Dobson](https://www.mackenzierdobson.com/), "I'm Coming Out! How Voter Discrimination Produces Effective LGBTQ Lawmakers"
-- [Darian Stacy](), *TBD*
+- [Darian Stacy](https://www.darrianstacy.com/), *TBD*
 - [Register here](https://ucr.zoom.us/meeting/register/tJMtdeypqDIoE9xR7RCGzBWA1Jl4BOyRTkWj)
 
 ### April 24--Congressional Elections and Their Implications
