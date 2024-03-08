@@ -36,7 +36,7 @@ All Fall 2023 JAWS workshops will be held on Wednesdays, 3:00-4:30pm Eastern Tim
 
 ### March 27--Legislative Effectiveness
 - [Jacob Lollis](https://www.jacobmlollis.com/) and [Mackenzie Dobson](https://www.mackenzierdobson.com/), "I'm Coming Out! How Voter Discrimination Produces Effective LGBTQ Lawmakers"
-- [Darian Stacy](https://www.darrianstacy.com/), *TBD*
+- [Darrian Stacy](https://www.darrianstacy.com/), *TBD*
 - [Register here](https://ucr.zoom.us/meeting/register/tJMtdeypqDIoE9xR7RCGzBWA1Jl4BOyRTkWj)
 
 ### April 24--Congressional Elections and Their Implications
