@@ -36,13 +36,18 @@ All Fall 2023 JAWS workshops will be held on Wednesdays, 3:00-4:30pm Eastern Tim
 
 ### March 27--Legislative Effectiveness
 - [Jacob Lollis](https://www.jacobmlollis.com/) and [Mackenzie Dobson](https://www.mackenzierdobson.com/), "I'm Coming Out! How Voter Discrimination Produces Effective LGBTQ Lawmakers"
-- [Darrian Stacy](https://www.darrianstacy.com/), *TBD*
+- [Darrian Stacy](https://www.darrianstacy.com/), "Wealth and Policymaking in the U.S. House of Representatives"
 - [Register here](https://ucr.zoom.us/meeting/register/tJMtdeypqDIoE9xR7RCGzBWA1Jl4BOyRTkWj)
 
 ### April 24--Congressional Elections and Their Implications
 - [Gabriel Foy-Sutherland](https://gfoysutherland.com/), "Proxy Campaigns"
 - [Kisoo Kim](https://sites.google.com/view/kisookim/) "Lame Duck by Primary: Effects of Electoral Incentives on U.S. House Representatives"
 - [Register here](https://ucr.zoom.us/meeting/register/tJAkduiprj4vG9z91ceJgWONqewT1VC89Jw4)
+
+### May 8--Inequality in America
+- [Daniella Alva](https://www.daniellapalva.com/), *TBD*
+- [Erika Vallejo](https://www.erikavallejo.com/) *TBD*
+- [Register here](https://ucr.zoom.us/meeting/register/tJAkdO6vrz0tHd3WAC6sXy219vuH5cx8oL2_)
 
 ## Contact Us
 Please reach out to any one of the organizing committee with any comments or questions at [jawspolisci@gmail.com](mailto:jawspolisci@gmail.com)
