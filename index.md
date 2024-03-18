@@ -20,28 +20,28 @@ We will try to match up discussants with papers based on subject area expertise 
 All Fall 2023 JAWS workshops will be held on Wednesdays, 3:00-4:30pm Eastern Time.
 
 ### February 14--Political Participation and Voting
-- [Noah McKinnie Braun](https://sites.google.com/view/noahmckinniebraun/home), ["Voter ID Laws Impact Turnout Through Registration"](https://drive.google.com/file/d/1sEuUHObcgWF3dovtICSh-b0y140u9Xpo/view?usp=sharing)
-- [Sara Kirshbaum](https://www.saramkirshbaum.com/), ["Standing in the Gateway: Incidental Participation as a Mobilizer for Voting and Donating"](https://drive.google.com/file/d/1LnxlByUXL2q1so1naNH3TeYEeZ0ctgzt/view?usp=sharing)
+- [Noah McKinnie Braun](https://sites.google.com/view/noahmckinniebraun/home), ["Voter ID Laws Impact Turnout Through Registration"](https://drive.google.com/file/d/1sEuUHObcgWF3dovtICSh-b0y140u9Xpo/view?usp=sharing) (Discussant: Michael Hamner)
+- [Sara Kirshbaum](https://www.saramkirshbaum.com/), ["Standing in the Gateway: Incidental Participation as a Mobilizer for Voting and Donating"](https://drive.google.com/file/d/1LnxlByUXL2q1so1naNH3TeYEeZ0ctgzt/view?usp=sharing) (Discussant: Janine Parry)
 - [Register here](https://ucr.zoom.us/meeting/register/tJYvcO2rrz8pHNCbvcSZbwuAxJtiRBrwMwvu)
 
 ### February 28--Social Media
-- [Tyler Leigh](https://www.asc.upenn.edu/people/graduate-student/tyler-leigh), ["The Medium Matters: How Social Media Undermines Public Support for Free Expression"](https://drive.google.com/file/d/1_dSGcBBHbmu8pqG-0T55BWSZvcshR_8T/view?usp=sharing)
-- [Maggie Macdonald](https://maggiegmacdonald.com/), ["Testing the Interest Group Connection: Campaigns on Twitter"](https://drive.google.com/file/d/1ZOcNc1AdCbu8c3Zlk9xaV8OHPRuDmO6e/view?usp=sharing)
+- [Tyler Leigh](https://www.asc.upenn.edu/people/graduate-student/tyler-leigh), ["The Medium Matters: How Social Media Undermines Public Support for Free Expression"](https://drive.google.com/file/d/1_dSGcBBHbmu8pqG-0T55BWSZvcshR_8T/view?usp=sharing) (Discussant: Kevin Munger)
+- [Maggie Macdonald](https://maggiegmacdonald.com/), ["Testing the Interest Group Connection: Campaigns on Twitter"](https://drive.google.com/file/d/1ZOcNc1AdCbu8c3Zlk9xaV8OHPRuDmO6e/view?usp=sharing) (Discussant: Rachel Blum)
 - [Register here](https://ucr.zoom.us/meeting/register/tJMuf-ytpz8jGt0Jlxs6MUVz72xKtx2S0_EG)
 
 ### March 13--Race and Elite Rhetoric
-- [Roxanne Rahnama](https://roxannerahnama.com/), ["Deploying Ideology to Maintain Dominance: Mobilization around the 'Lost Cause' in the U.S. South"](https://drive.google.com/file/d/1FevEVVdew1BtoXpQiwwYSTreIT6aS3ds/view?usp=sharing)
-- [Andrene Wright](https://andrenewright.com/), ["Saying, Seeing and Believing: A Framing Experiment on Black Voters' Support for Black Women Candidates"](https://drive.google.com/file/d/1lVUU6VfRzfslZSx4LsE6f_IEM6gyg_VR/view?usp=sharing)
+- [Roxanne Rahnama](https://roxannerahnama.com/), ["Deploying Ideology to Maintain Dominance: Mobilization around the 'Lost Cause' in the U.S. South"](https://drive.google.com/file/d/1FevEVVdew1BtoXpQiwwYSTreIT6aS3ds/view?usp=sharing) (Discussant: Jake Grumbach)
+- [Andrene Wright](https://andrenewright.com/), ["Saying, Seeing and Believing: A Framing Experiment on Black Voters' Support for Black Women Candidates"](https://drive.google.com/file/d/1lVUU6VfRzfslZSx4LsE6f_IEM6gyg_VR/view?usp=sharing) (Discussant: Andrea Benjamin)
 - [Register here](https://ucr.zoom.us/meeting/register/tJArcO6oqTwpG9yAcmiBW3chWDp_vXmB11aJ)
 
 ### March 27--Legislative Effectiveness
-- [Jacob Lollis](https://www.jacobmlollis.com/) and [Mackenzie Dobson](https://www.mackenzierdobson.com/), "I'm Coming Out! How Voter Discrimination Produces Effective LGBTQ Lawmakers"
-- [Darrian Stacy](https://www.darrianstacy.com/), "Wealth and Policymaking in the U.S. House of Representatives"
+- [Jacob Lollis](https://www.jacobmlollis.com/) and [Mackenzie Dobson](https://www.mackenzierdobson.com/), "I'm Coming Out! How Voter Discrimination Produces Effective LGBTQ Lawmakers" (Discussant: Patrick Egan)
+- [Darrian Stacy](https://www.darrianstacy.com/), "Wealth and Policymaking in the U.S. House of Representatives" (Discussant: Geoff Lorenz)
 - [Register here](https://ucr.zoom.us/meeting/register/tJMtdeypqDIoE9xR7RCGzBWA1Jl4BOyRTkWj)
 
 ### April 24--Congressional Elections and Their Implications
 - [Gabriel Foy-Sutherland](https://gfoysutherland.com/), "Proxy Campaigns"
-- [Kisoo Kim](https://sites.google.com/view/kisookim/) "Lame Duck by Primary: Effects of Electoral Incentives on U.S. House Representatives"
+- [Kisoo Kim](https://sites.google.com/view/kisookim/) "Lame Duck by Primary: Effects of Electoral Incentives on U.S. House Representatives" (Discussant: Julia Park)
 - [Register here](https://ucr.zoom.us/meeting/register/tJAkduiprj4vG9z91ceJgWONqewT1VC89Jw4)
 
 ### May 8--Inequality in America
