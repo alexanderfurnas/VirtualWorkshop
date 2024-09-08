@@ -7,6 +7,32 @@ A virtual workshop for American politics research.
 
 ### Find out more about our mini-conference at MPSA 2023 [*here*](/MPSACwC)
 
+## Spring 2024 Schedule
+
+### February 14--Political Participation and Voting
+- [Noah McKinnie Braun](https://sites.google.com/view/noahmckinniebraun/home), ["Voter ID Laws Impact Turnout Through Registration"](https://drive.google.com/file/d/1sEuUHObcgWF3dovtICSh-b0y140u9Xpo/view?usp=sharing) (Discussant: Michael Hamner)
+- [Sara Kirshbaum](https://www.saramkirshbaum.com/), ["Standing in the Gateway: Incidental Participation as a Mobilizer for Voting and Donating"](https://drive.google.com/file/d/1LnxlByUXL2q1so1naNH3TeYEeZ0ctgzt/view?usp=sharing) (Discussant: Janine Parry)
+
+### February 28--Social Media
+- [Tyler Leigh](https://www.asc.upenn.edu/people/graduate-student/tyler-leigh), ["The Medium Matters: How Social Media Undermines Public Support for Free Expression"](https://drive.google.com/file/d/1_dSGcBBHbmu8pqG-0T55BWSZvcshR_8T/view?usp=sharing) (Discussant: Kevin Munger)
+- [Maggie Macdonald](https://maggiegmacdonald.com/), ["Testing the Interest Group Connection: Campaigns on Twitter"](https://drive.google.com/file/d/1ZOcNc1AdCbu8c3Zlk9xaV8OHPRuDmO6e/view?usp=sharing) (Discussant: Rachel Blum)
+
+### March 13--Race and Elite Rhetoric
+- [Roxanne Rahnama](https://roxannerahnama.com/), ["Deploying Ideology to Maintain Dominance: Mobilization around the 'Lost Cause' in the U.S. South"](https://drive.google.com/file/d/1FevEVVdew1BtoXpQiwwYSTreIT6aS3ds/view?usp=sharing) (Discussant: Jake Grumbach)
+- [Andrene Wright](https://andrenewright.com/), ["Saying, Seeing and Believing: A Framing Experiment on Black Voters' Support for Black Women Candidates"](https://drive.google.com/file/d/1lVUU6VfRzfslZSx4LsE6f_IEM6gyg_VR/view?usp=sharing) (Discussant: Andrea Benjamin)
+
+### March 27--Legislative Effectiveness
+- [Jacob Lollis](https://www.jacobmlollis.com/) and [Mackenzie Dobson](https://www.mackenzierdobson.com/), "I'm Coming Out! How Voter Discrimination Produces Effective LGBTQ Lawmakers" (Discussant: Patrick Egan)
+- [Darrian Stacy](https://www.darrianstacy.com/), "Wealth and Policymaking in the U.S. House of Representatives" (Discussant: Geoff Lorenz)
+
+### April 24--Congressional Elections and Their Implications
+- [Gabriel Foy-Sutherland](https://gfoysutherland.com/), "Proxy Campaigns"
+- [Kisoo Kim](https://sites.google.com/view/kisookim/) "Lame Duck by Primary: Effects of Electoral Incentives on U.S. House Representatives" (Discussant: Julia Park)
+
+### May 8--Inequality in America
+- [Daniella Alva](https://www.daniellapalva.com/), "Inequality is in the Eye of the Beholder: The Impact of Personal Experiences on Inequality Perceptions"
+- [Erika Vallejo](https://www.erikavallejo.com/) "﻿Working-Class State Legislative Campaigns: Are They Successful?"
+
 ## Fall 2023 Schedule
 
 ### September 27: Interest Groups
