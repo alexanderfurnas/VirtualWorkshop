@@ -19,6 +19,14 @@ We will try to match up discussants with papers based on subject area expertise 
 ## Fall 2024 Research Workshop Schedule
 All Fall 2024 JAWS workshops will be held on Wednesdays, 3:00-4:30pm Eastern Time.
 
+### October 9--Federalism
+-[Lauren Futter](https://sites.google.com/view/laurenfutter/home?authuser=2), "Welfare Devolution: Tool of Exclusion or Expansion?"
+-[Shelby Shumard](https://www.shelbyshumard.com/home), "﻿Are Federal Programs Constraining? Depends on the State"
+
+### October 23--Political Communication
+-[Paul Lendway](https://lendway.github.io/), "﻿Sermon Rhetoric and White Evangelical Support for the Republican Party"
+-[Andrew Trexler](https://atrexler.com/), "The Paradox of Consumer Demand for Under-informative News"
+
 ## Contact Us
 Please reach out to any one of the organizing committee with any comments or questions at [jawspolisci@gmail.com](mailto:jawspolisci@gmail.com)
 
