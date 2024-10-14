@@ -20,12 +20,14 @@ We will try to match up discussants with papers based on subject area expertise 
 All Fall 2024 JAWS workshops will be held on Wednesdays, 3:00-4:30pm Eastern Time.
 
 ### October 9--Federalism
--[Lauren Futter](https://sites.google.com/view/laurenfutter/home?authuser=2), "Welfare Devolution: Tool of Exclusion or Expansion?"
--[Shelby Shumard](https://www.shelbyshumard.com/home), "﻿Are Federal Programs Constraining? Depends on the State"
+- [Lauren Futter](https://sites.google.com/view/laurenfutter/home?authuser=2), ["Welfare Devolution: Tool of Exclusion or Expansion?"](https://drive.google.com/file/d/1tbw_mPbrrLn6LFnv97DHSORzZe6nvG0Y/view)
+- [Shelby Shumard](https://www.shelbyshumard.com/home), ["﻿Are Federal Programs Constraining? Depends on the State"](https://drive.google.com/file/d/1z27QhFgXNlVClXJq6V5JVqRnQDxPNGXL/view)
+- [Register Here](https://trinity.zoom.us/meeting/register/tJwvcOihrzkqE9Q6KIDS3cxpe4o-kR0V314a#/registration)
 
 ### October 23--Political Communication
--[Paul Lendway](https://lendway.github.io/), "﻿Sermon Rhetoric and White Evangelical Support for the Republican Party"
--[Andrew Trexler](https://atrexler.com/), "The Paradox of Consumer Demand for Under-informative News"
+- [Paul Lendway](https://lendway.github.io/), "﻿Sermon Rhetoric and White Evangelical Support for the Republican Party"
+- [Andrew Trexler](https://atrexler.com/), "The Paradox of Consumer Demand for Under-informative News"
+- [Register Here](https://usc.zoom.us/meeting/register/tJctde-tqD8oHNSLXnw5oofW-qXx0Is5KmHo?_x_zm_rtaid=idLzCtlcTWWyKlFHXW680g.1728940921131.0d9f38889c53653939b2ebe9b7508ce3&_x_zm_rhtaid=695#/registration)
 
 ## Contact Us
 Please reach out to any one of the organizing committee with any comments or questions at [jawspolisci@gmail.com](mailto:jawspolisci@gmail.com)
@@ -39,8 +41,8 @@ Please reach out to any one of the organizing committee with any comments or que
 #### Organization Board Members:
 - Austin Bussing (Trinity University)
 - Raquel Centeno (University of Southern California)
+- Erin Cikanek (Cornell University)
 - SoRelle Wyckoff Gaynor (College of the Holy Cross)
-- Christina Ladam (University of Oklahoma)
 - Rachel Porter (University of Notre Dame)
 - Hillary Style (Coastal Carolina University)
 - Laura Uribe (University of California, San Diego) 
@@ -48,6 +50,7 @@ Please reach out to any one of the organizing committee with any comments or que
 #### Emeritus Organizers
 - Leah Christiani (Hunter College)
 - Zander Furnas (Northwestern University)
+- Christina Ladam (University of Oklahoma)
 - Josh McCrain (University of Utah)
 
 ## Past Programming 
