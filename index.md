@@ -29,6 +29,17 @@ All Fall 2024 JAWS workshops will be held on Wednesdays, 3:00-4:30pm Eastern Tim
 - [Andrew Trexler](https://atrexler.com/), "The Paradox of Consumer Demand for Under-informative News"
 - [Register Here](https://usc.zoom.us/meeting/register/tJctde-tqD8oHNSLXnw5oofW-qXx0Is5KmHo?_x_zm_rtaid=idLzCtlcTWWyKlFHXW680g.1728940921131.0d9f38889c53653939b2ebe9b7508ce3&_x_zm_rhtaid=695#/registration)
 
+### November 6--Methodological Advances in American Politics
+- [Elena Sirotkina](https://elenasirotkina.rocks/), ["When Picture is not Complete: Decoding Visual Sentiment of Political Imagery"](https://www.dropbox.com/scl/fi/64ccqq1g2zw2pezpyuzjy/Gasparyan-Sirotkina-Decoding-Visual-Sentiment-JAWS24.pdf?rlkey=xaibbu9qyuozkp5pmnv6fx1sa&e=2&st=vm0gvk8q&dl=0)
+- [Amanda Weiss](https://www.amandakweiss.com/), [How Much Should We Trust Modern Difference-in-Differences Estimates?](https://osf.io/preprints/osf/bqmws)
+- [Register Here](https://cornell.zoom.us/webinar/register/WN_0vk6RwHESdCtM68uBPG12Q#/registration)
+
+### November 20--TBA
+
+### December 4--TBA
+
+### January 22--TBA
+
 ## Contact Us
 Please reach out to any one of the organizing committee with any comments or questions at [jawspolisci@gmail.com](mailto:jawspolisci@gmail.com)
 
