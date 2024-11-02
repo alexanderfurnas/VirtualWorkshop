@@ -34,9 +34,13 @@ All Fall 2024 JAWS workshops will be held on Wednesdays, 3:00-4:30pm Eastern Tim
 - [Amanda Weiss](https://www.amandakweiss.com/), [How Much Should We Trust Modern Difference-in-Differences Estimates?](https://osf.io/preprints/osf/bqmws)
 - [Register Here](https://cornell.zoom.us/webinar/register/WN_0vk6RwHESdCtM68uBPG12Q#/registration)
 
-### November 20--TBA
+### November 20--REP and Congress
+- [Karra McCray Gibson](https://www.karramccraygibson.com/), "From Alliance to Action: How Ideological Caucuses Shape Bill Sponsorship of Congressional Black Caucus Members"
+- [Yulenni Venegas-Lopez](https://www.polisci.washington.edu/people/yulenni-venegas-lopez), "Representing the Real Latino Electorate: Far Right Latinas, Group Capture, and Alternate Visions of Latinidad"
 
-### December 4--TBA
+### December 4--Immigration
+- [Minhye Joo](https://minhyejoo.github.io/), "Where the American Dream Begins: How Does Contact with Street-Level Bureaucrats Impact Political Attitudes among Immigrants?"
+- [Samantha Chapa](https://samantha-chapa.com/about-me), "Immigrant Inclusion: Urban Policy and Political Participation"
 
 ### January 22--TBA
 
