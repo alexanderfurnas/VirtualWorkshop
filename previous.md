@@ -7,6 +7,33 @@ A virtual workshop for American politics research.
 
 ### Find out more about our mini-conference at MPSA 2023 [*here*](/MPSACwC)
 
+## Fall 2024 Schedule
+
+### October 9--Federalism
+- [Lauren Futter](https://sites.google.com/view/laurenfutter/home?authuser=2), ["Welfare Devolution: Tool of Exclusion or Expansion?"](https://drive.google.com/file/d/1tbw_mPbrrLn6LFnv97DHSORzZe6nvG0Y/view)
+- [Shelby Shumard](https://www.shelbyshumard.com/home), ["﻿Are Federal Programs Constraining? Depends on the State"](https://drive.google.com/file/d/1z27QhFgXNlVClXJq6V5JVqRnQDxPNGXL/view)
+- [Register Here](https://trinity.zoom.us/meeting/register/tJwvcOihrzkqE9Q6KIDS3cxpe4o-kR0V314a#/registration)
+
+### October 23--Political Communication
+- [Paul Lendway](https://lendway.github.io/), "﻿Sermon Rhetoric and White Evangelical Support for the Republican Party"
+- [Andrew Trexler](https://atrexler.com/), "The Paradox of Consumer Demand for Under-informative News"
+- [Register Here](https://usc.zoom.us/meeting/register/tJctde-tqD8oHNSLXnw5oofW-qXx0Is5KmHo?_x_zm_rtaid=idLzCtlcTWWyKlFHXW680g.1728940921131.0d9f38889c53653939b2ebe9b7508ce3&_x_zm_rhtaid=695#/registration)
+
+### November 6--Methodological Advances in American Politics
+- [Elena Sirotkina](https://elenasirotkina.rocks/), ["When Picture is not Complete: Decoding Visual Sentiment of Political Imagery"](https://www.dropbox.com/scl/fi/64ccqq1g2zw2pezpyuzjy/Gasparyan-Sirotkina-Decoding-Visual-Sentiment-JAWS24.pdf?rlkey=xaibbu9qyuozkp5pmnv6fx1sa&e=2&st=vm0gvk8q&dl=0)
+- [Amanda Weiss](https://www.amandakweiss.com/), [How Much Should We Trust Modern Difference-in-Differences Estimates?](https://osf.io/preprints/osf/bqmws)
+- [Register Here](https://cornell.zoom.us/webinar/register/WN_0vk6RwHESdCtM68uBPG12Q#/registration)
+
+### November 20--REP and Congress
+- [Karra McCray Gibson](https://www.karramccraygibson.com/), "From Alliance to Action: How Ideological Caucuses Shape Bill Sponsorship of Congressional Black Caucus Members"
+- [Yulenni Venegas-Lopez](https://www.polisci.washington.edu/people/yulenni-venegas-lopez), "Representing the Real Latino Electorate: Far Right Latinas, Group Capture, and Alternate Visions of Latinidad"
+- [Register Here](https://trinity.zoom.us/meeting/register/tJcpdeqqpzsqE9Z66Xx2o7K2jhCCVcxcq03s)
+
+### December 4--Immigration
+- [Minhye Joo](https://minhyejoo.github.io/), "Where the American Dream Begins: How Does Contact with Street-Level Bureaucrats Impact Political Attitudes among Immigrants?"
+- [Samantha Chapa](https://samantha-chapa.com/about-me), "Immigrant Inclusion: Urban Policy and Political Participation"
+- [Register Here](https://usc.zoom.us/j/98880821211)vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+
 ## Spring 2024 Schedule
 
 ### February 14--Political Participation and Voting
