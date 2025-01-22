@@ -26,7 +26,7 @@ All Spring 2025 JAWS workshops will be held on Wednesdays, 3:00-4:30pm Eastern T
 
 ### February 5--Political Behavior
 - [Lucia Lopez](https://uh.edu/class/political-science/faculty-and-staff/teaching-assistants/), "Are Americans Unwilling to Move to States With Ideologically Extreme Social Policies?"
--[ Alice Malmberg](https://www.alicemalmberg.com/home), "Are Americans Unwilling to Move to States With Ideologically Extreme Social Policies?"
+- [Alice Malmberg](https://www.alicemalmberg.com/home), "Are Americans Unwilling to Move to States With Ideologically Extreme Social Policies?"
 -[Register Here](https://american.zoom.us/meeting/register/2tq0WER7SBe6K2-h71sJpg)
 
 ### February 19--Congress and Foreign Policy
