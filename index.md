@@ -20,18 +20,18 @@ We will try to match up discussants with papers based on subject area expertise 
 All Spring 2025 JAWS workshops will be held on Wednesdays, 3:00-4:30pm Eastern Time.
 
 ### January 22--Elections
--[Ian Shapiro](https://www.tnstate.edu/history/faculty/ishapiro.aspx), "The Social Origins of Split-Ticket Voting"
--[Sarah Waldfogel](https://www.swaldfogel.com/), "Recovering Voice: Is Out-Of-District Giving a Substitute for Local Political Participation"
+- [Ian Shapiro](https://www.tnstate.edu/history/faculty/ishapiro.aspx), "The Social Origins of Split-Ticket Voting"
+- [Sarah Waldfogel](https://www.swaldfogel.com/), "Recovering Voice: Is Out-Of-District Giving a Substitute for Local Political Participation"
 -[Register Here](https://american.zoom.us/meeting/register/MAyJYRMgR1SMHFXku1Sx1Q)
 
 ### February 5--Political Behavior
--[Lucia Lopez](https://uh.edu/class/political-science/faculty-and-staff/teaching-assistants/), "Are Americans Unwilling to Move to States With Ideologically Extreme Social Policies?"
--[Alice Malmberg](https://www.alicemalmberg.com/home), "Are Americans Unwilling to Move to States With Ideologically Extreme Social Policies?"
+- [Lucia Lopez](https://uh.edu/class/political-science/faculty-and-staff/teaching-assistants/), "Are Americans Unwilling to Move to States With Ideologically Extreme Social Policies?"
+-[ Alice Malmberg](https://www.alicemalmberg.com/home), "Are Americans Unwilling to Move to States With Ideologically Extreme Social Policies?"
 -[Register Here](https://american.zoom.us/meeting/register/2tq0WER7SBe6K2-h71sJpg)
 
 ### February 19--Congress and Foreign Policy
--[David Ebner](https://www.davidebner.net/), "At the Party’s Edge? Congress, Factions, and Foreign Policy Voting"
--[Florian Gawehns](https://gvpt.umd.edu/gradprofile/gawehns/florian), "Political Theater or Substantive Representation? Investigating Members of Congress’ Attention to Foreign Policy"
+- [David Ebner](https://www.davidebner.net/), "At the Party’s Edge? Congress, Factions, and Foreign Policy Voting"
+- [Florian Gawehns](https://gvpt.umd.edu/gradprofile/gawehns/florian), "Political Theater or Substantive Representation? Investigating Members of Congress’ Attention to Foreign Policy"
 -[Register Here](https://american.zoom.us/meeting/register/3qtRaofqR_GbTBRbB26Mlw)
 
 ## Contact Us
