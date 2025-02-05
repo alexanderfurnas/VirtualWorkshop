@@ -34,6 +34,22 @@ All Spring 2025 JAWS workshops will be held on Wednesdays, 3:00-4:30pm Eastern T
 - [Florian Gawehns](https://gvpt.umd.edu/gradprofile/gawehns/florian), "Political Theater or Substantive Representation? Investigating Members of Congress’ Attention to Foreign Policy"
 - [Register Here](https://american.zoom.us/meeting/register/3qtRaofqR_GbTBRbB26Mlw)
 
+### March 5--TBD
+
+### March 19--TBD
+
+### April 9--Bureaucratic Representation
+- [Jen Wu](https://jenniferdwu.com/), "Descriptive Representation in the Bureaucracy"
+- [Elisa Blasingame](https://www.eliseblasingame.com/), "More Than a Feeling: The Substantive Effects of Native Bureaucrats and a Native Secretary of the Interior on Tribal Consultations"
+- [Register Here](https://american.zoom.us/meeting/register/vKJhY4zCSaGEoZ8EGENXeQ)
+
+### April 23--TBD
+
+### May 7--Voting
+- [Stephanie Schmitt](https://politicalscience.uiowa.edu/people/stephanie-schmitt), "Say Yes to Section 203: The Impact of Compliance on the Provision's Effectiveness"
+- [Jacob Harris](https://jacob-harris.com/), "Deferring Misdemeanor Convictions Increases Voter Turnout"
+- [Register Here](https://american.zoom.us/meeting/register/HUOlsJBGSam_51cOTzghYg)
+
 ## Contact Us
 Please reach out to any one of the organizing committee with any comments or questions at [jawspolisci@gmail.com](mailto:jawspolisci@gmail.com)
 
