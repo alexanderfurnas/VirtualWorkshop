@@ -34,7 +34,10 @@ All Spring 2025 JAWS workshops will be held on Wednesdays, 3:00-4:30pm Eastern T
 - [Florian Gawehns](https://gvpt.umd.edu/gradprofile/gawehns/florian), "Political Theater or Substantive Representation? Investigating Members of Congress’ Attention to Foreign Policy"
 - [Register Here](https://american.zoom.us/meeting/register/3qtRaofqR_GbTBRbB26Mlw)
 
-### March 5--TBD
+### March 5--Environmental Politics
+- [Nicholas Wittstock](https://nicolaswittstock.com/), "Green Growth in the American States"
+- [Victor Wu](https://victorywu.com/), "Partisan Energy Mix Priorities: Republicans Prioritize Price, Democrats Also Consider Renewables"
+- [Register Here](https://american.zoom.us/meeting/register/TQ6BUSW9RVOP1l27fVX2Xg)
 
 ### March 19--TBD
 
@@ -43,7 +46,10 @@ All Spring 2025 JAWS workshops will be held on Wednesdays, 3:00-4:30pm Eastern T
 - [Elisa Blasingame](https://www.eliseblasingame.com/), "More Than a Feeling: The Substantive Effects of Native Bureaucrats and a Native Secretary of the Interior on Tribal Consultations"
 - [Register Here](https://american.zoom.us/meeting/register/vKJhY4zCSaGEoZ8EGENXeQ)
 
-### April 23--TBD
+### April 23--Black Politics
+- [Curtis Edmonds](https://www.maxwell.syr.edu/academics/political-science/people/students/curtis-edmonds), TBD
+- [Arica Schuett](https://www.aricaschuett.com/), "Black Voter Subgroups & Declining Democratic Support"
+- [Register Here](https://american.zoom.us/meeting/register/WvUCxJb7R9GzHaF7a6-S_g)
 
 ### May 7--Voting
 - [Stephanie Schmitt](https://politicalscience.uiowa.edu/people/stephanie-schmitt), "Say Yes to Section 203: The Impact of Compliance on the Provision's Effectiveness"

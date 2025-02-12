@@ -32,7 +32,7 @@ A virtual workshop for American politics research.
 ### December 4--Immigration
 - [Minhye Joo](https://minhyejoo.github.io/), "Where the American Dream Begins: How Does Contact with Street-Level Bureaucrats Impact Political Attitudes among Immigrants?"
 - [Samantha Chapa](https://samantha-chapa.com/about-me), "Immigrant Inclusion: Urban Policy and Political Participation"
-- [Register Here](https://usc.zoom.us/j/98880821211)vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+- [Register Here](https://usc.zoom.us/j/98880821211)
 
 ## Spring 2024 Schedule
 
