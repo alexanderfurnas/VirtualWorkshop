@@ -30,7 +30,6 @@ All Spring 2025 JAWS workshops will be held on Wednesdays, 3:00-4:30pm Eastern T
 - [Register Here](https://american.zoom.us/meeting/register/2tq0WER7SBe6K2-h71sJpg)
 
 ### February 19--Congress and Foreign Policy
-- [David Ebner](https://www.davidebner.net/), "At the Party’s Edge? Congress, Factions, and Foreign Policy Voting"
 - [Florian Gawehns](https://gvpt.umd.edu/gradprofile/gawehns/florian), "Political Theater or Substantive Representation? Investigating Members of Congress’ Attention to Foreign Policy"
 - [Register Here](https://american.zoom.us/meeting/register/3qtRaofqR_GbTBRbB26Mlw)
 
@@ -39,7 +38,10 @@ All Spring 2025 JAWS workshops will be held on Wednesdays, 3:00-4:30pm Eastern T
 - [Victor Wu](https://victorywu.com/), "Partisan Energy Mix Priorities: Republicans Prioritize Price, Democrats Also Consider Renewables"
 - [Register Here](https://american.zoom.us/meeting/register/TQ6BUSW9RVOP1l27fVX2Xg)
 
-### March 19--TBD
+### March 19--Identity Politics
+- [Kay Hales](https://kayhales.github.io/), "Scale Development and Validation of the LGBTQ Linked Fate Scale"
+- [Nura Sedique](https://nurasediqe.com/), "'When you bleed, I bleed too': Religious Belief as a Psychological Resource: The Influence of Ummah Consciousness on Political Protest for Muslims in the United States"
+- [Register Here](https://american.zoom.us/meeting/register/Igzesio6SautBGbjwhh9rQ#/registration)
 
 ### April 9--Bureaucratic Representation
 - [Jen Wu](https://jenniferdwu.com/), "Descriptive Representation in the Bureaucracy"

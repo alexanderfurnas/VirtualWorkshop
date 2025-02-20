@@ -25,7 +25,6 @@ A virtual workshop for American politics research.
 - [Register Here](https://cornell.zoom.us/webinar/register/WN_0vk6RwHESdCtM68uBPG12Q#/registration)
 
 ### November 20--REP and Congress
-- [Karra McCray Gibson](https://www.karramccraygibson.com/), "From Alliance to Action: How Ideological Caucuses Shape Bill Sponsorship of Congressional Black Caucus Members"
 - [Yulenni Venegas-Lopez](https://www.polisci.washington.edu/people/yulenni-venegas-lopez), "Representing the Real Latino Electorate: Far Right Latinas, Group Capture, and Alternate Visions of Latinidad"
 - [Register Here](https://trinity.zoom.us/meeting/register/tJcpdeqqpzsqE9Z66Xx2o7K2jhCCVcxcq03s)
 
