@@ -49,7 +49,7 @@ All Spring 2025 JAWS workshops will be held on Wednesdays, 3:00-4:30pm Eastern T
 - [Register Here](https://american.zoom.us/meeting/register/vKJhY4zCSaGEoZ8EGENXeQ)
 
 ### April 23--Black Politics
-- [Curtis Edmonds](https://www.maxwell.syr.edu/academics/political-science/people/students/curtis-edmonds), TBD
+- [Curtis Edmonds](https://www.maxwell.syr.edu/academics/political-science/people/students/curtis-edmonds), "Sister Support: Black Women in Congress and Instrumental Committee Help Chapter"
 - [Arica Schuett](https://www.aricaschuett.com/), "Black Voter Subgroups & Declining Democratic Support"
 - [Register Here](https://american.zoom.us/meeting/register/WvUCxJb7R9GzHaF7a6-S_g)
 
