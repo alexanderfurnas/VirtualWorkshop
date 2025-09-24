@@ -4,8 +4,8 @@ A virtual workshop for American politics research.
 ## Mission
 The Junior Americanist Workshop Series aims to provide an alternative opportunity for junior scholars (ABD grad students, post docs, and pre-tenure faculty) who study American politics (behavior or institutions) to present and get feedback on their work and to network with other scholars with similar interests.  While we focus on showcasing work from junior scholars, we welcome everyone (all ages/ranks/experience levels) to attend our events!
 
-## Spring 2025 Sign Up
-Use this Google form to apply to present your work, volunteer as a discussant, and/or sign up for our email list for the Spring 2025 semester! [*Sign up here!*](https://forms.gle/2DnBmrHNWReqJC588)
+## Fall 2025 Sign Up
+Use this Google form to apply to present your work, volunteer as a discussant, and/or sign up for our email list for the Fall 2025 semester! [*Sign up here!*](https://forms.gle/uBFz9xDwvG5zzdsq6)
 
 ## Format
 The workshop provides the opportunity for junior Americanist scholars to present their work and receive feedback.  Our current research workshop format is 90 minutes per session featuring 2 papers, each of which is allotted 45 minutes.  In each 45 minute block, authors present their paper for 20-25 minutes, discussants offer comments for 5-10 minutes, and the balance of the time is reserved for audience questions. 
@@ -17,46 +17,12 @@ We will try to match up discussants with papers based on subject area expertise 
 *Please note:* We strongly encourage participants to read the presenters' papers in advance of the session.  We will circulate these papers via email at least one week in advance of the session.  We will allocate at least 10-15 minutes to audience Q & A after each presentation to provide an opportunity for you to share feedback.
 
 ## Spring 2025 Research Workshop Schedule
-All Spring 2025 JAWS workshops will be held on Wednesdays, 3:00-4:30pm Eastern Time.
+All Fall 2025 JAWS workshops will be held on Wednesdays, 1:00-2:30pm Eastern Time.
 
-### January 22--Elections
-- [Ian Shapiro](https://www.tnstate.edu/history/faculty/ishapiro.aspx), "The Social Origins of Split-Ticket Voting" (Discussant: Nick Davis)
-- [Sarah Waldfogel](https://www.swaldfogel.com/), "Recovering Voice: Is Out-Of-District Giving a Substitute for Local Political Participation" (Discussant: Dan Jones)
-- [Register Here](https://american.zoom.us/meeting/register/MAyJYRMgR1SMHFXku1Sx1Q)
-
-### February 5--Political Behavior
-- [Lucia Lopez](https://uh.edu/class/political-science/faculty-and-staff/teaching-assistants/), "Are Americans Unwilling to Move to States With Ideologically Extreme Social Policies?" (Discussant: Anne Whitesell)
-- [Alice Malmberg](https://www.alicemalmberg.com/home), "Are Americans Unwilling to Move to States With Ideologically Extreme Social Policies?" (Discussant: Sean Westwood)
-- [Register Here](https://american.zoom.us/meeting/register/2tq0WER7SBe6K2-h71sJpg)
-
-### February 19--Congress and Foreign Policy
-- [Florian Gawehns](https://gvpt.umd.edu/gradprofile/gawehns/florian), "Political Theater or Substantive Representation? Investigating Members of Congress’ Attention to Foreign Policy" (Discussants: Sarah Binder and Jordan Tama)
-- [Register Here](https://american.zoom.us/meeting/register/3qtRaofqR_GbTBRbB26Mlw)
-
-### March 5--Environmental Politics
-- [Nicholas Wittstock](https://nicolaswittstock.com/), "Green Growth in the American States" (Discussant: Barry Rabe)
-- [Victor Wu](https://victorywu.com/), "Partisan Energy Mix Priorities: Republicans Prioritize Price, Democrats Also Consider Renewables" (Discussant: Talbot Andrews)
-- [Register Here](https://american.zoom.us/meeting/register/TQ6BUSW9RVOP1l27fVX2Xg)
-
-### March 19--Identity Politics
-- [Kay Hales](https://kayhales.github.io/), "Scale Development and Validation of the LGBTQ Linked Fate Scale" (Discussant: Andrew Flores)
-- [Nura Sedique](https://nurasediqe.com/), "'When you bleed, I bleed too': Religious Belief as a Psychological Resource: The Influence of Ummah Consciousness on Political Protest for Muslims in the United States" (Discussant: Eric McDaniel)
-- [Register Here](https://american.zoom.us/meeting/register/Igzesio6SautBGbjwhh9rQ#/registration)
-
-### April 9--Bureaucratic Representation
-- [Jen Wu](https://jenniferdwu.com/), "Descriptive Representation in the Bureaucracy" (Discussant: William Resh)
-- [Elisa Blasingame](https://www.eliseblasingame.com/), "More Than a Feeling: The Substantive Effects of Native Bureaucrats and a Native Secretary of the Interior on Tribal Consultations" (Discussant: Rachel Potter)
-- [Register Here](https://american.zoom.us/meeting/register/vKJhY4zCSaGEoZ8EGENXeQ)
-
-### April 23--Black Politics
-- [Curtis Edmonds](https://www.maxwell.syr.edu/academics/political-science/people/students/curtis-edmonds), "Sister Support: Black Women in Congress and Instrumental Committee Help Chapter" (Discussant: Christian Hosam)
-- [Arica Schuett](https://www.aricaschuett.com/), "Black Voter Subgroups & Declining Democratic Support" (Discussant: Ismail White)
-- [Register Here](https://american.zoom.us/meeting/register/WvUCxJb7R9GzHaF7a6-S_g)
-
-### May 7--Voting
-- [Stephanie Schmitt](https://politicalscience.uiowa.edu/people/stephanie-schmitt), "Say Yes to Section 203: The Impact of Compliance on the Provision's Effectiveness" (Discussant: Roberto Carlos)
-- [Jacob Harris](https://jacob-harris.com/), "Deferring Misdemeanor Convictions Increases Voter Turnout" (Discussant: Kevin Morris)
-- [Register Here](https://american.zoom.us/meeting/register/HUOlsJBGSam_51cOTzghYg)
+### October 1--Voting and Elections
+- [Pei-Hsun Hsieh](https://phsieh.com/), ["Concentrated but Misaligned: Trends in Voter Agreement on Party Ideology in the United States, 1972–2020"](https://drive.google.com/file/d/1fVUAsg0HjWyhRMNvWfPHSPYoKaIE70jO/view?usp=sharing) (Discussant: Robin Best)
+- [Graham Straus](https://www.grahamstraus.com/), ["The Effect of Income on Turnout: Evidence from Public Salary Records and Administrative Voting Data"](https://drive.google.com/file/d/1mhvrVi5NPC6HCtAxqMaYvF2fB7Hdh59C/view?usp=sharing) (Discussant: Brian Hamel)
+- [Register Here](https://american.zoom.us/meeting/register/7X3zllywSIyO8FaGkyAnFw)
 
 ## Contact Us
 Please reach out to any one of the organizing committee with any comments or questions at [jawspolisci@gmail.com](mailto:jawspolisci@gmail.com)
@@ -68,19 +34,20 @@ Please reach out to any one of the organizing committee with any comments or que
 - Amanda Sahar d’Urso (Georgetown University)
 
 #### Organization Board Members:
-- Austin Bussing (Trinity University)
-- Raquel Centeno (University of Southern California)
+- Raquel Centeno (California Institute of Technology)
 - Erin Cikanek (Cornell University)
-- SoRelle Wyckoff Gaynor (College of the Holy Cross)
-- Rachel Porter (University of Notre Dame)
+- Gabriel Foy-Sutherland (APSA Congressional Fellow)
+- SoRelle Wyckoff Gaynor (University of Virginia)
 - Hillary Style (Coastal Carolina University)
 - Laura Uribe (University of California, San Diego) 
 
 #### Emeritus Organizers
+- Austin Bussing (Trinity University)
 - Leah Christiani (Hunter College)
 - Zander Furnas (Northwestern University)
 - Christina Ladam (University of Oklahoma)
 - Josh McCrain (University of Utah)
+- Rachel Porter (University of Notre Dame)
 
 ## Past Programming 
 
