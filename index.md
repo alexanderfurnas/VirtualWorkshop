@@ -17,12 +17,23 @@ We will try to match up discussants with papers based on subject area expertise 
 *Please note:* We strongly encourage participants to read the presenters' papers in advance of the session.  We will circulate these papers via email at least one week in advance of the session.  We will allocate at least 10-15 minutes to audience Q & A after each presentation to provide an opportunity for you to share feedback.
 
 ## Spring 2025 Research Workshop Schedule
-All Fall 2025 JAWS workshops will be held on Wednesdays, 1:00-2:30pm Eastern Time.
+All Fall 2025 JAWS workshops will be held on Wednesdays, 1:00-2:30pm Eastern Time unless otherwise noted.
 
 ### October 1--Voting and Elections
 - [Pei-Hsun Hsieh](https://phsieh.com/), ["Concentrated but Misaligned: Trends in Voter Agreement on Party Ideology in the United States, 1972–2020"](https://drive.google.com/file/d/1fVUAsg0HjWyhRMNvWfPHSPYoKaIE70jO/view?usp=sharing) (Discussant: Robin Best)
 - [Graham Straus](https://www.grahamstraus.com/), ["The Effect of Income on Turnout: Evidence from Public Salary Records and Administrative Voting Data"](https://drive.google.com/file/d/1mhvrVi5NPC6HCtAxqMaYvF2fB7Hdh59C/view?usp=sharing) (Discussant: Brian Hamel)
 - [Register Here](https://american.zoom.us/meeting/register/7X3zllywSIyO8FaGkyAnFw)
+
+### October 15--The Online Electoral Connection (3:00-4:30pm Eastern Time)
+
+- [Annie Jarman](https://anniejarman.github.io/), ["Toll of Trolls: Online Hostility Isn't Pushing Women out Of Office"](https://anniejarman.github.io/JMP.pdf) (Discussant: Mirya Holman)
+- [Samantha Register](https://samregister.github.io/), ["Not Me, Us: Political Parasocial Relationships in the Digital Age"](https://drive.google.com/file/d/1VRLGjh9Pu53t5DLwM3LN3KlnV-KpNH3w/view?usp=sharing) (Discussant: Tiago Ventura)
+- [Register Here](https://american.zoom.us/meeting/register/pWP_uiT8TXGUYQAZPa9VEw)
+
+### October 29--Shifts in Racial Liberalism and Class Politics
+- [Marco Aviña](https://www.marcomavina.com/), "The 'Great Awokening' Had a Strong Upper Class Accent"
+- [Jack Garigliano](https://jack-garigliano.github.io/), "Low-wage Work and Political Participation in the American Labor Market"
+- [Register Here](https://american.zoom.us/meeting/register/qg4SYVv8SUKTPxmDo6sUAQ)
 
 ## Contact Us
 Please reach out to any one of the organizing committee with any comments or questions at [jawspolisci@gmail.com](mailto:jawspolisci@gmail.com)
@@ -31,17 +42,17 @@ Please reach out to any one of the organizing committee with any comments or que
 - David Miller (American University)
 
 #### Associate Organizers: 
+- Raquel Centeno (California Institute of Technology)
 - Amanda Sahar d’Urso (Georgetown University)
+- SoRelle Wyckoff Gaynor (University of Virginia)
 
 #### Organization Board Members:
-- Raquel Centeno (California Institute of Technology)
 - Erin Cikanek (Cornell University)
 - Gabriel Foy-Sutherland (APSA Congressional Fellow)
-- SoRelle Wyckoff Gaynor (University of Virginia)
 - Hillary Style (Coastal Carolina University)
 - Laura Uribe (University of California, San Diego) 
 
-#### Emeritus Organizers
+#### Emeritus Organizers:
 - Austin Bussing (Trinity University)
 - Leah Christiani (Hunter College)
 - Zander Furnas (Northwestern University)
