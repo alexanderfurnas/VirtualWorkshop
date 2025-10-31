@@ -35,6 +35,16 @@ All Fall 2025 JAWS workshops will be held on Wednesdays, 1:00-2:30pm Eastern Tim
 - [Jack Garigliano](https://jack-garigliano.github.io/), "Low-wage Work and Political Participation in the American Labor Market"
 - [Register Here](https://american.zoom.us/meeting/register/qg4SYVv8SUKTPxmDo6sUAQ)
 
+### November 12--Web Campaigns
+- [Stephanie Mathiasen](https://stephaniemathiasen.com/), "Google It: Understanding Congressional Campaigns’ Use of Google Political Advertisements"
+- [Shun Yamaya](https://shunyamaya.com/), "How did the internet change campaign fundraising?"
+- [Register Here](https://american.zoom.us/meeting/register/V_7fUi5ZTi29MyMa18izig)
+
+### December 3--Congress
+- [Veronica Judson](https://www.veronicajjudson.com/), "Disrupting the Electoral Landscape: How Representatives Respond to Voter ID Laws"
+- [Rachel Yu](https://rachelqyu.github.io/), "Congressional Oversight Overseas"
+- [Register Here](https://american.zoom.us/meeting/register/mjHBjEmNTvei6BG6z0zrzg)
+
 ## Contact Us
 Please reach out to any one of the organizing committee with any comments or questions at [jawspolisci@gmail.com](mailto:jawspolisci@gmail.com)
 
