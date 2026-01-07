@@ -7,6 +7,33 @@ A virtual workshop for American politics research.
 
 ### Find out more about our mini-conference at MPSA 2023 [*here*](/MPSACwC)
 
+## Fall 2025 Schedule
+
+### October 1--Voting and Elections
+- [Pei-Hsun Hsieh](https://phsieh.com/), ["Concentrated but Misaligned: Trends in Voter Agreement on Party Ideology in the United States, 1972–2020"](https://drive.google.com/file/d/1fVUAsg0HjWyhRMNvWfPHSPYoKaIE70jO/view?usp=sharing) (Discussant: Robin Best)
+- [Graham Straus](https://www.grahamstraus.com/), ["The Effect of Income on Turnout: Evidence from Public Salary Records and Administrative Voting Data"](https://drive.google.com/file/d/1mhvrVi5NPC6HCtAxqMaYvF2fB7Hdh59C/view?usp=sharing) (Discussant: Brian Hamel)
+- [Register Here](https://american.zoom.us/meeting/register/7X3zllywSIyO8FaGkyAnFw)
+
+### October 15--The Online Electoral Connection (3:00-4:30pm Eastern Time)
+
+- [Annie Jarman](https://anniejarman.github.io/), ["Toll of Trolls: Online Hostility Isn't Pushing Women out Of Office"](https://anniejarman.github.io/JMP.pdf) (Discussant: Mirya Holman)
+- [Samantha Register](https://samregister.github.io/), ["Not Me, Us: Political Parasocial Relationships in the Digital Age"](https://drive.google.com/file/d/1VRLGjh9Pu53t5DLwM3LN3KlnV-KpNH3w/view?usp=sharing) (Discussant: Tiago Ventura)
+- [Register Here](https://american.zoom.us/meeting/register/pWP_uiT8TXGUYQAZPa9VEw)
+
+### October 29--Shifts in Racial Liberalism and Class Politics
+- [Marco Aviña](https://www.marcomavina.com/), "The 'Great Awokening' Had a Strong Upper Class Accent" (Discussant: Omar Wasow)
+- [Jack Garigliano](https://jack-garigliano.github.io/), "Low-wage Work and Political Participation in the American Labor Market" (Discussant: Nathan Kelly)
+- [Register Here](https://american.zoom.us/meeting/register/qg4SYVv8SUKTPxmDo6sUAQ)
+
+### November 12--Web Campaigns
+- [Stephanie Mathiasen](https://stephaniemathiasen.com/), "Google It: Understanding Congressional Campaigns’ Use of Google Political Advertisements" (Discussant: Travis Ridout)
+- [Register Here](https://american.zoom.us/meeting/register/V_7fUi5ZTi29MyMa18izig)
+
+### December 3--Congress
+- [Veronica Judson](https://www.veronicajjudson.com/), "Disrupting the Electoral Landscape: How Representatives Respond to Voter ID Laws" (Discussant: Michael Hamner)
+- [Rachel Yu](https://rachelqyu.github.io/), "Congressional Oversight Overseas" (Discussant: Sean Theriault)
+- [Register Here](https://american.zoom.us/meeting/register/mjHBjEmNTvei6BG6z0zrzg)
+
 ## Spring 2025 Schedule
 
 ### January 22--Elections

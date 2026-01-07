@@ -4,8 +4,8 @@ A virtual workshop for American politics research.
 ## Mission
 The Junior Americanist Workshop Series aims to provide an alternative opportunity for junior scholars (ABD grad students, post docs, and pre-tenure faculty) who study American politics (behavior or institutions) to present and get feedback on their work and to network with other scholars with similar interests.  While we focus on showcasing work from junior scholars, we welcome everyone (all ages/ranks/experience levels) to attend our events!
 
-## Fall 2025 Sign Up
-Use this Google form to apply to present your work, volunteer as a discussant, and/or sign up for our email list for the Fall 2025 semester! [*Sign up here!*](https://forms.gle/uBFz9xDwvG5zzdsq6)
+## Spring 2026 Sign Up
+Use this Google form to apply to present your work, volunteer as a discussant, and/or sign up for our email list for the Spring 2026 semester! [*Sign up here!*](https://forms.gle/ycMkdgCHKTTu8Wn1A)
 
 ## Format
 The workshop provides the opportunity for junior Americanist scholars to present their work and receive feedback.  Our current research workshop format is 90 minutes per session featuring 2 papers, each of which is allotted 45 minutes.  In each 45 minute block, authors present their paper for 20-25 minutes, discussants offer comments for 5-10 minutes, and the balance of the time is reserved for audience questions. 
@@ -16,34 +16,13 @@ We will try to match up discussants with papers based on subject area expertise 
 
 *Please note:* We strongly encourage participants to read the presenters' papers in advance of the session.  We will circulate these papers via email at least one week in advance of the session.  We will allocate at least 10-15 minutes to audience Q & A after each presentation to provide an opportunity for you to share feedback.
 
-## Spring 2025 Research Workshop Schedule
-All Fall 2025 JAWS workshops will be held on Wednesdays, 1:00-2:30pm Eastern Time unless otherwise noted.
+## Spring 2026 Research Workshop Schedule
+All Spring 2026 JAWS workshops will be held on Wednesdays, 1:00-2:30pm Eastern Time unless otherwise noted.
 
-### October 1--Voting and Elections
-- [Pei-Hsun Hsieh](https://phsieh.com/), ["Concentrated but Misaligned: Trends in Voter Agreement on Party Ideology in the United States, 1972–2020"](https://drive.google.com/file/d/1fVUAsg0HjWyhRMNvWfPHSPYoKaIE70jO/view?usp=sharing) (Discussant: Robin Best)
-- [Graham Straus](https://www.grahamstraus.com/), ["The Effect of Income on Turnout: Evidence from Public Salary Records and Administrative Voting Data"](https://drive.google.com/file/d/1mhvrVi5NPC6HCtAxqMaYvF2fB7Hdh59C/view?usp=sharing) (Discussant: Brian Hamel)
-- [Register Here](https://american.zoom.us/meeting/register/7X3zllywSIyO8FaGkyAnFw)
-
-### October 15--The Online Electoral Connection (3:00-4:30pm Eastern Time)
-
-- [Annie Jarman](https://anniejarman.github.io/), ["Toll of Trolls: Online Hostility Isn't Pushing Women out Of Office"](https://anniejarman.github.io/JMP.pdf) (Discussant: Mirya Holman)
-- [Samantha Register](https://samregister.github.io/), ["Not Me, Us: Political Parasocial Relationships in the Digital Age"](https://drive.google.com/file/d/1VRLGjh9Pu53t5DLwM3LN3KlnV-KpNH3w/view?usp=sharing) (Discussant: Tiago Ventura)
-- [Register Here](https://american.zoom.us/meeting/register/pWP_uiT8TXGUYQAZPa9VEw)
-
-### October 29--Shifts in Racial Liberalism and Class Politics
-- [Marco Aviña](https://www.marcomavina.com/), "The 'Great Awokening' Had a Strong Upper Class Accent"
-- [Jack Garigliano](https://jack-garigliano.github.io/), "Low-wage Work and Political Participation in the American Labor Market"
-- [Register Here](https://american.zoom.us/meeting/register/qg4SYVv8SUKTPxmDo6sUAQ)
-
-### November 12--Web Campaigns
-- [Stephanie Mathiasen](https://stephaniemathiasen.com/), "Google It: Understanding Congressional Campaigns’ Use of Google Political Advertisements"
-- [Shun Yamaya](https://shunyamaya.com/), "How did the internet change campaign fundraising?"
-- [Register Here](https://american.zoom.us/meeting/register/V_7fUi5ZTi29MyMa18izig)
-
-### December 3--Congress
-- [Veronica Judson](https://www.veronicajjudson.com/), "Disrupting the Electoral Landscape: How Representatives Respond to Voter ID Laws"
-- [Rachel Yu](https://rachelqyu.github.io/), "Congressional Oversight Overseas"
-- [Register Here](https://american.zoom.us/meeting/register/mjHBjEmNTvei6BG6z0zrzg)
+### January 21--Voting and Elections
+- [Anna Mikkelborg](https://annamikkelb.org/), "Ready or Not? Analyzing the intersection of race, gender, and partisanship across 24 candidate choice conjoint experiments"
+- [Alex Snipes](https://www.alexandrasnipes.com/), Which Extremist Nominees Are Punished? Evaluating the Effect of Ideology and Gender in General Elections
+- [Register Here](https://ucsd.zoom.us/meeting/register/uetCPzy1RH6tIBbTIWqE1A)
 
 ## Contact Us
 Please reach out to any one of the organizing committee with any comments or questions at [jawspolisci@gmail.com](mailto:jawspolisci@gmail.com)
