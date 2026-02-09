@@ -24,6 +24,36 @@ All Spring 2026 JAWS workshops will be held on Wednesdays, 1:00-2:30pm Eastern T
 - [Alex Snipes](https://www.alexandrasnipes.com/), Which Extremist Nominees Are Punished? Evaluating the Effect of Ideology and Gender in General Elections
 - [Register Here](https://ucsd.zoom.us/meeting/register/uetCPzy1RH6tIBbTIWqE1A)
 
+### February 18: Coalitions in Congress
+- [Jacob Ausubel](https://jacobausubel.github.io/), "Strategic Silence: Why Republican Politicians Avoided Making Statements about the 2020 Elections"
+- [Andre Van Parys](https://www.andrevanparys.com/), "The Shadow of Influence: Agenda Setting, Vote Buying, and Legislative Coalitions"
+- [Register Here](https://virginia.zoom.us/meeting/register/a-gL8fuqS8qwHnjZ8eL3zg#/registration)
+
+### March 4: Public Opinion
+- [Daniella P. Alva](https://www.daniellapalva.com/), "The Role of Personal Experience in Uncovering and Shifting Inequality Beliefs and its Link to Inequality Attitudes and Redistribution"
+- [Eric G. Scheuch](https://www.ericscheuch.org/), "From Impact to Attitude: Untangling the Mechanisms Between Climate Shocks and Climate Attitudes"
+- [Register Here](https://virginia.zoom.us/meeting/register/4g38ikdRRCC-ilY3m3FmxA#/registration)
+
+### March 18: Executive Politics
+- [Karla Magana](https://lsa.umich.edu/polisci/people/graduate-students/karla-magana.html), "Racialization and Perceived Institutional Ideology" (with Devin Judge-Lord)
+- [Lauren Mattioli](https://sites.bu.edu/laurenmattioli/), "Appointments and Influence: Judicial Agenda Setting Across Three Presidential Administrations"
+- [Register Here](https://virginia.zoom.us/meeting/register/h-qDzdWMSOOm_0Mnni3cwQ#/registration)
+
+### April 1: State and Local Elections
+- [Zach Baum](https://polisci.rutgers.edu/people/department-directory/details/237-2025-phd-graduate-cohort/2019-baum-zachary), "When QTPOC Run, QTPOC Win: Intersectional Ambition and the Fight for State Legislative Power in America"
+- [Joshua Ferrer](https://www.joshuaferrer.com/), "Partisanship in Local Bureaucratic Appointments: Evidence from Election Administration"
+- [Register Here](https://virginia.zoom.us/meeting/register/lpNtRNNDTeajhqFQkeIeUg#/registration)
+
+### April 15: Identity in Congress
+- [Isaiah C. Johnson](https://politics.princeton.edu/people/isaiah-johnson), "Measuring Racial Competence with Machine Learning: Evidence from Congressional Committees"
+- [Songeun Emily Lee](https://songeunemilylee.com/), "What Longer Survival Conceals: Race and Women’s Congressional Tenure"
+- [Register Here](https://virginia.zoom.us/meeting/register/LVNwL6zFQA-8y5Y_ALboMA?_x_zm_rtaid=VzJiZzt8SJirMEHEXDA3Hg.1770667278163.969f1908be5842fca8f21f98a011de1e&_x_zm_rhtaid=145#/registration)
+
+### May 6: Endorsements and Interest Groups
+- [Irene Barrios](https://www.ireneabarrios.com/), "The Allyship Gap: Racial Trust and Representation in the Aftermath of Black Lives Matter"
+- [Jack Eicholz](https://www.linkedin.com/in/jackeichholz/), "Primed for Success: Party Elite Endorsement Effects in House Primary Elections"
+- [Register Here](https://virginia.zoom.us/meeting/register/hV7xsmX8QuWN0RWvuU1wfQ?_x_zm_rtaid=VzJiZzt8SJirMEHEXDA3Hg.1770667278163.969f1908be5842fca8f21f98a011de1e&_x_zm_rhtaid=145#/registration)
+
 ## Contact Us
 Please reach out to any one of the organizing committee with any comments or questions at [jawspolisci@gmail.com](mailto:jawspolisci@gmail.com)
 
