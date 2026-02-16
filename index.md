@@ -25,7 +25,7 @@ All Spring 2026 JAWS workshops will be held on Wednesdays, 1:00-2:30pm Eastern T
 - [Register Here](https://ucsd.zoom.us/meeting/register/uetCPzy1RH6tIBbTIWqE1A)
 
 ### February 18: Coalitions in Congress
-- [Jacob Ausubel](https://jacobausubel.github.io/), ["Strategic Silence: Why Republican Politicians Avoided Making Statements about the 2020 Elections"](https://drive.google.com/file/d/1ytRzIC3s38y9szlSHqV7smmAG1Q77Ngq/view?usp=sharing)
+- [Jacob Ausubel](https://jacobausubel.github.io/), ["Strategic Silence: Why Republican Politicians Avoided Making Statements about the 2020 Election"](https://drive.google.com/file/d/1ytRzIC3s38y9szlSHqV7smmAG1Q77Ngq/view?usp=sharing)
 - [Andre Van Parys](https://www.andrevanparys.com/), ["The Shadow of Influence: Agenda Setting, Vote Buying, and Legislative Coalitions"](https://drive.google.com/file/d/1jCAo4UOFrsmPZ0ZwF1ZD7zOx7R4C9jok/view?usp=sharing)
 - [Register Here](https://virginia.zoom.us/meeting/register/a-gL8fuqS8qwHnjZ8eL3zg#/registration)
 
