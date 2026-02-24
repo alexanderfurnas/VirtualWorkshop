@@ -30,8 +30,8 @@ All Spring 2026 JAWS workshops will be held on Wednesdays, 1:00-2:30pm Eastern T
 - [Register Here](https://virginia.zoom.us/meeting/register/a-gL8fuqS8qwHnjZ8eL3zg#/registration)
 
 ### March 4: Public Opinion
-- [Daniella P. Alva](https://www.daniellapalva.com/), "The Role of Personal Experience in Uncovering and Shifting Inequality Beliefs and its Link to Inequality Attitudes and Redistribution"
-- [Eric G. Scheuch](https://www.ericscheuch.org/), "From Impact to Attitude: Untangling the Mechanisms Between Climate Shocks and Climate Attitudes"
+- [Daniella P. Alva](https://www.daniellapalva.com/), ["The Role of Personal Experience in Uncovering and Shifting Inequality Beliefs and its Link to Inequality Attitudes and Redistribution"](https://drive.google.com/file/d/18FlNip3AjD5UW9GhH70kUTHI46s-vLH3/view)
+- [Eric G. Scheuch](https://www.ericscheuch.org/), ["From Impact to Attitude: Untangling the Mechanisms Between Climate Shocks and Climate Attitudes"](https://drive.google.com/file/d/1C93Z0d6_U0kb3Ztr0Lh1qFAH61Ug58Qf/view)
 - [Register Here](https://virginia.zoom.us/meeting/register/4g38ikdRRCC-ilY3m3FmxA#/registration)
 
 ### March 18: Executive Politics
