@@ -2,7 +2,7 @@
 A virtual workshop for American politics research.
 
 ## Mission
-The Junior Americanist Workshop Series aims to provide an alternative opportunity for junior scholars (ABD grad students, post docs, and pre-tenure faculty) who study American politics (behavior or institutions) to present and get feedback on their work and to network with other scholars with similar interests.  While we focus on showcasing work from junior scholars, we welcome everyone (all ages/ranks/experience levels) to attend our events! [Sign up for our newsletter here!] (https://preview.mailerlite.io/forms/365792/181726228282082508/share)
+The Junior Americanist Workshop Series aims to provide an alternative opportunity for junior scholars (ABD grad students, post docs, and pre-tenure faculty) who study American politics (behavior or institutions) to present and get feedback on their work and to network with other scholars with similar interests.  While we focus on showcasing work from junior scholars, we welcome everyone (all ages/ranks/experience levels) to attend our events! [Sign up for our newsletter here](https://preview.mailerlite.io/forms/365792/181726228282082508/share)!
 
 ## Format
 The workshop provides the opportunity for junior Americanist scholars to present their work and receive feedback.  We feature two papers per 90-minute session. Authors present their paper for 20-25 minutes, discussants offer comments for 5-10 minutes, and the balance of the time is reserved for audience questions. We strongly encourage participants to read the presenters' papers in advance of the session. 
