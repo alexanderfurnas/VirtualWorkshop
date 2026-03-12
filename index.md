@@ -20,23 +20,23 @@ All Spring 2026 JAWS workshops will be held on Wednesdays, 1:00-2:30pm Eastern T
 
 ### February 18: Coalitions in Congress
 - [Jacob Ausubel](https://jacobausubel.github.io/), ["Strategic Silence: Why Republican Politicians Avoided Making Statements about the 2020 Election"](https://drive.google.com/file/d/1ytRzIC3s38y9szlSHqV7smmAG1Q77Ngq/view?usp=sharing)
-- Discussant: Ruth Bloch Rubin, University of Chicago
+  - Discussant: Ruth Bloch Rubin, University of Chicago
 - [Andre Van Parys](https://www.andrevanparys.com/), ["The Shadow of Influence: Agenda Setting, Vote Buying, and Legislative Coalitions"](https://drive.google.com/file/d/1jCAo4UOFrsmPZ0ZwF1ZD7zOx7R4C9jok/view?usp=sharing)
-- Discussant: Jesse Crosson, Purdue University
+  - Discussant: Jesse Crosson, Purdue University
 - [Register Here](https://virginia.zoom.us/meeting/register/a-gL8fuqS8qwHnjZ8eL3zg#/registration)
 
 ### March 4: Public Opinion
 - [Daniella P. Alva](https://www.daniellapalva.com/), ["The Role of Personal Experience in Uncovering and Shifting Inequality Beliefs and its Link to Inequality Attitudes and Redistribution"](https://drive.google.com/file/d/18FlNip3AjD5UW9GhH70kUTHI46s-vLH3/view)
-- Meghan Condon, Loyola Univesity Chicago
+  - Discussant: Meghan Condon, Loyola Univesity Chicago
 - [Eric G. Scheuch](https://www.ericscheuch.org/), ["From Impact to Attitude: Untangling the Mechanisms Between Climate Shocks and Climate Attitudes"](https://drive.google.com/file/d/1C93Z0d6_U0kb3Ztr0Lh1qFAH61Ug58Qf/view)
-- Sara Hughes, RAND
+  - Discussant: Sara Hughes, RAND
 - [Register Here](https://virginia.zoom.us/meeting/register/4g38ikdRRCC-ilY3m3FmxA#/registration)
 
 ### March 18: Executive Politics
 - [Karla Magana](https://lsa.umich.edu/polisci/people/graduate-students/karla-magana.html), "Racialization and Perceived Institutional Ideology" (with Devin Judge-Lord)
-- Discussant: Mark Richardson, Georgetown University
+  - Discussant: Mark Richardson, Georgetown University
 - [Lauren Mattioli](https://sites.bu.edu/laurenmattioli/), "Appointments and Influence: Judicial Agenda Setting Across Three Presidential Administrations"
-- Discussant: Michael Nelson, Penn State
+  - Discussant: Michael Nelson, Penn State
 - [Register Here](https://virginia.zoom.us/meeting/register/h-qDzdWMSOOm_0Mnni3cwQ#/registration)
 
 ### April 1: State and Local Elections
@@ -46,9 +46,9 @@ All Spring 2026 JAWS workshops will be held on Wednesdays, 1:00-2:30pm Eastern T
 
 ### April 15: Identity in Congress
 - [Isaiah C. Johnson](https://politics.princeton.edu/people/isaiah-johnson), "Measuring Racial Competence with Machine Learning: Evidence from Congressional Committees"
-- Matthew Hayes, Washington University St. Louis
+  - Discussant: Matthew Hayes, Washington University St. Louis
 - [Songeun Emily Lee](https://songeunemilylee.com/), "What Longer Survival Conceals: Race and Women’s Congressional Tenure"
-- Paru Shah, Rutgers University
+  - Discussant: Paru Shah, Rutgers University
 - [Register Here](https://virginia.zoom.us/meeting/register/LVNwL6zFQA-8y5Y_ALboMA?_x_zm_rtaid=VzJiZzt8SJirMEHEXDA3Hg.1770667278163.969f1908be5842fca8f21f98a011de1e&_x_zm_rhtaid=145#/registration)
 
 ### May 6: Endorsements and Interest Groups
