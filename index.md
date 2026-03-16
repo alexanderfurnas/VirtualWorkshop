@@ -33,7 +33,7 @@ All Spring 2026 JAWS workshops will be held on Wednesdays, 1:00-2:30pm Eastern T
 - [Register Here](https://virginia.zoom.us/meeting/register/4g38ikdRRCC-ilY3m3FmxA#/registration)
 
 ### March 18: Executive Politics
-- [Karla Magana](https://lsa.umich.edu/polisci/people/graduate-students/karla-magana.html), "Racialization and Perceived Institutional Ideology" (with Devin Judge-Lord)
+- [Karla Magana](https://lsa.umich.edu/polisci/people/graduate-students/karla-magana.html), ["Racialization and Perceived Institutional Ideology"](https://drive.google.com/file/d/1dDDc41dgH3PtdxtE-iglb5g6h4n7IgBp/view?usp=sharing) (with Devin Judge-Lord)
   - Discussant: Mark Richardson, Georgetown University
 - [Lauren Mattioli](https://sites.bu.edu/laurenmattioli/), "Appointments and Influence: Judicial Agenda Setting Across Three Presidential Administrations"
   - Discussant: Michael Nelson, Penn State
@@ -41,7 +41,9 @@ All Spring 2026 JAWS workshops will be held on Wednesdays, 1:00-2:30pm Eastern T
 
 ### April 1: State and Local Elections
 - [Zach Baum](https://polisci.rutgers.edu/people/department-directory/details/237-2025-phd-graduate-cohort/2019-baum-zachary), "When QTPOC Run, QTPOC Win: Intersectional Ambition and the Fight for State Legislative Power in America"
+  - Discussant: Jenn Lawless, University of Virginia
 - [Joshua Ferrer](https://www.joshuaferrer.com/), "Partisanship in Local Bureaucratic Appointments: Evidence from Election Administration"
+  - Discussant: Jake Grumbach, UC Berkeley
 - [Register Here](https://virginia.zoom.us/meeting/register/lpNtRNNDTeajhqFQkeIeUg#/registration)
 
 ### April 15: Identity in Congress
