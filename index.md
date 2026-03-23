@@ -40,9 +40,9 @@ All Spring 2026 JAWS workshops will be held on Wednesdays, 1:00-2:30pm Eastern T
 - [Register Here](https://virginia.zoom.us/meeting/register/h-qDzdWMSOOm_0Mnni3cwQ#/registration)
 
 ### April 1: State and Local Elections
-- [Zach Baum](https://polisci.rutgers.edu/people/department-directory/details/237-2025-phd-graduate-cohort/2019-baum-zachary), "When QTPOC Run, QTPOC Win: Intersectional Ambition and the Fight for State Legislative Power in America"
+- [Zach Baum](https://polisci.rutgers.edu/people/department-directory/details/237-2025-phd-graduate-cohort/2019-baum-zachary), ["When QTPOC Run, QTPOC Win: Intersectional Ambition and the Fight for State Legislative Power in America"](https://drive.google.com/file/d/1--eV9sd05KCzuk88RkwjIr4CbnLx6HP-/view?usp=sharing)
   - Discussant: Jenn Lawless, University of Virginia
-- [Joshua Ferrer](https://www.joshuaferrer.com/), "Partisanship in Local Bureaucratic Appointments: Evidence from Election Administration"
+- [Joshua Ferrer](https://www.joshuaferrer.com/), ["Partisanship in Local Bureaucratic Appointments: Evidence from Election Administration"](https://drive.google.com/file/d/18w0SoquvPh3mM-hiCxx6usGClrUWwKg_/view?usp=sharing)
   - Discussant: Jake Grumbach, UC Berkeley
 - [Register Here](https://virginia.zoom.us/meeting/register/lpNtRNNDTeajhqFQkeIeUg#/registration)
 
