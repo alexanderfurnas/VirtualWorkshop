@@ -10,6 +10,8 @@ The workshop provides the opportunity for junior Americanist scholars to present
 If you are interested in presenting or serving as a discussant for future sessions, please email us at jawspolisci@gmail.com. In addition to article-length manuscripts, we also encourage the submission of well-developed pre-analysis plans and research designs. Submissions may be solo-authored or collaborative; if the submission is collaborative, we will give preference to those with junior scholars as coauthors.
 If you have a dream discussant you'd like for your paper, please tell us and we will do our best to make it happen!
 
+## Join  us at our MPSA meet-up! Friday, April 24, 7-9 pm at the Chicago Athletic Association Game Room (12 S Michigan Ave)
+
 ## Spring 2026 Research Workshop Schedule
 All Spring 2026 JAWS workshops will be held on Wednesdays, 1:00-2:30pm Eastern Time unless otherwise noted.
 
@@ -55,7 +57,9 @@ All Spring 2026 JAWS workshops will be held on Wednesdays, 1:00-2:30pm Eastern T
 
 ### May 6: Endorsements and Interest Groups
 - [Irene Barrios](https://www.ireneabarrios.com/), "The Allyship Gap: Racial Trust and Representation in the Aftermath of Black Lives Matter"
+  - Discussant: Julian Wamble, George Washington University   
 - [Jack Eicholz](https://www.linkedin.com/in/jackeichholz/), "Primed for Success: Party Elite Endorsement Effects in House Primary Elections"
+  - Discussant: Seth Hill, University of California, San Diego
 - [Register Here](https://virginia.zoom.us/meeting/register/hV7xsmX8QuWN0RWvuU1wfQ?_x_zm_rtaid=VzJiZzt8SJirMEHEXDA3Hg.1770667278163.969f1908be5842fca8f21f98a011de1e&_x_zm_rhtaid=145#/registration)
 
 ## Contact Us
