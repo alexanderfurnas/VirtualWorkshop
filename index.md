@@ -10,7 +10,8 @@ The workshop provides the opportunity for junior Americanist scholars to present
 If you are interested in presenting or serving as a discussant for future sessions, please email us at jawspolisci@gmail.com. In addition to article-length manuscripts, we also encourage the submission of well-developed pre-analysis plans and research designs. Submissions may be solo-authored or collaborative; if the submission is collaborative, we will give preference to those with junior scholars as coauthors.
 If you have a dream discussant you'd like for your paper, please tell us and we will do our best to make it happen!
 
-## Join  us at our MPSA meet-up! Friday, April 24, 7-9 pm at the Chicago Athletic Association Game Room (12 S Michigan Ave)
+## Join  us at our MPSA meet-up! 
+Come and go as you can: Friday, April 24, 7-9 pm at the Chicago Athletic Association Game Room (12 S Michigan Ave)
 
 ## Spring 2026 Research Workshop Schedule
 All Spring 2026 JAWS workshops will be held on Wednesdays, 1:00-2:30pm Eastern Time unless otherwise noted.
