@@ -59,7 +59,7 @@ All Spring 2026 JAWS workshops will be held on Wednesdays, 1:00-2:30pm Eastern T
 ### May 6: Endorsements and Interest Groups
 - [Irene Barrios](https://www.ireneabarrios.com/), "The Allyship Gap: Racial Trust and Representation in the Aftermath of Black Lives Matter"
   - Discussant: Julian Wamble, George Washington University   
-- [Jack Eicholz](https://www.linkedin.com/in/jackeichholz/), "Primed for Success: Party Elite Endorsement Effects in House Primary Elections" (https://drive.google.com/file/d/1j8_oMqrYjJ71cwpW7Ru6PegZwUXX2ExI/view?usp=sharing)
+- [Jack Eicholz](https://www.linkedin.com/in/jackeichholz/), ["Primed for Success: Party Elite Endorsement Effects in House Primary Elections"] (https://drive.google.com/file/d/1j8_oMqrYjJ71cwpW7Ru6PegZwUXX2ExI/view?usp=sharing)
   - Discussant: Seth Hill, University of California, San Diego
 - [Register Here](https://virginia.zoom.us/meeting/register/hV7xsmX8QuWN0RWvuU1wfQ?_x_zm_rtaid=VzJiZzt8SJirMEHEXDA3Hg.1770667278163.969f1908be5842fca8f21f98a011de1e&_x_zm_rhtaid=145#/registration)
 
