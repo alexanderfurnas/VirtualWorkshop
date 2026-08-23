@@ -7,99 +7,123 @@ A virtual workshop for American politics research.
 
 ### Find out more about our mini-conference at MPSA 2023 [*here*](/MPSACwC)
 
+## Spring 2026 Research Workshop Schedule
+
+### January 21--Voting and Elections
+- [Anna Mikkelborg](https://annamikkelb.org/), "Ready or Not? Analyzing the intersection of race, gender, and partisanship across 24 candidate choice conjoint experiments"
+- [Alex Snipes](https://www.alexandrasnipes.com/), Which Extremist Nominees Are Punished? Evaluating the Effect of Ideology and Gender in General Elections
+
+### February 18: Coalitions in Congress
+- [Jacob Ausubel](https://jacobausubel.github.io/), ["Strategic Silence: Why Republican Politicians Avoided Making Statements about the 2020 Election"](https://drive.google.com/file/d/1ytRzIC3s38y9szlSHqV7smmAG1Q77Ngq/view?usp=sharing)
+  - Discussant: Ruth Bloch Rubin, University of Chicago
+- [Andre Van Parys](https://www.andrevanparys.com/), ["The Shadow of Influence: Agenda Setting, Vote Buying, and Legislative Coalitions"](https://drive.google.com/file/d/1jCAo4UOFrsmPZ0ZwF1ZD7zOx7R4C9jok/view?usp=sharing)
+  - Discussant: Jesse Crosson, Purdue University
+
+### March 4: Public Opinion
+- [Daniella P. Alva](https://www.daniellapalva.com/), ["The Role of Personal Experience in Uncovering and Shifting Inequality Beliefs and its Link to Inequality Attitudes and Redistribution"](https://drive.google.com/file/d/18FlNip3AjD5UW9GhH70kUTHI46s-vLH3/view)
+  - Discussant: Meghan Condon, Loyola Univesity Chicago
+- [Eric G. Scheuch](https://www.ericscheuch.org/), ["From Impact to Attitude: Untangling the Mechanisms Between Climate Shocks and Climate Attitudes"](https://drive.google.com/file/d/1C93Z0d6_U0kb3Ztr0Lh1qFAH61Ug58Qf/view)
+  - Discussant: Sara Hughes, RAND
+
+### March 18: Executive Politics
+- [Karla Magana](https://lsa.umich.edu/polisci/people/graduate-students/karla-magana.html), ["Racialization and Perceived Institutional Ideology"](https://drive.google.com/file/d/1dDDc41dgH3PtdxtE-iglb5g6h4n7IgBp/view?usp=sharing) (with Devin Judge-Lord)
+  - Discussant: Mark Richardson, Georgetown University
+- [Lauren Mattioli](https://sites.bu.edu/laurenmattioli/), "Appointments and Influence: Judicial Agenda Setting Across Three Presidential Administrations"
+  - Discussant: Michael Nelson, Penn State
+
+### April 1: State and Local Elections
+- [Zach Baum](https://polisci.rutgers.edu/people/department-directory/details/237-2025-phd-graduate-cohort/2019-baum-zachary), ["When QTPOC Run, QTPOC Win: Intersectional Ambition and the Fight for State Legislative Power in America"](https://drive.google.com/file/d/1--eV9sd05KCzuk88RkwjIr4CbnLx6HP-/view?usp=sharing)
+  - Discussant: Jenn Lawless, University of Virginia
+- [Joshua Ferrer](https://www.joshuaferrer.com/), ["Partisanship in Local Bureaucratic Appointments: Evidence from Election Administration"](https://drive.google.com/file/d/18w0SoquvPh3mM-hiCxx6usGClrUWwKg_/view?usp=sharing)
+  - Discussant: Jake Grumbach, UC Berkeley
+
+### April 15: Identity in Congress
+- [Isaiah C. Johnson](https://politics.princeton.edu/people/isaiah-johnson), "Measuring Racial Competence with Machine Learning: Evidence from Congressional Committees"
+  - Discussant: Matthew Hayes, Washington University St. Louis
+- [Songeun Emily Lee](https://songeunemilylee.com/), "What Longer Survival Conceals: Race and Women’s Congressional Tenure"
+  - Discussant: Paru Shah, Rutgers University
+
+### May 6: Endorsements and Interest Groups
+- [Irene Barrios](https://www.ireneabarrios.com/), "The Allyship Gap: Racial Trust and Representation in the Aftermath of Black Lives Matter"
+  - Discussant: Julian Wamble, George Washington University   
+- [Jack Eicholz](https://www.linkedin.com/in/jackeichholz/), ["Primed for Success: Party Elite Endorsement Effects in House Primary Elections"](https://drive.google.com/file/d/1j8_oMqrYjJ71cwpW7Ru6PegZwUXX2ExI/view?usp=sharing)
+  - Discussant: Seth Hill, University of California, San Diego
+
 ## Fall 2025 Schedule
 
 ### October 1--Voting and Elections
 - [Pei-Hsun Hsieh](https://phsieh.com/), ["Concentrated but Misaligned: Trends in Voter Agreement on Party Ideology in the United States, 1972–2020"](https://drive.google.com/file/d/1fVUAsg0HjWyhRMNvWfPHSPYoKaIE70jO/view?usp=sharing) (Discussant: Robin Best)
 - [Graham Straus](https://www.grahamstraus.com/), ["The Effect of Income on Turnout: Evidence from Public Salary Records and Administrative Voting Data"](https://drive.google.com/file/d/1mhvrVi5NPC6HCtAxqMaYvF2fB7Hdh59C/view?usp=sharing) (Discussant: Brian Hamel)
-- [Register Here](https://american.zoom.us/meeting/register/7X3zllywSIyO8FaGkyAnFw)
 
 ### October 15--The Online Electoral Connection (3:00-4:30pm Eastern Time)
 
 - [Annie Jarman](https://anniejarman.github.io/), ["Toll of Trolls: Online Hostility Isn't Pushing Women out Of Office"](https://anniejarman.github.io/JMP.pdf) (Discussant: Mirya Holman)
 - [Samantha Register](https://samregister.github.io/), ["Not Me, Us: Political Parasocial Relationships in the Digital Age"](https://drive.google.com/file/d/1VRLGjh9Pu53t5DLwM3LN3KlnV-KpNH3w/view?usp=sharing) (Discussant: Tiago Ventura)
-- [Register Here](https://american.zoom.us/meeting/register/pWP_uiT8TXGUYQAZPa9VEw)
 
 ### October 29--Shifts in Racial Liberalism and Class Politics
 - [Marco Aviña](https://www.marcomavina.com/), "The 'Great Awokening' Had a Strong Upper Class Accent" (Discussant: Omar Wasow)
 - [Jack Garigliano](https://jack-garigliano.github.io/), "Low-wage Work and Political Participation in the American Labor Market" (Discussant: Nathan Kelly)
-- [Register Here](https://american.zoom.us/meeting/register/qg4SYVv8SUKTPxmDo6sUAQ)
 
 ### November 12--Web Campaigns
 - [Stephanie Mathiasen](https://stephaniemathiasen.com/), "Google It: Understanding Congressional Campaigns’ Use of Google Political Advertisements" (Discussant: Travis Ridout)
-- [Register Here](https://american.zoom.us/meeting/register/V_7fUi5ZTi29MyMa18izig)
 
 ### December 3--Congress
 - [Veronica Judson](https://www.veronicajjudson.com/), "Disrupting the Electoral Landscape: How Representatives Respond to Voter ID Laws" (Discussant: Michael Hamner)
 - [Rachel Yu](https://rachelqyu.github.io/), "Congressional Oversight Overseas" (Discussant: Sean Theriault)
-- [Register Here](https://american.zoom.us/meeting/register/mjHBjEmNTvei6BG6z0zrzg)
 
 ## Spring 2025 Schedule
 
 ### January 22--Elections
 - [Ian Shapiro](https://www.tnstate.edu/history/faculty/ishapiro.aspx), "The Social Origins of Split-Ticket Voting" (Discussant: Nick Davis)
 - [Sarah Waldfogel](https://www.swaldfogel.com/), "Recovering Voice: Is Out-Of-District Giving a Substitute for Local Political Participation" (Discussant: Dan Jones)
-- [Register Here](https://american.zoom.us/meeting/register/MAyJYRMgR1SMHFXku1Sx1Q)
 
 ### February 5--Political Behavior
 - [Lucia Lopez](https://uh.edu/class/political-science/faculty-and-staff/teaching-assistants/), "Are Americans Unwilling to Move to States With Ideologically Extreme Social Policies?" (Discussant: Anne Whitesell)
 - [Alice Malmberg](https://www.alicemalmberg.com/home), "Are Americans Unwilling to Move to States With Ideologically Extreme Social Policies?" (Discussant: Sean Westwood)
-- [Register Here](https://american.zoom.us/meeting/register/2tq0WER7SBe6K2-h71sJpg)
 
 ### February 19--Congress and Foreign Policy
 - [Florian Gawehns](https://gvpt.umd.edu/gradprofile/gawehns/florian), "Political Theater or Substantive Representation? Investigating Members of Congress’ Attention to Foreign Policy" (Discussants: Sarah Binder and Jordan Tama)
-- [Register Here](https://american.zoom.us/meeting/register/3qtRaofqR_GbTBRbB26Mlw)
 
 ### March 5--Environmental Politics
 - [Nicholas Wittstock](https://nicolaswittstock.com/), "Green Growth in the American States" (Discussant: Barry Rabe)
 - [Victor Wu](https://victorywu.com/), "Partisan Energy Mix Priorities: Republicans Prioritize Price, Democrats Also Consider Renewables" (Discussant: Talbot Andrews)
-- [Register Here](https://american.zoom.us/meeting/register/TQ6BUSW9RVOP1l27fVX2Xg)
 
 ### March 19--Identity Politics
 - [Kay Hales](https://kayhales.github.io/), "Scale Development and Validation of the LGBTQ Linked Fate Scale" (Discussant: Andrew Flores)
 - [Nura Sedique](https://nurasediqe.com/), "'When you bleed, I bleed too': Religious Belief as a Psychological Resource: The Influence of Ummah Consciousness on Political Protest for Muslims in the United States" (Discussant: Eric McDaniel)
-- [Register Here](https://american.zoom.us/meeting/register/Igzesio6SautBGbjwhh9rQ#/registration)
 
 ### April 9--Bureaucratic Representation
 - [Jen Wu](https://jenniferdwu.com/), "Descriptive Representation in the Bureaucracy" (Discussant: William Resh)
 - [Elisa Blasingame](https://www.eliseblasingame.com/), "More Than a Feeling: The Substantive Effects of Native Bureaucrats and a Native Secretary of the Interior on Tribal Consultations" (Discussant: Rachel Potter)
-- [Register Here](https://american.zoom.us/meeting/register/vKJhY4zCSaGEoZ8EGENXeQ)
 
 ### April 23--Black Politics
 - [Curtis Edmonds](https://www.maxwell.syr.edu/academics/political-science/people/students/curtis-edmonds), "Sister Support: Black Women in Congress and Instrumental Committee Help Chapter" (Discussant: Christian Hosam)
 - [Arica Schuett](https://www.aricaschuett.com/), "Black Voter Subgroups & Declining Democratic Support" (Discussant: Ismail White)
-- [Register Here](https://american.zoom.us/meeting/register/WvUCxJb7R9GzHaF7a6-S_g)
 
 ### May 7--Voting
 - [Stephanie Schmitt](https://politicalscience.uiowa.edu/people/stephanie-schmitt), "Say Yes to Section 203: The Impact of Compliance on the Provision's Effectiveness" (Discussant: Roberto Carlos)
 - [Jacob Harris](https://jacob-harris.com/), "Deferring Misdemeanor Convictions Increases Voter Turnout" (Discussant: Kevin Morris)
-- [Register Here](https://american.zoom.us/meeting/register/HUOlsJBGSam_51cOTzghYg)
 
 ## Fall 2024 Schedule
 
 ### October 9--Federalism
 - [Lauren Futter](https://sites.google.com/view/laurenfutter/home?authuser=2), ["Welfare Devolution: Tool of Exclusion or Expansion?"](https://drive.google.com/file/d/1tbw_mPbrrLn6LFnv97DHSORzZe6nvG0Y/view) (Discussant: Leah Rosenstiel)
 - [Shelby Shumard](https://www.shelbyshumard.com/home), ["﻿Are Federal Programs Constraining? Depends on the State"](https://drive.google.com/file/d/1z27QhFgXNlVClXJq6V5JVqRnQDxPNGXL/view) (Discussant: Sanford Gordon)
-- [Register Here](https://trinity.zoom.us/meeting/register/tJwvcOihrzkqE9Q6KIDS3cxpe4o-kR0V314a#/registration)
 
 ### October 23--Political Communication
 - [Paul Lendway](https://lendway.github.io/), "﻿Sermon Rhetoric and White Evangelical Support for the Republican Party" (Discussant: Joseph Prud'homme)
 - [Andrew Trexler](https://atrexler.com/), "The Paradox of Consumer Demand for Under-informative News" (Discussant: Yanna Krupnikov)
-- [Register Here](https://usc.zoom.us/meeting/register/tJctde-tqD8oHNSLXnw5oofW-qXx0Is5KmHo?_x_zm_rtaid=idLzCtlcTWWyKlFHXW680g.1728940921131.0d9f38889c53653939b2ebe9b7508ce3&_x_zm_rhtaid=695#/registration)
 
 ### November 6--Methodological Advances in American Politics
 - [Elena Sirotkina](https://elenasirotkina.rocks/), ["When Picture is not Complete: Decoding Visual Sentiment of Political Imagery"](https://www.dropbox.com/scl/fi/64ccqq1g2zw2pezpyuzjy/Gasparyan-Sirotkina-Decoding-Visual-Sentiment-JAWS24.pdf?rlkey=xaibbu9qyuozkp5pmnv6fx1sa&e=2&st=vm0gvk8q&dl=0) (Discussant: Jason Anastasopoulos)
 - [Amanda Weiss](https://www.amandakweiss.com/), [How Much Should We Trust Modern Difference-in-Differences Estimates?](https://osf.io/preprints/osf/bqmws) (Discussant: John Holbein)
-- [Register Here](https://cornell.zoom.us/webinar/register/WN_0vk6RwHESdCtM68uBPG12Q#/registration)
 
 ### November 20--REP and Congress
 - [Yulenni Venegas-Lopez](https://www.polisci.washington.edu/people/yulenni-venegas-lopez), "Representing the Real Latino Electorate: Far Right Latinas, Group Capture, and Alternate Visions of Latinidad" (Discussant: Cathy Wineinger)
-- [Register Here](https://trinity.zoom.us/meeting/register/tJcpdeqqpzsqE9Z66Xx2o7K2jhCCVcxcq03s)
 
 ### December 4--Immigration
 - [Minhye Joo](https://minhyejoo.github.io/), "Where the American Dream Begins: How Does Contact with Street-Level Bureaucrats Impact Political Attitudes among Immigrants?" (Discussant: Hannah Walker)
 - [Samantha Chapa](https://samantha-chapa.com/about-me), "Immigrant Inclusion: Urban Policy and Political Participation" (Discussant: Valerie Martinez-Ebers)
-- [Register Here](https://usc.zoom.us/j/98880821211)
 
 ## Spring 2024 Schedule
 
