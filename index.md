@@ -36,7 +36,7 @@ Please reach out to any one of the organizing committee with any comments or que
 - Laura Uribe (University of California, San Diego) 
 
 #### Emeritus Organizers:
-- Advisor: David Miller (American University)
+- Counselor to ExCom: David Miller (American University)
 - Austin Bussing (Trinity University)
 - Leah Christiani (Hunter College)
 - Zander Furnas (Northwestern University)
