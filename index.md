@@ -35,7 +35,7 @@ Zoe Walker, Rutgers University, "The American Dream and the American Dilemma: Ra
 Kevin Russell, Emory University, "The (Limited) Role of Income in Racial Inequality in Campaign Finance"
 
 **JAWS November: Local politics**\
-Wednesday, November 11, 2026\ 
+Wednesday, November 11, 2026\
 [Register here!](https://virginia.zoom.us/meeting/register/1BeMTnMtQi-0DiHsyRwwNw)
 
 E. Grant Baldwin, UCLA, "Municipal Policy Knowledge and the Limits of Local Democratic Accountability"
