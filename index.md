@@ -18,31 +18,31 @@ The workshop provides the opportunity for junior Americanist scholars to present
 ## Fall 2026 Schedule
 _All workshops are 1-2:30 ET on Zoom, unless otherwise noted._
 
-**JAWS September: Bureaucracies and Oversight**. 
-Wednesday, September 30, 2026. 
-[Register here!](https://virginia.zoom.us/meeting/register/OASuaDNKTgSIa-MiSW_0Sw). 
+**JAWS September: Bureaucracies and Oversight**\
+Wednesday, September 30, 2026\
+[Register here!](https://virginia.zoom.us/meeting/register/OASuaDNKTgSIa-MiSW_0Sw)\
 
-​Quinn Bornstein​, Georgetown University, "The Common Sense Part of it is Lacking: Agriculture Policy Feedback". 
--Discussant: Ryan Dawkins, Carleton College. 
-​Benjamin Kinnard​, University of Chicago, "Why Comment? Congressional Oversight and Agency Responsiveness in Notice-and-Comment Rulemaking". 
--Discussant: Rachel Potter, UVA. 
+​Quinn Bornstein​, Georgetown University, "The Common Sense Part of it is Lacking: Agriculture Policy Feedback"\
+-Discussant: Ryan Dawkins, Carleton College\
+​Benjamin Kinnard​, University of Chicago, "Why Comment? Congressional Oversight and Agency Responsiveness in Notice-and-Comment Rulemaking"\
+-Discussant: Rachel Potter, UVA
 
-**JAWS October: Racial and Ethnic Politics**. 
-Wednesday, October 21, 2026. 
-[Register here!](https://virginia.zoom.us/meeting/register/HMRJ0NWlS7CvZLg_bBPnXw). 
+**JAWS October: Racial and Ethnic Politics**\
+Wednesday, October 21, 2026\
+[Register here!](https://virginia.zoom.us/meeting/register/HMRJ0NWlS7CvZLg_bBPnXw)\
 
-Zoe Walker, Rutgers University, "The American Dream and the American Dilemma: Racism, Opportunity and Redistribution in Black Public Opinion". 
-Kevin Russell, Emory University, "The (Limited) Role of Income in Racial Inequality in Campaign Finance". 
+Zoe Walker, Rutgers University, "The American Dream and the American Dilemma: Racism, Opportunity and Redistribution in Black Public Opinion"\
+Kevin Russell, Emory University, "The (Limited) Role of Income in Racial Inequality in Campaign Finance"\
 
-**JAWS November: Local politics**. 
-Wednesday, November 11, 2026. 
-[Register here!](https://virginia.zoom.us/meeting/register/1BeMTnMtQi-0DiHsyRwwNw).    
+**JAWS November: Local politics**\
+Wednesday, November 11, 2026\ 
+[Register here!](https://virginia.zoom.us/meeting/register/1BeMTnMtQi-0DiHsyRwwNw)\   
 
-E. Grant Baldwin, UCLA, "Municipal Policy Knowledge and the Limits of Local Democratic Accountability". 
+E. Grant Baldwin, UCLA, "Municipal Policy Knowledge and the Limits of Local Democratic Accountability"
 
-**JAWS December: Social Media**. 
-Wednesday, December 2, 2026. 
-[Register here!](https://virginia.zoom.us/meeting/register/b95nwpTjQgCijUdJOJUQeQ). 
+**JAWS December: Social Media**\
+Wednesday, December 2, 2026\
+[Register here!](https://virginia.zoom.us/meeting/register/b95nwpTjQgCijUdJOJUQeQ)\
 
 Cecilia Y. Sui, Washington University at St. Louis, "Should Candidates Campaign Like Influencers? Evidence From 16,572 Instagram Reels and Two Generative AI Video Experiments". 
 
