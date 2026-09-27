@@ -15,6 +15,38 @@ If you would like to present your work at a future JAWS session or volunteer to 
 ## Format
 The workshop provides the opportunity for junior Americanist scholars to present their work and receive feedback.  We feature two papers per 90-minute session. Authors present their paper for 20-25 minutes, discussants offer comments for 5-10 minutes, and the balance of the time is reserved for audience questions. We strongly encourage participants to read the presenters' papers in advance of the session. 
 
+## Fall 2026 Schedule
+_All workshops are 1-2:30 ET on Zoom, unless otherwise noted._
+
+**JAWS September: Bureaucracies and Oversight**
+Wednesday, September 30, 2026
+[Register here!](https://virginia.zoom.us/meeting/register/OASuaDNKTgSIa-MiSW_0Sw)
+
+​Quinn Bornstein​, Georgetown University, "The Common Sense Part of it is Lacking: Agriculture Policy Feedback"
+-Discussant: Ryan Dawkins, Carleton College
+​Benjamin Kinnard​, University of Chicago, "Why Comment? Congressional Oversight and Agency Responsiveness in Notice-and-Comment Rulemaking"
+-Discussant: Rachel Potter, UVA
+
+**JAWS October: Racial and Ethnic Politics**
+Wednesday, October 21, 2026
+[Register here!](https://virginia.zoom.us/meeting/register/HMRJ0NWlS7CvZLg_bBPnXw)
+
+Zoe Walker, Rutgers University, "The American Dream and the American Dilemma: Racism, Opportunity and Redistribution in Black Public Opinion"
+Kevin Russell, Emory University, "The (Limited) Role of Income in Racial Inequality in Campaign Finance"
+
+**JAWS November: Local politics**
+Wednesday, November 11, 2026
+[Register here!](https://virginia.zoom.us/meeting/register/1BeMTnMtQi-0DiHsyRwwNw) 
+
+E. Grant Baldwin, UCLA, "Municipal Policy Knowledge and the Limits of Local Democratic Accountability"
+
+**JAWS December: Social Media**
+Wednesday, Deceember 2, 2026
+[Register here!](https://virginia.zoom.us/meeting/register/b95nwpTjQgCijUdJOJUQeQ)
+
+Cecilia Y. Sui, Washington University at St. Louis, "Should Candidates Campaign Like Influencers? Evidence From 16,572 Instagram Reels and Two Generative AI Video Experiments"
+
+
 ## Past Programming 
 
 Previous JAWS programming and presented papers can be viewed [*here.*](/previous)
