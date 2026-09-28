@@ -22,9 +22,9 @@ _All workshops are 1-2:30 ET on Zoom, unless otherwise noted._
 Wednesday, September 30, 2026\
 [Register here!](https://virginia.zoom.us/meeting/register/OASuaDNKTgSIa-MiSW_0Sw)
 
-​Quinn Bornstein​, Georgetown University, "The Common Sense Part of it is Lacking: Agriculture Policy Feedback"\
+​Quinn Bornstein​, Georgetown University, ["The Common Sense Part of it is Lacking: Agriculture Policy Feedback"](https://drive.google.com/file/d/1hqORI1pK0pMKAmSvSCi5ooRlCS4D5JGn/view?usp=sharing)\
 -Discussant: Ryan Dawkins, Carleton College\
-​Benjamin Kinnard​, University of Chicago, "Why Comment? Congressional Oversight and Agency Responsiveness in Notice-and-Comment Rulemaking"\
+​Benjamin Kinnard​, University of Chicago, ["Why Comment? Congressional Oversight and Agency Responsiveness in Notice-and-Comment Rulemaking"](https://drive.google.com/file/d/1yozZyJ06Xu_lnWZVDrAVJhf4WXQqvNmI/view?usp=sharing)\
 -Discussant: Rachel Potter, UVA
 
 **JAWS October: Racial and Ethnic Politics**
@@ -38,13 +38,17 @@ Kevin Russell, Emory University, "The (Limited) Role of Income in Racial Inequal
 Wednesday, November 11, 2026\
 [Register here!](https://virginia.zoom.us/meeting/register/1BeMTnMtQi-0DiHsyRwwNw)
 
-E. Grant Baldwin, UCLA, "Municipal Policy Knowledge and the Limits of Local Democratic Accountability"
+E. Grant Baldwin, UCLA, "Municipal Policy Knowledge and the Limits of Local Democratic Accountability"\
+Gustavo Novoa, Princeton University, "Places or Faces?"
+
 
 **JAWS December: Social Media**\
 Wednesday, December 2, 2026\
 [Register here!](https://virginia.zoom.us/meeting/register/b95nwpTjQgCijUdJOJUQeQ)
 
-Cecilia Y. Sui, Washington University at St. Louis, "Should Candidates Campaign Like Influencers? Evidence From 16,572 Instagram Reels and Two Generative AI Video Experiments". 
+Cecilia Y. Sui, Washington University at St. Louis, "Should Candidates Campaign Like Influencers? Evidence From 16,572 Instagram Reels and Two Generative AI Video Experiments"\
+Francy Luna Diaz, University of Michigan, "Rumors Across Borders: How Transnational Ties and Social Media Shape Latino Belief in Misinformation and Support for Trump"
+
 
 
 ## Past Programming 
