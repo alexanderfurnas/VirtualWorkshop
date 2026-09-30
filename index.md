@@ -23,12 +23,11 @@ Wednesday, September 30, 2026\
 ​Benjamin Kinnard​, University of Chicago, ["Why Comment? Congressional Oversight and Agency Responsiveness in Notice-and-Comment Rulemaking"](https://drive.google.com/file/d/1yozZyJ06Xu_lnWZVDrAVJhf4WXQqvNmI/view?usp=sharing)\
 -Discussant: Rachel Potter, UVA
 
-**JAWS October: Racial and Ethnic Politics**
+**JAWS October: Public opinion and inequality**\
 Wednesday, October 21, 2026\
 [Register here!](https://virginia.zoom.us/meeting/register/HMRJ0NWlS7CvZLg_bBPnXw)
 
 Zoe Walker, Rutgers University, "The American Dream and the American Dilemma: Racism, Opportunity and Redistribution in Black Public Opinion"\
-Kevin Russell, Emory University, "The (Limited) Role of Income in Racial Inequality in Campaign Finance"
 
 **JAWS November: Local politics**\
 Wednesday, November 11, 2026\
