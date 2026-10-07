@@ -27,7 +27,7 @@ Wednesday, September 30, 2026\
 Wednesday, October 21, 2026\
 [Register here!](https://virginia.zoom.us/meeting/register/HMRJ0NWlS7CvZLg_bBPnXw)
 
-Zoe Walker, Rutgers University, "The American Dream and the American Dilemma: Racism, Opportunity and Redistribution in Black Public Opinion"\
+Zoe Walker, University of Rochester, "The American Dream and the American Dilemma: Racism, Opportunity and Redistribution in Black Public Opinion"\
 Ryan Mundy, UC Irvine, "Inherited Influence: The Political Giving of Billionaire Heirs"
 
 **JAWS November: Local politics**\
