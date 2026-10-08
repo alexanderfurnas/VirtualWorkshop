@@ -2,12 +2,12 @@
 A virtual workshop for American politics research.
 
 ## Mission
-The Junior Americanist Workshop Series provides opportunities for junior scholars (ABD grad students, post docs, and pre-tenure faculty) who study American politics (behavior or institutions) to present and get feedback on their work and to network with other scholars with similar interests.  While we focus on showcasing work from junior scholars, we welcome everyone (all ages/ranks/experience levels) to attend our events. 
+The Junior Americanist Workshop Series provides opportunities for junior scholars (ABD grad students, post docs, and pre-tenure faculty) who study American politics to present and get feedback on their work and to network with other scholars with similar interests.  While we focus on showcasing work from junior scholars, we welcome everyone to attend our events!
 
 Keep up with our work! [_Sign up for our newsletter_](https://junior-americanist-workshop-series.kit.com/b748b61125), or [_follow us on Bluesky_](https://bsky.app/profile/jawspolisci.bsky.social).
 
 ## Format
-The workshop provides the opportunity for junior Americanist scholars to present their work and receive feedback.  We feature two papers per 90-minute session. Authors present their paper for 20-25 minutes, discussants offer comments for 5-10 minutes, and the balance of the time is reserved for audience questions. We strongly encourage participants to read the presenters' papers in advance of the session. 
+We feature two papers per 90-minute session. Authors present their paper for 20-25 minutes, discussants offer comments for 5-10 minutes, and the balance of the time is reserved for audience questions. We strongly encourage participants to read the presenters' papers in advance of the session. 
 
 If you would like to present your work at a future JAWS session or volunteer to serve as a discussant, [_submit your info here!_](https://docs.google.com/forms/d/e/1FAIpQLSfRQhMgk38n9KS28kBfGfeQcE9lREXdPvYhK46YgyLczDeXWw/viewform?usp=dialog) 
 
