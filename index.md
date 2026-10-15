@@ -29,7 +29,7 @@ Wednesday, October 21, 2026\
 
 Zoe Walker, University of Rochester, "The American Dream and the American Dilemma: Racism, Opportunity and Redistribution in Black Public Opinion"\
 -Discussant: Katherine Tate, Brown University\
-Ryan Mundy, UC Irvine, "Inherited Influence: The Political Giving of Billionaire Heirs"\
+Ryan Mundy, UC Irvine, ["Inherited Influence: The Political Giving of Billionaire Heirs"](https://drive.google.com/file/d/1MU_VaSCHUoQ7lyRXUgHilsFs5TzlxIBl/view?usp=sharing)\
 -Discussant: Simon Weschle, University of North Carolina, Chapel Hill
 
 **JAWS November: Local politics**\
