@@ -36,7 +36,7 @@ Ryan Mundy, UC Irvine, ["Inherited Influence: The Political Giving of Billionair
 Wednesday, November 11, 2026\
 [Register here!](https://virginia.zoom.us/meeting/register/1BeMTnMtQi-0DiHsyRwwNw)
 
-E. Grant Baldwin, UCLA, "Municipal Policy Knowledge and the Limits of Local Democratic Accountability"\
+E. Grant Baldwin, UCLA, ["Municipal Policy Knowledge and the Limits of Local Democratic Accountability"](https://drive.google.com/file/d/18QljrexQnz2ANNJ41YQ61_Q1e3uBPNwZ/view?usp=sharing)\
 Gustavo Novoa, Princeton University, "Places or Faces?"
 
 
