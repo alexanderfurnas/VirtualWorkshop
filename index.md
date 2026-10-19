@@ -27,7 +27,7 @@ Wednesday, September 30, 2026\
 Wednesday, October 21, 2026\
 [Register here!](https://virginia.zoom.us/meeting/register/HMRJ0NWlS7CvZLg_bBPnXw)
 
-Zoe Walker, University of Rochester, "The American Dream and the American Dilemma: Racism, Opportunity and Redistribution in Black Public Opinion"\
+Zoe Walker, University of Rochester, ["The American Dream and the American Dilemma: Racism, Opportunity and Redistribution in Black Public Opinion"](https://drive.google.com/file/d/17PPx4V5qmPXluyhTlSyd79WfdUf2WJja/view?usp=sharing)\
 -Discussant: Katherine Tate, Brown University\
 Ryan Mundy, UC Irvine, ["Inherited Influence: The Political Giving of Billionaire Heirs"](https://drive.google.com/file/d/1MU_VaSCHUoQ7lyRXUgHilsFs5TzlxIBl/view?usp=sharing)\
 -Discussant: Simon Weschle, University of North Carolina, Chapel Hill
@@ -37,7 +37,7 @@ Wednesday, November 11, 2026\
 [Register here!](https://virginia.zoom.us/meeting/register/1BeMTnMtQi-0DiHsyRwwNw)
 
 E. Grant Baldwin, UCLA, ["Municipal Policy Knowledge and the Limits of Local Democratic Accountability"](https://drive.google.com/file/d/18QljrexQnz2ANNJ41YQ61_Q1e3uBPNwZ/view?usp=sharing)\
-Gustavo Novoa, Princeton University, "Places or Faces?"
+
 
 
 **JAWS December: Social Media**\
