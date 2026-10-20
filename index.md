@@ -37,8 +37,9 @@ Wednesday, November 11, 2026\
 [Register here!](https://virginia.zoom.us/meeting/register/1BeMTnMtQi-0DiHsyRwwNw)
 
 E. Grant Baldwin, UCLA, ["Municipal Policy Knowledge and the Limits of Local Democratic Accountability"](https://drive.google.com/file/d/18QljrexQnz2ANNJ41YQ61_Q1e3uBPNwZ/view?usp=sharing)\
-Matthew Zinno, Brown University, "Forum Shopping Against the Federal Government: Interest Groups, States, and Local Governments"
-
+-Discussant: Michael Hankinson, George Washington University\
+Matthew Zinno, Brown University, "Forum Shopping Against the Federal Government: Interest Groups, States, and Local Governments"\
+-Paul Collins, University of Massachusetts Amherst
 
 **JAWS December: Social Media**\
 Wednesday, December 2, 2026\
