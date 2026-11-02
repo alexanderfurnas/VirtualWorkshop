@@ -39,7 +39,7 @@ Wednesday, November 11, 2026\
 E. Grant Baldwin, UCLA, ["Municipal Policy Knowledge and the Limits of Local Democratic Accountability"](https://drive.google.com/file/d/18QljrexQnz2ANNJ41YQ61_Q1e3uBPNwZ/view?usp=sharing)\
 -Discussant: Michael Hankinson, George Washington University\
 Matthew Zinno, Brown University, ["Counterpartisan Judge Shopping Against the Federal Government: Strategic Venue Selection by Resourced Litigants"](https://drive.google.com/file/d/1iKPUI4TCZF28KappPBk-yX5gtY9ar4Ee/view?usp=sharing)\
--Paul Collins, University of Massachusetts Amherst
+-Discussant: Paul Collins, University of Massachusetts Amherst
 
 **JAWS December: Social Media**\
 Wednesday, December 2, 2026\
