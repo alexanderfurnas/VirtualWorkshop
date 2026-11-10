@@ -42,7 +42,7 @@ Matthew Zinno, Brown University, ["Counterpartisan Judge Shopping Against the Fe
 -Discussant: Paul Collins, University of Massachusetts Amherst
 
 **JAWS December: Social Media**\
-Wednesday, December 2, 2026\
+Wednesday, December 9, 2026\
 [Register here!](https://virginia.zoom.us/meeting/register/b95nwpTjQgCijUdJOJUQeQ)
 
 Cecilia Y. Sui, Washington University at St. Louis, "Should Candidates Campaign Like Influencers? Evidence From 16,572 Instagram Reels and Two Generative AI Video Experiments"\
