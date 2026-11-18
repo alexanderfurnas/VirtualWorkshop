@@ -45,7 +45,7 @@ Matthew Zinno, Brown University, ["Counterpartisan Judge Shopping Against the Fe
 Wednesday, December 9, 2026\
 [Register here!](https://virginia.zoom.us/meeting/register/b95nwpTjQgCijUdJOJUQeQ)
 
-Cecilia Y. Sui, Washington University at St. Louis, "Should Candidates Campaign Like Influencers? Evidence From 16,572 Instagram Reels and Two Generative AI Video Experiments"\
+Cecilia Y. Sui, Washington University at St. Louis, ["Should Candidates Campaign Like Influencers? Evidence From 16,572 Instagram Reels and Two Generative AI Video Experiments"](https://drive.google.com/file/d/1lEOPy4SaqxlKWRusvuED5FydKz6weY71/view?usp=sharing) [(Appendix)](https://drive.google.com/file/d/1N-mesVm0ktxy2w3PU9lUCkZQU6tCrxEM/view)\
 Francy Luna Diaz, University of Michigan, "Rumors Across Borders: How Transnational Ties and Social Media Shape Latino Belief in Misinformation and Support for Trump"
 
 
